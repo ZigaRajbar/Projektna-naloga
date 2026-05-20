@@ -1,7 +1,6 @@
-from pridobi_podatke import podatki_s_spletne_strani
-import izlusci_podatke
-import uredi_podatke
+from pridobi_podatke import raw_podatki_s_spletne_strani
+from uredi_podatke import uredi_raw_podatke
 
-st_strani = 10
+stevilo_strani = 1
 
-print(podatki_s_spletne_strani(st_strani))
+print(uredi_raw_podatke(raw_podatki_s_spletne_strani(stevilo_strani)))
