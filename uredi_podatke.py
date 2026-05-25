@@ -24,7 +24,7 @@ def uredi_raw_podatke(podatki):
             r'style="font-size:16px;"></span><span>(\d{4})',
             podatki_oglasa,
         )
-        kilometrina = re.search(r"([\d.]+\skm)", podatki_oglasa)
+        kilometrina = re.search(r"([\d.]+\s)km", podatki_oglasa)
         vrsta_gorivca = re.search(
             r'style="font-size:16px;"></span><span>(\w{5}[\s\w]*)',
             podatki_oglasa,
@@ -39,18 +39,22 @@ def uredi_raw_podatke(podatki):
         cena = re.search(
             r'class="text-base\stext-gray-800\sfont-bold">(\d+[.\d]*)', podatki_oglasa
         )
+        prodajalec = re.search(r'phone="\w+">(\w+\s\w+)', podatki_oglasa)
 
         o_avtu = {
             "Ime": ime_avta.group(1) if ime_avta else None,
             "Znamka": ime_avta.group(1).split()[0],
-            "Letnik": letnik.group(1) if letnik else None,
+            "Letnik": int(letnik.group(1)) if letnik else None,
             "Prevoženi kilometri": (
-                kilometrina.group(1) if kilometrina else "Novo vozilo"
+                int(kilometrina.group(1).replace(".", ""))
+                if kilometrina
+                else "Novo vozilo"
             ),
             "Tip goriva": vrsta_gorivca.group(1) if vrsta_gorivca else None,
             "Tip menjalnika": menjalnik.group(1) if menjalnik else None,
-            "Moč motorja": moc_motorja.group(1) + "KM" if moc_motorja else None,
-            "Cena": cena.group(1) + " €" if cena else "Cena po dogovoru",
+            "Moč motorja": int(moc_motorja.group(1)) if moc_motorja else None,
+            "Cena": int(cena.group(1).replace(".", "")) if cena else "Cena po dogovoru",
+            "Prodajalec": prodajalec.group(1) if prodajalec else "Pravna oseba",
         }
 
         podatki_o_avtih.append(o_avtu)
@@ -68,10 +72,13 @@ def naredi_csv(podatki):
         "Tip menjalnika",
         "Moč motorja",
         "Cena",
+        "Prodajalec",
     ]
 
-    with open("Avti.csv", "w", encoding="utf-8", newline="") as f:
+    with open("avti.csv", "w", encoding="utf-8", newline="") as f:
         dodaj = csv.DictWriter(f, fieldnames=stolpci)
 
         dodaj.writeheader()
         dodaj.writerows(podatki)
+
+    return "Podatki uspešno urejeni!"

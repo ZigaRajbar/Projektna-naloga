@@ -1,16 +1,16 @@
-Ime,Znamka,Letnik,Prevoženi kilometri,Tip goriva,Tip menjalnika,Moč motorja,Cena
-VW Arteon,VW,2019,1 km,Dizel,Ročni,,Cena po dogovoru
-Renault Twingo,Renault,2019,110.000 km,Bencin,Ročni,,Cena po dogovoru
-BMW Serija 5,BMW,2012,293.200 km,Dizel,Avtomatski,,Cena po dogovoru
-BMW Serija 4,BMW,2018,177.000 km,Bencin,Ročni,,Cena po dogovoru
-VW Golf,VW,2022,75.137 km,Dizel,Avtomatski,,Cena po dogovoru
-Škoda Octavia,Škoda,2021,117.833 km,Dizel,Avtomatski,,23.500 €
-BMW Serija 5,BMW,2017,281.000 km,Dizel,Avtomatski,,Cena po dogovoru
-KG Mobility Korando,KG,2024,31.000 km,Bencin,Ročni,,17.690 €
-BMW Serija 5,BMW,2025,7.980 km,Hibrid,Avtomatski,,Cena po dogovoru
-Peugeot 5008,Peugeot,2022,133.500 km,Dizel,Avtomatski,,19.880 €
-Mercedes,Mercedes,2002,198.000 km,Bencin,Avtomatski,,Cena po dogovoru
-Ford S,Ford,2013,185.000 km,Dizel,Avtomatski,,6.980 €
-Ford Focus,Ford,2015,211.000 km,Bencin,Ročni,,11.990 €
-BMW Serija 5,BMW,2021,223.000 km,Dizel,Avtomatski,,Cena po dogovoru
-Citroën Nemo,Citroën,2010,160.000 km,Dizel,Ročni,,Cena po dogovoru
+Ime,Znamka,Letnik,Prevoženi kilometri,Tip goriva,Tip menjalnika,Moč motorja,Cena,Prodajalec
+Peugeot 3008,Peugeot,2017,220113,Bencin,Ročni,,8290,Pravna oseba
+Ford Ecosport,Ford,2020,66963,Bencin,Ročni,,10990,Pravna oseba
+VW Passat,VW,2018,191979,Dizel,Avtomatski,,14490,Pravna oseba
+BMW Serija 3,BMW,2017,172567,Dizel,Avtomatski,,14990,Pravna oseba
+KIA Stonic,KIA,2023,56238,Bencin,Ročni,,13990,Pravna oseba
+Škoda Octavia,Škoda,2023,123000,Dizel,Avtomatski,,19990,Pravna oseba
+BMW X3,BMW,2023,68335,Dizel,Avtomatski,,43990,Pravna oseba
+Peugeot 308,Peugeot,2025,31779,Bencin,Avtomatski,,23400,Pravna oseba
+Toyota AYGO X HYBRID,Toyota,2026,2295,Hibrid,,,Cena po dogovoru,Pravna oseba
+KIA ProCeed,KIA,2024,42030,Bencin,Avtomatski,,26490,Pravna oseba
+KIA Sportage,KIA,2021,70850,Bencin,Ročni,,16790,Pravna oseba
+Peugeot 2008,Peugeot,2018,69168,Bencin,Ročni,,Cena po dogovoru,Pravna oseba
+Citroën C5 Aircross,Citroën,2024,46500,Dizel,Avtomatski,,23490,Pravna oseba
+VW ID,VW,2023,29297,Električni pogon,Avtomatski,,23999,Pravna oseba
+Hyundai Kona,Hyundai,2022,104656,Električni pogon,Avtomatski,,Cena po dogovoru,Pravna oseba
