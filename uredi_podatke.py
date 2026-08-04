@@ -17,29 +17,46 @@ def uredi_raw_podatke(podatki):
         podatki_oglasa = str(avto)
 
         ime_avta = re.search(
-            r'class="order-2 line-clamp-2 text-lg font-bold text-gray-950">(\w+[\s\w\s\w]*)',
+            r'<h2[^>]*>\s*([^<]+)\s*</h2>',
             podatki_oglasa,
         )
+
         letnik = re.search(
-            r'style="font-size:16px;"></span><span>(\d{4})',
+            r'<span>((?:19|20)\d{2})</span>',
             podatki_oglasa,
         )
-        kilometrina = re.search(r"([\d.]+\s)km", podatki_oglasa)
-        vrsta_gorivca = re.search(
-            r'style="font-size:16px;"></span><span>(\w{5}[\s\w]*)',
+
+        kilometrina = re.search(
+            r'<span>([\d.]+)\s*km</span>',
             podatki_oglasa,
         )
+
+        vrsta_goriva = re.search(
+            r'<span>(Bencin|Dizel|Elektrika|Hibrid|Plin)</span>',
+            podatki_oglasa,
+        )
+
         menjalnik = re.search(
-            r"i-posting:auto-transmission.*?</span>\s*<span>(.*?)</span>",
+            r'<span>(Avtomatski|Ročni)</span>',
             podatki_oglasa,
         )
+
         moc_motorja = re.search(
-            r"i-posting:zap.*?</span>\s*<span>\d+\w+\s\((\d+)\)", podatki_oglasa
+            r'\((\d+)\s*KM\)',
+            podatki_oglasa,
         )
+
         cena = re.search(
-            r'class="text-base\stext-gray-800\sfont-bold">(\d+[.\d]*)', podatki_oglasa
+            r'class="(?:text-base text-gray-800 font-bold|'
+            r'text-brand-800 text-2xl font-bold)">'
+            r'(\d{1,3}(?:\.\d{3})*)',
+            podatki_oglasa,
         )
-        prodajalec = re.search(r'phone="\w+">(\w+\s\w+)', podatki_oglasa)
+
+        prodajalec = re.search(
+            r'phone="[^"]+"[^>]*>\s*([^<]+)',
+            podatki_oglasa,
+        )
 
         o_avtu = {
             "Ime": ime_avta.group(1) if ime_avta else None,
@@ -50,7 +67,7 @@ def uredi_raw_podatke(podatki):
                 if kilometrina
                 else "Novo vozilo"
             ),
-            "Tip goriva": vrsta_gorivca.group(1) if vrsta_gorivca else None,
+            "Tip goriva": vrsta_goriva.group(1) if vrsta_goriva else None,
             "Tip menjalnika": menjalnik.group(1) if menjalnik else None,
             "Moč motorja": int(moc_motorja.group(1)) if moc_motorja else None,
             "Cena": int(cena.group(1).replace(".", "")) if cena else "Cena po dogovoru",

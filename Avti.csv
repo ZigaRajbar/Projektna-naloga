@@ -1,16 +1,1493 @@
 Ime,Znamka,Letnik,Prevoženi kilometri,Tip goriva,Tip menjalnika,Moč motorja,Cena,Prodajalec
-Peugeot 3008,Peugeot,2017,220113,Bencin,Ročni,,8290,Pravna oseba
-Ford Ecosport,Ford,2020,66963,Bencin,Ročni,,10990,Pravna oseba
-VW Passat,VW,2018,191979,Dizel,Avtomatski,,14490,Pravna oseba
-BMW Serija 3,BMW,2017,172567,Dizel,Avtomatski,,14990,Pravna oseba
-KIA Stonic,KIA,2023,56238,Bencin,Ročni,,13990,Pravna oseba
-Škoda Octavia,Škoda,2023,123000,Dizel,Avtomatski,,19990,Pravna oseba
-BMW X3,BMW,2023,68335,Dizel,Avtomatski,,43990,Pravna oseba
-Peugeot 308,Peugeot,2025,31779,Bencin,Avtomatski,,23400,Pravna oseba
-Toyota AYGO X HYBRID,Toyota,2026,2295,Hibrid,,,Cena po dogovoru,Pravna oseba
-KIA ProCeed,KIA,2024,42030,Bencin,Avtomatski,,26490,Pravna oseba
-KIA Sportage,KIA,2021,70850,Bencin,Ročni,,16790,Pravna oseba
-Peugeot 2008,Peugeot,2018,69168,Bencin,Ročni,,Cena po dogovoru,Pravna oseba
-Citroën C5 Aircross,Citroën,2024,46500,Dizel,Avtomatski,,23490,Pravna oseba
-VW ID,VW,2023,29297,Električni pogon,Avtomatski,,23999,Pravna oseba
-Hyundai Kona,Hyundai,2022,104656,Električni pogon,Avtomatski,,Cena po dogovoru,Pravna oseba
+Renault Twingo,Renault,2019,110000,Bencin,Ročni,71,5700,Fizična oseba
+Ford Focus,Ford,2018,159000,Dizel,Ročni,95,7900,Fizična oseba
+Mercedes-Benz A-Razred,Mercedes-Benz,2008,213402,Bencin,Ročni,95,2490,Pravna oseba
+BMW X3,BMW,2018,175000,Dizel,Avtomatski,265,26950,Pravna oseba
+Škoda Scala,Škoda,2019,125040,Bencin,Ročni,116,9990,Pravna oseba
+Volkswagen Golf,Volkswagen,2025,23812,Bencin,Ročni,116,22480,Pravna oseba
+Volkswagen Passat Variant,Volkswagen,2022,127780,Dizel,Avtomatski,150,18980,Pravna oseba
+Volvo XC40,Volvo,2019,152104,Dizel,Avtomatski,150,18980,Pravna oseba
+Volkswagen T-Roc,Volkswagen,2022,128342,Dizel,Avtomatski,150,19880,Pravna oseba
+Volkswagen Touran,Volkswagen,2022,149096,Dizel,Avtomatski,150,20480,Pravna oseba
+Volvo XC60,Volvo,2021,135254,Dizel,Avtomatski,197,30980,Pravna oseba
+Audi Q5,Audi,2022,107318,Dizel,Avtomatski,204,32980,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2024,59002,Dizel,Avtomatski,150,32980,Pravna oseba
+BMW serija 3 Touring:,BMW,2021,160170,Dizel,Avtomatski,190,18980,Pravna oseba
+Volkswagen Passat Variant,Volkswagen,2023,134928,Dizel,Avtomatski,150,21980,Pravna oseba
+Volkswagen Passat Variant,Volkswagen,2022,130969,Dizel,Avtomatski,150,19980,Pravna oseba
+Volkswagen Passat Variant,Volkswagen,2024,79865,Bencin,Avtomatski,150,26980,Pravna oseba
+Volkswagen Golf Variant,Volkswagen,2022,144013,Dizel,Avtomatski,150,15980,Pravna oseba
+Volkswagen Golf Variant,Volkswagen,2023,136489,Dizel,Avtomatski,200,23980,Pravna oseba
+Volkswagen Arteon Shooting Brake,Volkswagen,2022,95689,Dizel,Avtomatski,150,24980,Pravna oseba
+Škoda Octavia,Škoda,2023,110761,Dizel,Avtomatski,200,25980,Pravna oseba
+Škoda Karoq,Škoda,2018,215823,Dizel,Ročni,116,12980,Pravna oseba
+MINI Cooper,MINI,2021,74001,,Avtomatski,184,15980,Pravna oseba
+Fiat 500X,Fiat,2019,84000,Bencin,Ročni,120,9980,Pravna oseba
+BYD ATTO 2,BYD,,Novo vozilo,Hibrid,Avtomatski,212,Cena po dogovoru,Pravna oseba
+BYD ATTO 2,BYD,,Novo vozilo,Hibrid,Avtomatski,212,Cena po dogovoru,Pravna oseba
+BYD ATTO 2,BYD,,Novo vozilo,Hibrid,Avtomatski,212,Cena po dogovoru,Pravna oseba
+BYD ATTO 2,BYD,,Novo vozilo,Hibrid,Avtomatski,212,Cena po dogovoru,Pravna oseba
+BYD ATTO 2,BYD,,Novo vozilo,Hibrid,Avtomatski,212,Cena po dogovoru,Pravna oseba
+BYD ATTO 2,BYD,,Novo vozilo,Hibrid,Avtomatski,212,Cena po dogovoru,Pravna oseba
+BYD ATTO 2,BYD,,Novo vozilo,Hibrid,Avtomatski,212,Cena po dogovoru,Pravna oseba
+BYD ATTO 2,BYD,,Novo vozilo,Hibrid,Avtomatski,212,Cena po dogovoru,Pravna oseba
+BYD ATTO 2,BYD,,Novo vozilo,Hibrid,Avtomatski,166,Cena po dogovoru,Pravna oseba
+BYD ATTO 2,BYD,,Novo vozilo,Hibrid,Avtomatski,166,Cena po dogovoru,Pravna oseba
+BYD ATTO 2,BYD,,Novo vozilo,Hibrid,Avtomatski,166,Cena po dogovoru,Pravna oseba
+BYD ATTO 2,BYD,,Novo vozilo,Hibrid,Avtomatski,166,Cena po dogovoru,Pravna oseba
+BYD ATTO 2,BYD,,Novo vozilo,Hibrid,Avtomatski,166,Cena po dogovoru,Pravna oseba
+BYD ATTO 2,BYD,,Novo vozilo,,Avtomatski,204,Cena po dogovoru,Pravna oseba
+BYD ATTO 2,BYD,,Novo vozilo,,Avtomatski,204,Cena po dogovoru,Pravna oseba
+BYD ATTO 2,BYD,,Novo vozilo,,Avtomatski,204,Cena po dogovoru,Pravna oseba
+BYD ATTO 2,BYD,,Novo vozilo,,Avtomatski,204,Cena po dogovoru,Pravna oseba
+BYD ATTO 2,BYD,,Novo vozilo,,Avtomatski,204,Cena po dogovoru,Pravna oseba
+BYD ATTO 2,BYD,,Novo vozilo,,Avtomatski,204,Cena po dogovoru,Pravna oseba
+BYD ATTO 2,BYD,,Novo vozilo,,Avtomatski,204,Cena po dogovoru,Pravna oseba
+BYD ATTO 2,BYD,,Novo vozilo,,Avtomatski,204,Cena po dogovoru,Pravna oseba
+Renault Mégane,Renault,2010,228000,Bencin,Ročni,131,2590,Pravna oseba
+Audi A6,Audi,2014,245000,Dizel,Ročni,190,12490,Pravna oseba
+BMW X1,BMW,2025,30638,Dizel,Avtomatski,150,44900,Pravna oseba
+BMW Serija 2,BMW,2024,15910,Bencin,Avtomatski,136,24990,Pravna oseba
+BMW X1,BMW,2025,30617,Dizel,Avtomatski,150,44900,Pravna oseba
+Volkswagen Polo,Volkswagen,,Novo vozilo,Bencin,Ročni,95,19462,Pravna oseba
+Volkswagen Taigo,Volkswagen,,Novo vozilo,Bencin,Avtomatski,150,25925,Pravna oseba
+Volkswagen Tiguan,Volkswagen,,Novo vozilo,Dizel,Avtomatski,150,43472,Pravna oseba
+Volkswagen California,Volkswagen,,Novo vozilo,Dizel,Avtomatski,150,68298,Pravna oseba
+Volkswagen Passat,Volkswagen,,Novo vozilo,Dizel,Avtomatski,193,45951,Pravna oseba
+Volkswagen Golf,Volkswagen,,Novo vozilo,Bencin,Avtomatski,265,38584,Pravna oseba
+Volkswagen ID.Buzz,Volkswagen,,Novo vozilo,,Avtomatski,286,Cena po dogovoru,Pravna oseba
+Volkswagen Tiguan,Volkswagen,,Novo vozilo,Bencin,Avtomatski,150,42227,Pravna oseba
+Volkswagen Tayron,Volkswagen,,Novo vozilo,Dizel,Avtomatski,193,51594,Pravna oseba
+Volkswagen ID.7,Volkswagen,,Novo vozilo,,Avtomatski,286,51994,Pravna oseba
+Volkswagen T-Roc,Volkswagen,,Novo vozilo,Bencin,Avtomatski,150,35990,Pravna oseba
+Volkswagen Caddy,Volkswagen,,Novo vozilo,Dizel,Ročni,102,33378,Pravna oseba
+Volkswagen T-Roc,Volkswagen,,Novo vozilo,Bencin,Avtomatski,150,35436,Pravna oseba
+Volkswagen Tiguan,Volkswagen,,Novo vozilo,Hibrid,Avtomatski,272,51990,Pravna oseba
+Volkswagen Tiguan,Volkswagen,,Novo vozilo,Bencin,Avtomatski,150,42920,Pravna oseba
+Volkswagen Tiguan,Volkswagen,,Novo vozilo,Dizel,Avtomatski,150,50379,Pravna oseba
+Volkswagen Tiguan,Volkswagen,,Novo vozilo,Bencin,Avtomatski,150,49227,Pravna oseba
+Volkswagen Tiguan,Volkswagen,,Novo vozilo,Dizel,Avtomatski,193,55971,Pravna oseba
+Volkswagen Tiguan,Volkswagen,,Novo vozilo,Bencin,Avtomatski,150,37908,Pravna oseba
+Volkswagen Taigo,Volkswagen,,Novo vozilo,Bencin,Avtomatski,150,26703,Pravna oseba
+Volkswagen Caravelle,Volkswagen,,Novo vozilo,Dizel,Avtomatski,150,59321,Pravna oseba
+Volkswagen Tiguan,Volkswagen,,Novo vozilo,Bencin,Avtomatski,150,44575,Pravna oseba
+Volkswagen Multivan,Volkswagen,,Novo vozilo,Dizel,Avtomatski,150,60026,Pravna oseba
+Volkswagen Tiguan,Volkswagen,,Novo vozilo,Dizel,Avtomatski,150,47466,Pravna oseba
+Volkswagen Tiguan,Volkswagen,,Novo vozilo,Dizel,Avtomatski,150,49990,Pravna oseba
+Volkswagen Golf,Volkswagen,,Novo vozilo,Bencin,Avtomatski,150,28049,Pravna oseba
+Volkswagen Golf,Volkswagen,,Novo vozilo,Bencin,Avtomatski,150,32270,Pravna oseba
+Volkswagen Multivan,Volkswagen,,Novo vozilo,Dizel,Avtomatski,150,63479,Pravna oseba
+Volkswagen Tiguan,Volkswagen,,Novo vozilo,Dizel,Avtomatski,150,48580,Pravna oseba
+Volkswagen Tiguan,Volkswagen,,Novo vozilo,Bencin,Avtomatski,150,44815,Pravna oseba
+Volkswagen Caddy,Volkswagen,,Novo vozilo,Dizel,Ročni,102,30179,Pravna oseba
+Volkswagen Golf,Volkswagen,,Novo vozilo,Bencin,Avtomatski,150,34249,Pravna oseba
+Volkswagen Golf,Volkswagen,,Novo vozilo,Bencin,Avtomatski,150,31977,Pravna oseba
+Volkswagen T-Roc,Volkswagen,2025,16585,Dizel,Avtomatski,150,30990,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2026,4500,Bencin,Avtomatski,150,38950,Pravna oseba
+Volkswagen Passat,Volkswagen,,Novo vozilo,Bencin,Avtomatski,150,37495,Pravna oseba
+Volkswagen Passat,Volkswagen,,Novo vozilo,Dizel,Avtomatski,150,39852,Pravna oseba
+Volkswagen Passat,Volkswagen,,Novo vozilo,Dizel,Avtomatski,150,37882,Pravna oseba
+Volkswagen Tayron,Volkswagen,,Novo vozilo,Dizel,Avtomatski,193,52351,Pravna oseba
+Volkswagen Touran,Volkswagen,2024,37900,Bencin,Avtomatski,150,29990,Pravna oseba
+Volkswagen T-Roc,Volkswagen,,Novo vozilo,Bencin,Avtomatski,150,29993,Pravna oseba
+Volkswagen Tayron,Volkswagen,,Novo vozilo,Dizel,Avtomatski,150,46943,Pravna oseba
+Volkswagen T-Roc,Volkswagen,,Novo vozilo,Bencin,Avtomatski,116,29330,Pravna oseba
+Volkswagen T-Roc,Volkswagen,,Novo vozilo,Bencin,Avtomatski,150,34692,Pravna oseba
+Volkswagen Tayron,Volkswagen,,Novo vozilo,Bencin,Avtomatski,150,39970,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2025,6818,Bencin,Avtomatski,150,40990,Pravna oseba
+Volkswagen -,Volkswagen,,Novo vozilo,,Avtomatski,211,Cena po dogovoru,Pravna oseba
+Volkswagen Tayron,Volkswagen,,Novo vozilo,Dizel,Avtomatski,150,48338,Pravna oseba
+Volkswagen Tiguan,Volkswagen,,Novo vozilo,Dizel,Avtomatski,193,49997,Pravna oseba
+Volkswagen -,Volkswagen,,Novo vozilo,,Avtomatski,211,Cena po dogovoru,Pravna oseba
+Volkswagen T-Cross,Volkswagen,,Novo vozilo,Bencin,Ročni,116,22267,Pravna oseba
+Volkswagen Tayron,Volkswagen,,Novo vozilo,Bencin,Avtomatski,204,47950,Pravna oseba
+Volkswagen Golf,Volkswagen,,Novo vozilo,Bencin,Avtomatski,150,27998,Pravna oseba
+Volkswagen T-Roc,Volkswagen,,Novo vozilo,Bencin,Avtomatski,116,28931,Pravna oseba
+Volkswagen Tiguan,Volkswagen,,Novo vozilo,Dizel,Avtomatski,150,45991,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2025,17500,Bencin,Avtomatski,150,31990,Pravna oseba
+Volkswagen T-Roc,Volkswagen,,Novo vozilo,Bencin,Avtomatski,150,39270,Pravna oseba
+Volkswagen Tayron,Volkswagen,,Novo vozilo,Dizel,Avtomatski,150,49983,Pravna oseba
+Volkswagen Sharan,Volkswagen,2017,149483,Dizel,Avtomatski,150,Cena po dogovoru,Pravna oseba
+Audi Q3,Audi,2021,128121,Bencin,Avtomatski,150,28990,Pravna oseba
+Audi A4,Audi,2023,72174,Bencin,Avtomatski,204,26990,Pravna oseba
+Škoda Superb,Škoda,2020,106800,Dizel,Avtomatski,150,23990,Pravna oseba
+Audi A4,Audi,2023,43430,Bencin,Avtomatski,204,28990,Pravna oseba
+Volkswagen T-Roc,Volkswagen,2024,42509,Bencin,Avtomatski,300,31990,Pravna oseba
+Cupra Formentor,Cupra,2022,53372,Bencin,Avtomatski,150,23990,Pravna oseba
+Škoda Fabia,Škoda,2024,43318,Bencin,Avtomatski,110,16990,Pravna oseba
+Volkswagen Arteon,Volkswagen,2023,89549,Dizel,Avtomatski,150,27990,Pravna oseba
+Volkswagen Tiguan Allspace,Volkswagen,2023,103235,Dizel,Avtomatski,200,32990,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2022,73620,Dizel,Avtomatski,150,24990,Pravna oseba
+Volkswagen T-Roc,Volkswagen,2023,135375,Dizel,Avtomatski,150,23990,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2025,11841,Bencin,Avtomatski,150,39990,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2025,18940,Dizel,Avtomatski,150,39990,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2023,84430,Bencin,Avtomatski,150,24490,Pravna oseba
+Škoda Kodiaq,Škoda,2023,94741,Dizel,Avtomatski,150,31990,Pravna oseba
+BMW Serija 3,BMW,2024,14440,Bencin,Avtomatski,184,39990,Pravna oseba
+Volkswagen T-Cross,Volkswagen,2019,40304,Bencin,Ročni,116,14990,Pravna oseba
+Dacia Jogger,Dacia,2023,38285,Bencin,Ročni,110,14990,Pravna oseba
+Volkswagen Golf,Volkswagen,2025,13420,Bencin,Avtomatski,150,27490,Pravna oseba
+Volkswagen Passat,Volkswagen,2022,128431,Dizel,Avtomatski,150,19990,Pravna oseba
+Volkswagen Golf,Volkswagen,2024,26904,Bencin,Avtomatski,150,23990,Pravna oseba
+Audi A3,Audi,2022,116753,Dizel,Avtomatski,150,23990,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2025,36780,Dizel,Avtomatski,150,38990,Pravna oseba
+Volkswagen Passat,Volkswagen,2021,158933,Dizel,Avtomatski,150,20990,Pravna oseba
+Volkswagen Tayron,Volkswagen,2025,23000,Dizel,Avtomatski,193,48990,Pravna oseba
+Volkswagen T-Roc,Volkswagen,2022,44954,Bencin,Avtomatski,150,21990,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2025,25525,Dizel,Avtomatski,150,39990,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2021,62000,Bencin,Ročni,131,21990,Pravna oseba
+Škoda Kodiaq,Škoda,2023,134330,Bencin,Avtomatski,190,31990,Pravna oseba
+Volkswagen Golf,Volkswagen,2025,32875,Bencin,Avtomatski,116,23990,Pravna oseba
+Renault Scénic,Renault,2022,171341,Bencin,Ročni,140,12490,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2025,26658,Bencin,Avtomatski,150,38990,Pravna oseba
+Škoda Octavia,Škoda,2019,178223,Dizel,Avtomatski,150,12290,Pravna oseba
+Mercedes-Benz S-Razred,Mercedes-Benz,2025,13514,Dizel,Avtomatski,367,115900,Pravna oseba
+Škoda Karoq,Škoda,2020,149949,Dizel,Avtomatski,150,17990,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2025,16838,Bencin,Avtomatski,150,39990,Pravna oseba
+Volkswagen Taigo,Volkswagen,2024,30729,Bencin,Ročni,116,17990,Pravna oseba
+Audi S3,Audi,2018,103922,Bencin,Avtomatski,400,33990,Pravna oseba
+Volkswagen Golf,Volkswagen,2024,43688,Bencin,Avtomatski,150,26990,Pravna oseba
+Volkswagen Golf,Volkswagen,2016,116649,Bencin,Ročni,125,12990,Pravna oseba
+Volkswagen Arteon,Volkswagen,2023,100544,Bencin,Avtomatski,190,27990,Pravna oseba
+Volkswagen Passat,Volkswagen,2021,138236,Bencin,Avtomatski,150,22490,Pravna oseba
+Volkswagen Taigo,Volkswagen,2023,32344,Bencin,Avtomatski,110,17990,Pravna oseba
+Seat Ateca,Seat,2023,109820,Dizel,Avtomatski,150,19990,Pravna oseba
+Audi Q2,Audi,2023,65145,Bencin,Avtomatski,150,21990,Pravna oseba
+Audi Q5,Audi,2023,122056,Dizel,Avtomatski,204,33990,Pravna oseba
+Volkswagen T-Roc,Volkswagen,2021,98900,Dizel,Avtomatski,190,21490,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2024,37800,Dizel,Avtomatski,200,34990,Pravna oseba
+BMW Serija 1,BMW,2020,79615,Bencin,Avtomatski,140,18990,Pravna oseba
+Volkswagen T-Roc,Volkswagen,2023,50548,Dizel,Avtomatski,150,22990,Pravna oseba
+Ford Focus,Ford,2020,168541,Dizel,Ročni,95,8990,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2023,76227,Dizel,Avtomatski,150,26990,Pravna oseba
+Audi Q3,Audi,2022,100475,Bencin,Avtomatski,150,28990,Pravna oseba
+Volkswagen T-Roc,Volkswagen,2023,49537,Bencin,Ročni,110,20990,Pravna oseba
+Volkswagen Touran,Volkswagen,2022,112475,Dizel,Avtomatski,150,22990,Pravna oseba
+Škoda Octavia,Škoda,2023,81653,Dizel,Ročni,116,16990,Pravna oseba
+Škoda Kodiaq,Škoda,2023,99652,Bencin,Avtomatski,150,29990,Pravna oseba
+Volkswagen Passat,Volkswagen,2020,172300,Dizel,Avtomatski,150,14490,Pravna oseba
+Škoda Superb,Škoda,2020,115955,Bencin,Avtomatski,272,25990,Pravna oseba
+Škoda Enyaq,Škoda,2022,78657,,Avtomatski,179,21990,Pravna oseba
+Audi A1,Audi,2021,82409,Bencin,Avtomatski,110,16490,Pravna oseba
+Citroën C5 X,Citroën,2023,47020,Bencin,Avtomatski,179,22990,Pravna oseba
+Audi Q3,Audi,2023,30612,Bencin,Avtomatski,150,31990,Pravna oseba
+Volkswagen Touran,Volkswagen,2024,46200,Bencin,Avtomatski,150,28990,Pravna oseba
+Škoda Kodiaq,Škoda,2022,111154,Bencin,Avtomatski,150,26990,Pravna oseba
+Volkswagen Touran,Volkswagen,2024,49400,Bencin,Avtomatski,150,29990,Pravna oseba
+BMW X6,BMW,2021,93700,Bencin,Avtomatski,625,71900,Pravna oseba
+Volkswagen T-Cross,Volkswagen,2026,1,Bencin,Avtomatski,116,24990,Pravna oseba
+Renault Koleos,Renault,2020,188268,Dizel,Avtomatski,190,14990,Pravna oseba
+BMW X1,BMW,2023,57119,Bencin,Avtomatski,136,32990,Pravna oseba
+Volkswagen Arteon,Volkswagen,2019,Novo vozilo,Dizel,Ročni,150,18250,Fizična oseba
+Honda HR-V,Honda,2024,9572,Bencin,Avtomatski,107,29900,Pravna oseba
+KIA Sportage,KIA,2025,19542,Bencin,Ročni,160,24799,Pravna oseba
+BMW Serija 1,BMW,2022,112417,Bencin,Ročni,178,23990,Pravna oseba
+Peugeot 208,Peugeot,2022,32550,Bencin,Ročni,75,9990,Pravna oseba
+Škoda Superb,Škoda,2020,115600,Hibrid,Avtomatski,156,20990,Pravna oseba
+Mercedes-Benz B-Razred,Mercedes-Benz,2018,188900,Bencin,Avtomatski,156,14990,Pravna oseba
+Renault Clio,Renault,2018,48479,Bencin,Ročni,76,7990,Pravna oseba
+Citroën C3,Citroën,2019,104990,Bencin,Ročni,83,6490,Pravna oseba
+Volkswagen Passat Variant,Volkswagen,2020,246000,Dizel,Avtomatski,150,15950,Pravna oseba
+BMW serija 3:,BMW,2019,176000,Dizel,Avtomatski,150,19850,Pravna oseba
+BMW serija 3:,BMW,2019,176000,Dizel,Avtomatski,150,19850,Pravna oseba
+BMW serija 3:,BMW,2019,176000,Dizel,Avtomatski,150,19850,Pravna oseba
+Audi Q5,Audi,2016,235000,Dizel,Avtomatski,190,14850,Pravna oseba
+Audi Q5,Audi,2016,235000,Dizel,Avtomatski,190,14850,Pravna oseba
+Ford C-Max,Ford,2016,159000,Dizel,Ročni,120,6850,Pravna oseba
+Ford C-Max,Ford,2016,159000,Dizel,Ročni,120,6850,Pravna oseba
+Audi A5 Sportback,Audi,2019,222000,Dizel,Avtomatski,150,19850,Pravna oseba
+Audi A5 Sportback,Audi,2019,222000,Dizel,Avtomatski,150,19850,Pravna oseba
+Audi A5 Sportback,Audi,2019,222000,Dizel,Avtomatski,150,19850,Pravna oseba
+BMW X5,BMW,2017,167876,Dizel,Avtomatski,258,24900,Fizična oseba
+Seat Altea,Seat,2015,144000,Dizel,Ročni,105,7400,Fizična oseba
+Mercedes-Benz GLC-Razred,Mercedes-Benz,2020,105214,Bencin,Avtomatski,197,32300,Fizična oseba
+Volkswagen Polo,Volkswagen,2014,135645,Bencin,Avtomatski,90,8500,Fizična oseba
+Volkswagen Golf,Volkswagen,2009,286000,Dizel,Ročni,110,3400,Fizična oseba
+Land Rover Range Rover Evoque,Land,2014,161405,Dizel,Avtomatski,150,12000,Pravna oseba
+Renault Scenic,Renault,2017,219000,Dizel,Ročni,131,7990,Pravna oseba
+Volkswagen Transporter,Volkswagen,2014,320000,Dizel,Ročni,102,10990,Pravna oseba
+Mercedes-Benz V-Razred,Mercedes-Benz,2019,149980,Dizel,Avtomatski,190,37980,Pravna oseba
+Audi A5 Sportback,Audi,2010,380000,Dizel,Ročni,190,5990,Pravna oseba
+BMW serija 5:,BMW,2014,293000,Dizel,Avtomatski,218,12490,Pravna oseba
+BMW serija 3 Touring:,BMW,2019,149900,Dizel,Avtomatski,150,14490,Pravna oseba
+Audi A4 Avant,Audi,2019,227000,Dizel,Avtomatski,190,16490,Pravna oseba
+Mercedes-Benz E-Razred,Mercedes-Benz,2017,184000,Dizel,Avtomatski,194,26990,Pravna oseba
+BMW serija 3 Touring:,BMW,2017,122500,Dizel,Avtomatski,150,15990,Pravna oseba
+Renault Captur,Renault,2017,53000,Bencin,Ročni,118,9990,Pravna oseba
+Audi Q3,Audi,2015,165000,Bencin,Ročni,150,10990,Pravna oseba
+Volkswagen Passat Variant,Volkswagen,2016,230000,Dizel,Avtomatski,190,11990,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2016,180000,Dizel,Avtomatski,150,15990,Pravna oseba
+BMW serija 3 Touring:,BMW,2015,157000,Dizel,Avtomatski,190,17990,Pravna oseba
+BMW Serija 4,BMW,2018,181000,Bencin,Ročni,184,20200,Fizična oseba
+Mercedes-Benz GLK-Razred,Mercedes-Benz,2011,325500,Dizel,Avtomatski,170,6499,Pravna oseba
+Volkswagen T-Roc,Volkswagen,2019,137999,Dizel,Ročni,150,17990,Pravna oseba
+Peugeot Expert,Peugeot,,189000,Dizel,Ročni,128,7600,Fizična oseba
+Renault Clio,Renault,2022,80000,Dizel,Ročni,101,9990,Pravna oseba
+Honda ZR-V,Honda,,Novo vozilo,Hibrid,Avtomatski,184,Cena po dogovoru,Pravna oseba
+Renault Clio,Renault,2022,80000,Dizel,Ročni,101,9990,Pravna oseba
+BMW M3 Limousine,BMW,2015,128000,Bencin,Avtomatski,431,47490,Pravna oseba
+BMW 5 Series ActiveHybrid,BMW,2011,236000,Bencin,Ročni,306,11990,Pravna oseba
+Volkswagen Caddy,Volkswagen,2022,57728,Dizel,Avtomatski,102,31790,Pravna oseba
+Ford Ecosport,Ford,2021,75260,Bencin,Ročni,125,11990,Pravna oseba
+Škoda Octavia,Škoda,2022,54000,Bencin,Avtomatski,245,29900,Pravna oseba
+BMW Serija 4,BMW,2025,31606,Dizel,Avtomatski,190,47850,Pravna oseba
+Hyundai i20,Hyundai,2023,29828,Bencin,Ročni,83,29828,Pravna oseba
+Volkswagen Touran,Volkswagen,2023,206671,Dizel,Avtomatski,150,17990,Pravna oseba
+KIA Sportage,KIA,2022,72950,Bencin,Ročni,150,20990,Pravna oseba
+Ford Transit,Ford,2023,158967,Dizel,Avtomatski,120,16999,Pravna oseba
+Škoda Enyaq,Škoda,2023,54000,,Avtomatski,95,26990,Pravna oseba
+Seat Leon,Seat,2014,257800,Dizel,Avtomatski,150,8690,Pravna oseba
+Opel Corsa,Opel,2017,116000,Bencin,Ročni,75,6499,Fizična oseba
+Volvo S90,Volvo,2017,168000,Dizel,Avtomatski,190,19350,Pravna oseba
+BMW Serija 2,BMW,2025,28568,Bencin,Avtomatski,136,30780,Pravna oseba
+BMW Serija 2,BMW,2025,48435,Bencin,Avtomatski,136,29900,Pravna oseba
+BMW X2,BMW,2025,45850,Dizel,Avtomatski,150,43990,Pravna oseba
+Dacia Sandero,Dacia,,Novo vozilo,Bencin,Ročni,101,Cena po dogovoru,Pravna oseba
+KIA Sportage,KIA,,Novo vozilo,Bencin,Avtomatski,150,28299,Pravna oseba
+Renault Kangoo,Renault,2016,258000,Dizel,Ročni,90,3600,Fizična oseba
+Škoda Kamiq,Škoda,2025,17900,Bencin,Avtomatski,116,17900,Fizična oseba
+Škoda Octavia,Škoda,2016,220000,Dizel,Ročni,110,6700,Pravna oseba
+Škoda Octavia,Škoda,2016,220000,Dizel,Ročni,110,6700,Pravna oseba
+Toyota RAV4,Toyota,2003,496000,Dizel,Ročni,116,1990,Pravna oseba
+Toyota RAV4,Toyota,2003,496000,Dizel,Ročni,116,1990,Pravna oseba
+Ford Galaxy,Ford,,52000,Dizel,Avtomatski,140,1790,Fizična oseba
+Audi A3,Audi,2022,120655,Dizel,Avtomatski,150,21999,Pravna oseba
+Suzuki Ignis,Suzuki,2023,54000,Bencin,Ročni,83,14490,Pravna oseba
+Suzuki Ignis,Suzuki,2023,54000,Bencin,Ročni,83,14490,Pravna oseba
+Volkswagen T-Roc,Volkswagen,2019,119000,Dizel,Ročni,150,18990,Pravna oseba
+Volkswagen T-Roc,Volkswagen,2019,119000,Dizel,Ročni,150,18990,Pravna oseba
+Audi A4 Avant,Audi,2016,238650,Dizel,Avtomatski,190,15995,Pravna oseba
+Audi A4 Avant,Audi,2016,238650,Dizel,Avtomatski,190,15995,Pravna oseba
+Volkswagen Touareg,Volkswagen,2024,39320,Dizel,Avtomatski,286,59995,Pravna oseba
+Volkswagen Touareg,Volkswagen,2024,39320,Dizel,Avtomatski,286,59995,Pravna oseba
+Volkswagen Golf,Volkswagen,2019,185500,Dizel,Avtomatski,184,18000,Fizična oseba
+Renault Scenic,Renault,2016,190000,Dizel,Ročni,95,5700,Pravna oseba
+Renault Scenic,Renault,2016,190000,Dizel,Ročni,95,5700,Pravna oseba
+Ford Ecosport,Ford,2022,79900,Bencin,Ročni,125,12700,Pravna oseba
+Ford Ecosport,Ford,2022,79900,Bencin,Ročni,125,12700,Pravna oseba
+Seat Tarraco,Seat,2021,118000,Dizel,Avtomatski,200,26790,Pravna oseba
+Volkswagen Arteon,Volkswagen,2019,166000,Dizel,Avtomatski,190,23500,Fizična oseba
+Volkswagen Golf,Volkswagen,2022,159000,Dizel,Avtomatski,150,23850,Pravna oseba
+BMW X5,BMW,2016,224210,Hibrid,Avtomatski,313,19900,Fizična oseba
+BMW Serija 5,BMW,2013,236576,Dizel,Avtomatski,218,Cena po dogovoru,Pravna oseba
+Audi A4,Audi,2020,194335,Bencin,Avtomatski,150,16690,Pravna oseba
+Peugeot 208,Peugeot,2022,57531,Bencin,Ročni,75,9190,Pravna oseba
+KIA Sportage,KIA,2023,141200,Dizel,Avtomatski,136,19490,Pravna oseba
+Škoda Karoq,Škoda,2021,162000,Dizel,Ročni,116,15300,Fizična oseba
+Volvo XC90,Volvo,2016,209650,Dizel,Avtomatski,235,20995,Pravna oseba
+BMW X4,BMW,2024,30700,Dizel,Avtomatski,190,52880,Pravna oseba
+Mazda MX-5,Mazda,2020,79800,Bencin,Ročni,132,22880,Pravna oseba
+BMW X6,BMW,2013,218400,Dizel,Avtomatski,381,18980,Pravna oseba
+Volkswagen Passat,Volkswagen,2015,229430,Dizel,Ročni,120,9995,Pravna oseba
+Volkswagen Passat,Volkswagen,2015,229430,Dizel,Ročni,120,9995,Pravna oseba
+BMW Serija 2,BMW,2023,61997,Bencin,Avtomatski,136,27480,Pravna oseba
+BMW Serija 2,BMW,2025,36132,Bencin,Avtomatski,136,29990,Pravna oseba
+BMW Serija 2,BMW,2024,64073,Bencin,Avtomatski,136,29490,Pravna oseba
+Mercedes-Benz ML-Razred,Mercedes-Benz,2014,219650,Dizel,Avtomatski,204,Cena po dogovoru,Pravna oseba
+Mercedes-Benz ML-Razred,Mercedes-Benz,2014,219650,Dizel,Avtomatski,204,Cena po dogovoru,Pravna oseba
+Hyundai Tucson,Hyundai,2021,71740,Bencin,Ročni,150,20500,Pravna oseba
+Mercedes-Benz ML-Razred,Mercedes-Benz,2013,239650,Dizel,Avtomatski,204,14995,Pravna oseba
+Audi A6 Avant,Audi,2015,258630,Dizel,Avtomatski,320,16995,Pravna oseba
+Audi A6 Avant,Audi,2015,258630,Dizel,Avtomatski,320,16995,Pravna oseba
+Hyundai Bayon,Hyundai,2026,1660,Bencin,Avtomatski,90,19490,Pravna oseba
+Hyundai i30,Hyundai,2024,31060,Bencin,Avtomatski,140,22500,Pravna oseba
+Audi RS5,Audi,2018,107320,Bencin,Avtomatski,450,43995,Pravna oseba
+Mitsubishi Outlander,Mitsubishi,,Novo vozilo,Hibrid,Avtomatski,306,Cena po dogovoru,Pravna oseba
+Honda CR-V,Honda,,Novo vozilo,Hibrid,Avtomatski,184,Cena po dogovoru,Pravna oseba
+Volkswagen Golf,Volkswagen,2016,249004,Dizel,Ročni,110,7950,Pravna oseba
+Volkswagen Golf,Volkswagen,2016,249004,Dizel,Ročni,110,7950,Pravna oseba
+Toyota Yaris,Toyota,2020,93465,Hibrid,Avtomatski,101,12990,Pravna oseba
+Honda Insight,Honda,2009,269000,Bencin,Avtomatski,88,3790,Pravna oseba
+Honda Insight,Honda,2009,269000,Bencin,Avtomatski,88,3790,Pravna oseba
+Ford EcoSport,Ford,,54360,Bencin,Ročni,125,14890,Pravna oseba
+Ford Puma,Ford,,63793,Bencin,Ročni,125,16990,Pravna oseba
+Volkswagen Golf,Volkswagen,,36760,Bencin,Ročni,125,14490,Pravna oseba
+BMW serija X3:,BMW,2014,186000,Dizel,Avtomatski,163,11990,Pravna oseba
+Audi Q3 Sportback,Audi,2023,42498,Bencin,Avtomatski,150,34990,Pravna oseba
+Renault Scénic,Renault,2020,52787,Bencin,Avtomatski,140,17990,Pravna oseba
+BMW Serija 2,BMW,2023,61997,Bencin,Avtomatski,136,27480,Pravna oseba
+BMW Serija 2,BMW,2025,36132,Bencin,Avtomatski,136,29990,Pravna oseba
+Renault Clio,Renault,2012,219011,Dizel,Ročni,75,Cena po dogovoru,Pravna oseba
+BMW Serija 2,BMW,2025,64073,Bencin,Avtomatski,136,29490,Pravna oseba
+BMW 5 Series ActiveHybrid,BMW,2025,25478,Dizel,Avtomatski,197,Cena po dogovoru,Pravna oseba
+Audi A5,Audi,2017,113800,Dizel,Avtomatski,286,28990,Pravna oseba
+BMW Serija 3,BMW,2025,42961,Dizel,Avtomatski,190,44890,Pravna oseba
+Ford Transit Custom Combi,Ford,2021,108000,Dizel,Avtomatski,185,Cena po dogovoru,Pravna oseba
+Ford Kuga,Ford,2021,124882,Dizel,Ročni,120,17990,Pravna oseba
+BMW Serija 3,BMW,2025,42961,Dizel,Avtomatski,190,44890,Pravna oseba
+Honda ZR-V,Honda,2026,500,Hibrid,Avtomatski,184,37400,Pravna oseba
+Changan CS55 Plus,Changan,,Novo vozilo,Bencin,Avtomatski,181,Cena po dogovoru,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2020,105801,Bencin,Avtomatski,190,Cena po dogovoru,Pravna oseba
+Volkswagen Multivan,Volkswagen,2016,199990,Dizel,Avtomatski,204,Cena po dogovoru,Pravna oseba
+Renault Mégane,Renault,2020,125487,Bencin,Ročni,102,Cena po dogovoru,Pravna oseba
+Mercedes-Benz GLS-Razred,Mercedes-Benz,2024,67000,Dizel,Avtomatski,367,109990,Pravna oseba
+Ford Galaxy,Ford,2019,208335,Dizel,Avtomatski,150,Cena po dogovoru,Pravna oseba
+Ford Focus,Ford,2016,130379,Dizel,Ročni,185,Cena po dogovoru,Pravna oseba
+Volkswagen Golf,Volkswagen,2019,163200,Bencin,Avtomatski,245,20990,Pravna oseba
+BMW Serija 3,BMW,2020,94145,Bencin,Avtomatski,136,Cena po dogovoru,Pravna oseba
+Audi Q5,Audi,2014,175525,Dizel,Avtomatski,177,Cena po dogovoru,Pravna oseba
+Ford Explorer,Ford,,30087,,Avtomatski,,39990,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2025,25575,Bencin,Avtomatski,131,29990,Pravna oseba
+Audi RS Q3,Audi,2014,214000,Bencin,Avtomatski,310,21990,Pravna oseba
+Volkswagen Transporter,Volkswagen,2014,312322,Dizel,Ročni,102,12200,Pravna oseba
+Dongfeng Box,Dongfeng,,Novo vozilo,,Avtomatski,95,Cena po dogovoru,Pravna oseba
+Forthing Forthing T5 EVO,Forthing,,Novo vozilo,Bencin,Avtomatski,177,28900,Pravna oseba
+Forthing Forthing T5 EVO,Forthing,,Novo vozilo,Bencin,Avtomatski,177,28900,Pravna oseba
+Forthing S7,Forthing,,Novo vozilo,,Avtomatski,218,Cena po dogovoru,Pravna oseba
+Dongfeng Box,Dongfeng,,Novo vozilo,,Avtomatski,95,Cena po dogovoru,Pravna oseba
+Forthing Forthing U Tour,Forthing,,Novo vozilo,Bencin,Avtomatski,177,29900,Pravna oseba
+Forthing Forthing T5 EVO,Forthing,2026,4876,Bencin,Avtomatski,177,26990,Pravna oseba
+KIA Pro_Ceed,KIA,2014,182134,Bencin,Ročni,204,Cena po dogovoru,Pravna oseba
+Dongfeng Box,Dongfeng,,Novo vozilo,,Avtomatski,95,Cena po dogovoru,Pravna oseba
+Forthing Forthing T5 EVO,Forthing,,Novo vozilo,Bencin,Avtomatski,177,28900,Pravna oseba
+Dongfeng Mage,Dongfeng,,Novo vozilo,Bencin,Avtomatski,204,24900,Pravna oseba
+Forthing Forthing T5 EVO,Forthing,,Novo vozilo,Bencin,Avtomatski,177,28900,Pravna oseba
+Forthing Forthing T5 EVO,Forthing,,Novo vozilo,Bencin,Avtomatski,177,28900,Pravna oseba
+Dongfeng Mage,Dongfeng,,Novo vozilo,Bencin,Avtomatski,204,24900,Pravna oseba
+Forthing Forthing U Tour,Forthing,,Novo vozilo,Bencin,Avtomatski,177,29900,Pravna oseba
+Forthing Forthing T5 EVO,Forthing,,Novo vozilo,Bencin,Avtomatski,177,28900,Pravna oseba
+Peugeot 2008,Peugeot,2017,97678,Bencin,Ročni,110,5900,Pravna oseba
+Forthing Forthing T5 EVO,Forthing,,Novo vozilo,Bencin,Avtomatski,177,28900,Pravna oseba
+Forthing Forthing T5 EVO,Forthing,,Novo vozilo,Bencin,Avtomatski,177,28900,Pravna oseba
+BMW Serija 3,BMW,2020,233960,Hibrid,Avtomatski,190,19999,Pravna oseba
+KIA ProCeed,KIA,2022,74571,Bencin,Avtomatski,160,21990,Pravna oseba
+KIA Sportage,KIA,2022,64477,Bencin,Ročni,150,19870,Pravna oseba
+BMW X5,BMW,2017,165888,Dizel,Avtomatski,258,26490,Pravna oseba
+Ford Tourneo,Ford,2025,17000,Bencin,Ročni,125,20550,Pravna oseba
+Ford Puma,Ford,2022,63000,Bencin,Ročni,125,19290,Pravna oseba
+Ford Mondeo,Ford,2007,143302,Dizel,Ročni,140,Cena po dogovoru,Pravna oseba
+Baic X7,Baic,,Novo vozilo,Bencin,Avtomatski,177,31900,Pravna oseba
+Baic BJ30,Baic,,Novo vozilo,Hibrid,Avtomatski,280,35900,Pravna oseba
+Baic BJ30,Baic,,Novo vozilo,Hibrid,Avtomatski,154,35900,Pravna oseba
+Opel Corsa,Opel,2025,11000,Bencin,Ročni,101,Cena po dogovoru,Pravna oseba
+BMW Serija 3,BMW,2019,171204,Dizel,Avtomatski,190,25490,Pravna oseba
+Changan Deepal S07,Changan,,Novo vozilo,,Avtomatski,218,27790,Pravna oseba
+Volkswagen Passat,Volkswagen,2008,283100,Dizel,Ročni,105,2299,Pravna oseba
+Changan Deepal S05,Changan,,Novo vozilo,,Avtomatski,272,33490,Pravna oseba
+Changan CS75 Plus,Changan,,Novo vozilo,Bencin,Avtomatski,181,Cena po dogovoru,Pravna oseba
+Changan CS75 Plus,Changan,,Novo vozilo,Bencin,Avtomatski,181,Cena po dogovoru,Pravna oseba
+Changan CS75 Plus,Changan,,Novo vozilo,Bencin,Avtomatski,181,Cena po dogovoru,Pravna oseba
+Audi A5,Audi,2022,80000,Dizel,Avtomatski,163,32900,Pravna oseba
+Opel Crossland X,Opel,2019,116800,Bencin,Ročni,131,8990,Pravna oseba
+Changan CS55 Plus,Changan,,Novo vozilo,Bencin,Avtomatski,181,Cena po dogovoru,Pravna oseba
+Changan CS55 Plus,Changan,,Novo vozilo,Bencin,Avtomatski,181,Cena po dogovoru,Pravna oseba
+Changan CS55 Plus,Changan,,Novo vozilo,Bencin,Avtomatski,181,Cena po dogovoru,Pravna oseba
+Changan CS55 Plus,Changan,,Novo vozilo,Bencin,Avtomatski,181,Cena po dogovoru,Pravna oseba
+Changan CS55 Plus,Changan,,Novo vozilo,Bencin,Avtomatski,181,Cena po dogovoru,Pravna oseba
+Volkswagen Passat,Volkswagen,2017,243727,Dizel,Avtomatski,150,11990,Pravna oseba
+Volkswagen Passat,Volkswagen,2020,222488,Dizel,Avtomatski,150,16990,Pravna oseba
+Citroën C4 Grand Picasso,Citroën,2016,168719,Dizel,Ročni,120,7690,Pravna oseba
+Ford Tourneo Connect,Ford,,15300,Hibrid,Avtomatski,150,Cena po dogovoru,Pravna oseba
+BMW serija 5 Touring:,BMW,2021,236430,Dizel,Avtomatski,190,24995,Pravna oseba
+BMW serija 5 Touring:,BMW,2021,236430,Dizel,Avtomatski,190,24995,Pravna oseba
+Škoda Karoq,Škoda,2023,178182,Dizel,Ročni,116,15990,Pravna oseba
+Mercedes-Benz C-Razred,Mercedes-Benz,2019,197000,Dizel,Avtomatski,160,14490,Pravna oseba
+Škoda Karoq,Škoda,2023,178182,Dizel,Ročni,116,15990,Pravna oseba
+Mercedes-Benz C-Razred,Mercedes-Benz,2019,197000,Dizel,Avtomatski,160,13990,Pravna oseba
+Audi Q3,Audi,2021,78808,Dizel,Avtomatski,150,28990,Pravna oseba
+Audi Q3,Audi,2021,78808,Dizel,Avtomatski,150,27990,Pravna oseba
+BMW serija 3:,BMW,2020,131134,Dizel,Avtomatski,150,23990,Pravna oseba
+BMW serija 3:,BMW,2020,131134,Dizel,Avtomatski,150,22990,Pravna oseba
+Citroën C4 Grand Picasso,Citroën,2015,260000,Dizel,Avtomatski,116,4490,Pravna oseba
+Opel Zafira,Opel,2016,187286,Bencin,Ročni,140,5990,Pravna oseba
+Opel Insignia,Opel,2018,191000,Dizel,Avtomatski,136,6990,Pravna oseba
+Opel Zafira,Opel,2016,187286,Bencin,Ročni,140,5990,Pravna oseba
+Volkswagen T-Roc,Volkswagen,2020,146546,Bencin,Ročni,150,16790,Pravna oseba
+Volkswagen Passat,Volkswagen,2016,312075,Dizel,Ročni,150,Cena po dogovoru,Pravna oseba
+Mercedes-Benz C-Razred,Mercedes-Benz,2016,107000,Bencin,Avtomatski,156,21990,Pravna oseba
+Mercedes-Benz C-Razred,Mercedes-Benz,2016,107000,Bencin,Avtomatski,156,21990,Pravna oseba
+Citroën C4 Grand SpaceTourer,Citroën,2018,212400,Dizel,Avtomatski,150,8199,Pravna oseba
+Audi A4 Avant,Audi,2018,213000,Dizel,Avtomatski,150,10950,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2018,178596,Dizel,Avtomatski,150,17940,Pravna oseba
+Volkswagen Amarok,Volkswagen,,Novo vozilo,Dizel,Avtomatski,241,65831,Pravna oseba
+Volkswagen Taigo,Volkswagen,2026,10768,Bencin,Ročni,116,21000,Pravna oseba
+Volkswagen Golf,Volkswagen,2017,124072,Dizel,Ročni,116,11990,Pravna oseba
+Seat Altea Freetrack,Seat,2012,207100,Dizel,Ročni,140,6690,Pravna oseba
+Audi A1,Audi,2011,85749,Bencin,Ročni,86,7999,Pravna oseba
+BMW Serija 1,BMW,2025,39659,Bencin,Avtomatski,156,33890,Pravna oseba
+BMW Serija 7,BMW,2022,72000,Dizel,Ročni,286,49990,Pravna oseba
+Suzuki e Vitara,Suzuki,,Novo vozilo,,Avtomatski,184,Cena po dogovoru,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2022,65929,Bencin,Avtomatski,190,30999,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2023,117186,Dizel,Avtomatski,150,Cena po dogovoru,Pravna oseba
+Renault Megane E-tech,Renault,2023,17980,,Avtomatski,131,18900,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2025,28047,Dizel,Avtomatski,150,Cena po dogovoru,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2025,23446,Dizel,Avtomatski,150,Cena po dogovoru,Pravna oseba
+Toyota Corolla,Toyota,2022,120986,Bencin,Ročni,116,16400,Pravna oseba
+Toyota Yaris,Toyota,2018,106124,Hibrid,Avtomatski,101,11990,Pravna oseba
+Volkswagen Taigo,Volkswagen,2025,22000,Bencin,Ročni,116,Cena po dogovoru,Pravna oseba
+Volkswagen Passat,Volkswagen,2022,89000,Dizel,Avtomatski,150,Cena po dogovoru,Pravna oseba
+Volkswagen Passat,Volkswagen,2025,24742,Bencin,Avtomatski,150,Cena po dogovoru,Pravna oseba
+Volkswagen Golf,Volkswagen,2022,59204,Bencin,Ročni,131,Cena po dogovoru,Pravna oseba
+Volkswagen Caddy,Volkswagen,2023,149270,Dizel,Ročni,122,Cena po dogovoru,Pravna oseba
+BMW Serija 5,BMW,2025,50396,Dizel,Avtomatski,286,62990,Pravna oseba
+BMW Serija 5,BMW,2024,73007,Dizel,Avtomatski,197,50990,Pravna oseba
+Renault Kangoo,Renault,2022,158000,Dizel,Ročni,95,Cena po dogovoru,Pravna oseba
+Peugeot 2008,Peugeot,2021,124066,Dizel,Avtomatski,131,Cena po dogovoru,Pravna oseba
+Opel Zafira,Opel,2016,125038,Bencin,Ročni,140,Cena po dogovoru,Pravna oseba
+Opel Grandland X,Opel,2019,111000,Dizel,Ročni,131,Cena po dogovoru,Pravna oseba
+Opel Astra,Opel,2023,51000,Bencin,Ročni,110,Cena po dogovoru,Pravna oseba
+MINI One,MINI,2019,63000,Bencin,Ročni,102,Cena po dogovoru,Pravna oseba
+MG Marvel R,MG,2022,98062,,Avtomatski,179,Cena po dogovoru,Pravna oseba
+Mercedes-Benz GLC-Razred,Mercedes-Benz,2023,129000,Dizel,Avtomatski,220,Cena po dogovoru,Pravna oseba
+Mercedes-Benz GLC-Razred,Mercedes-Benz,2022,92000,Dizel,Avtomatski,194,Cena po dogovoru,Pravna oseba
+Mercedes-Benz EQA,Mercedes-Benz,2022,78406,,Avtomatski,190,30999,Pravna oseba
+Mercedes-Benz EQA,Mercedes-Benz,2023,42496,,Avtomatski,190,Cena po dogovoru,Pravna oseba
+Mercedes-Benz A-Razred,Mercedes-Benz,2023,91477,Bencin,Avtomatski,177,Cena po dogovoru,Pravna oseba
+Mazda CX-5,Mazda,2023,85000,Dizel,Avtomatski,150,Cena po dogovoru,Pravna oseba
+Mazda CX-5,Mazda,2020,159989,Dizel,Ročni,150,Cena po dogovoru,Pravna oseba
+Fiat Tipo,Fiat,2021,108003,Dizel,Ročni,95,Cena po dogovoru,Pravna oseba
+Citroën C5 Aircross,Citroën,2022,101711,Dizel,Avtomatski,131,Cena po dogovoru,Pravna oseba
+Seat Leon,Seat,2021,111819,Bencin,Avtomatski,150,14999,Pravna oseba
+Audi A6 Avant,Audi,2017,298181,Dizel,Avtomatski,150,9990,Pravna oseba
+Toyota RAV4,Toyota,2021,137000,Hibrid,Avtomatski,178,26900,Fizična oseba
+BMW X3,BMW,2023,122000,Dizel,Avtomatski,286,Cena po dogovoru,Pravna oseba
+BMW X3,BMW,2021,63200,Bencin,Avtomatski,184,Cena po dogovoru,Pravna oseba
+Mercedes-Benz B-Razred,Mercedes-Benz,2019,186000,Dizel,Avtomatski,150,17990,Pravna oseba
+BMW X3,BMW,2023,121000,Dizel,Avtomatski,190,Cena po dogovoru,Pravna oseba
+Audi A6 Avant,Audi,2021,98953,Dizel,Avtomatski,204,25990,Pravna oseba
+Volkswagen Tiguan Allspace,Volkswagen,2022,48190,Dizel,Avtomatski,200,32990,Pravna oseba
+BMW X3,BMW,2022,97297,Dizel,Avtomatski,190,Cena po dogovoru,Pravna oseba
+Volvo XC60,Volvo,2022,102875,Dizel,Avtomatski,197,31990,Pravna oseba
+Volvo XC60,Volvo,2018,196976,Dizel,Avtomatski,190,19990,Pravna oseba
+KIA Sportage,KIA,2016,52294,Bencin,Avtomatski,177,14990,Pravna oseba
+BMW Serija 5,BMW,2021,124516,Hibrid,Avtomatski,184,Cena po dogovoru,Pravna oseba
+BMW serija 2 Gran Coupe:,BMW,2021,139045,Dizel,Avtomatski,116,Cena po dogovoru,Pravna oseba
+BMW Serija 2,BMW,2023,133976,Dizel,Avtomatski,150,Cena po dogovoru,Pravna oseba
+Audi A6 Avant,Audi,2019,88072,Dizel,Avtomatski,286,33790,Pravna oseba
+Jeep Wrangler,Jeep,2022,20486,Hibrid,Avtomatski,381,49990,Pravna oseba
+Volvo XC60,Volvo,2016,156412,Dizel,Avtomatski,190,20490,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2020,182290,Dizel,Avtomatski,150,20990,Pravna oseba
+Volkswagen Caddy,Volkswagen,2018,158333,Dizel,Ročni,102,17990,Pravna oseba
+Škoda Kodiaq,Škoda,2020,71430,Dizel,Avtomatski,150,29990,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2021,104619,Bencin,Avtomatski,150,26490,Pravna oseba
+Opel Insignia,Opel,2018,191000,Dizel,Avtomatski,136,6990,Pravna oseba
+Renault Megane Conquest,Renault,2022,103866,Hibrid,Avtomatski,94,16990,Pravna oseba
+BMW serija X1:,BMW,2010,322000,Dizel,Ročni,143,4990,Pravna oseba
+Audi A4 Avant,Audi,2017,259561,Dizel,Ročni,150,10990,Pravna oseba
+Audi e-tron,Audi,2022,33344,,Avtomatski,408,Cena po dogovoru,Pravna oseba
+BMW serija 2 Active Tourer:,BMW,2015,217000,Dizel,Ročni,150,7490,Pravna oseba
+Škoda Karoq,Škoda,2020,133884,Dizel,Avtomatski,190,23290,Pravna oseba
+Volkswagen T-Roc,Volkswagen,2022,117892,Dizel,Avtomatski,150,18990,Pravna oseba
+Volkswagen Tiguan Allspace,Volkswagen,2023,99988,Dizel,Avtomatski,200,30990,Pravna oseba
+Audi e-tron,Audi,2022,86569,,Avtomatski,313,Cena po dogovoru,Pravna oseba
+Audi A6 Avant,Audi,2022,96612,Dizel,Avtomatski,204,27490,Pravna oseba
+Audi A6 Allroad,Audi,2021,151158,Dizel,Avtomatski,204,Cena po dogovoru,Pravna oseba
+Volkswagen Tiguan Allspace,Volkswagen,2023,130982,Dizel,Avtomatski,150,29990,Pravna oseba
+Citroën C4 Grand Picasso,Citroën,2015,260000,Dizel,Avtomatski,116,4890,Pravna oseba
+Škoda Kodiaq,Škoda,2023,103575,Dizel,Avtomatski,150,27290,Pravna oseba
+Ford Ranger,Ford,2020,75055,Dizel,Avtomatski,212,32000,Pravna oseba
+Škoda Kodiaq,Škoda,2022,125576,Bencin,Avtomatski,150,29990,Pravna oseba
+Opel Zafira,Opel,2016,187286,Bencin,Ročni,140,6990,Pravna oseba
+Audi e-tron,Audi,2023,96312,,Avtomatski,408,Cena po dogovoru,Pravna oseba
+Audi e-tron,Audi,2022,46764,,Avtomatski,313,Cena po dogovoru,Pravna oseba
+Audi A3,Audi,2013,205970,Dizel,Ročni,105,7550,Pravna oseba
+Volkswagen Golf,Volkswagen,2014,136273,Dizel,Ročni,150,10990,Pravna oseba
+Ford Kuga,Ford,,11495,Hibrid,Avtomatski,179,25900,Pravna oseba
+Ford Tourneo Custom,Ford,,25577,Hibrid,Avtomatski,232,49990,Pravna oseba
+Škoda Octavia,Škoda,2018,239000,Bencin,Ročni,116,7490,Pravna oseba
+Volkswagen Golf,Volkswagen,2022,114000,Bencin,Ročni,131,17650,Pravna oseba
+Škoda Superb,Škoda,2024,65158,Dizel,Avtomatski,150,34999,Pravna oseba
+Škoda Fabia,Škoda,2016,122678,Bencin,Ročni,60,2990,Pravna oseba
+Mercedes-Benz C-Razred,Mercedes-Benz,2019,239000,Dizel,Ročni,136,18990,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2018,265000,Dizel,Avtomatski,150,19990,Pravna oseba
+BMW Serija 3,BMW,2017,142000,Dizel,Ročni,150,16500,Fizična oseba
+Seat Leon,Seat,2023,104649,Dizel,Ročni,150,19999,Pravna oseba
+Volkswagen T-Roc,Volkswagen,2019,33500,Dizel,Avtomatski,150,20990,Pravna oseba
+Volkswagen Touran,Volkswagen,2023,145949,Dizel,Avtomatski,150,22490,Pravna oseba
+Audi A3,Audi,2024,65556,Bencin,Avtomatski,150,23990,Pravna oseba
+Škoda Karoq,Škoda,2023,86150,Bencin,Avtomatski,150,23890,Pravna oseba
+Mitsubishi Outlander,Mitsubishi,2019,40653,Hibrid,Avtomatski,224,20990,Pravna oseba
+Škoda Karoq,Škoda,2021,112209,Bencin,Avtomatski,150,19890,Pravna oseba
+Ford Mondeo,Ford,2022,119339,Dizel,Avtomatski,150,18490,Pravna oseba
+Citroën C5,Citroën,2023,110564,Dizel,Avtomatski,131,18490,Pravna oseba
+Audi A6,Audi,2019,193000,Dizel,Avtomatski,204,21990,Pravna oseba
+Renault Kadjar,Renault,2020,164000,Dizel,Ročni,116,11490,Pravna oseba
+Audi A4,Audi,2015,270730,Dizel,Avtomatski,150,9490,Pravna oseba
+Omoda 9,Omoda,,Novo vozilo,Hibrid,Avtomatski,605,Cena po dogovoru,Pravna oseba
+Omoda 9,Omoda,,Novo vozilo,Hibrid,Avtomatski,605,Cena po dogovoru,Pravna oseba
+BMW Serija 3,BMW,2022,167517,Dizel,Avtomatski,340,29990,Pravna oseba
+Citroën C4 SpaceTourer,Citroën,2018,198000,Dizel,Avtomatski,120,7900,Pravna oseba
+Renault Clio,Renault,2013,165000,Bencin,Ročni,90,4490,Pravna oseba
+Renault Clio,Renault,2013,165000,Bencin,Ročni,90,4490,Pravna oseba
+Ford Kuga,Ford,2024,12000,Bencin,Avtomatski,186,23800,Pravna oseba
+Audi A5 Sportback,Audi,2017,242000,Dizel,Avtomatski,150,16850,Pravna oseba
+Ford Kuga,Ford,2024,12000,Bencin,Avtomatski,186,23800,Pravna oseba
+BMW serija 5 Touring:,BMW,2024,13000,Dizel,Avtomatski,197,45700,Pravna oseba
+BMW serija 5 Touring:,BMW,2024,13000,Dizel,Avtomatski,197,45700,Pravna oseba
+Opel Insignia,Opel,2015,228620,Dizel,Ročni,136,5995,Pravna oseba
+Opel Insignia,Opel,2015,228620,Dizel,Ročni,136,5995,Pravna oseba
+Mercedes-Benz B-Razred,Mercedes-Benz,2013,237000,Dizel,Ročni,109,6850,Pravna oseba
+Toyota Aygo X,Toyota,,Novo vozilo,Hibrid,Avtomatski,92,21450,Pravna oseba
+Jeep Compass,Jeep,2018,154919,Dizel,Avtomatski,140,12900,Pravna oseba
+BMW X5,BMW,2022,122451,Dizel,Avtomatski,286,47500,Pravna oseba
+BMW Serija 5,BMW,2018,105925,Dizel,Avtomatski,231,23990,Pravna oseba
+Volkswagen Caddy,Volkswagen,2020,66154,Dizel,Avtomatski,102,23990,Pravna oseba
+Lexus RX,Lexus,2023,24841,Hibrid,Avtomatski,190,56990,Pravna oseba
+Renault Clio,Renault,2013,153653,Bencin,Ročni,90,4790,Pravna oseba
+KIA Optima,KIA,2017,225000,Dizel,Avtomatski,141,10450,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2018,145000,Dizel,Avtomatski,150,16950,Pravna oseba
+Opel Mokka,Opel,2016,160000,Dizel,Ročni,110,7950,Pravna oseba
+Opel Mokka,Opel,2016,160000,Dizel,Ročni,110,7950,Pravna oseba
+Škoda Superb,Škoda,2020,127429,Hibrid,Avtomatski,218,16990,Pravna oseba
+MG MG3,MG,2025,40199,Bencin,Ročni,116,13990,Pravna oseba
+Volkswagen Golf,Volkswagen,2016,225057,Dizel,Ročni,110,7300,Pravna oseba
+Seat Leon,Seat,2017,156437,Dizel,Avtomatski,110,8900,Pravna oseba
+Volvo XC40,Volvo,2026,10000,Bencin,Avtomatski,163,33999,Pravna oseba
+Mazda CX-5,Mazda,2017,213142,Dizel,Avtomatski,175,13199,Pravna oseba
+Volvo XC90,Volvo,2007,348000,Dizel,Avtomatski,185,4000,Fizična oseba
+Fiat 500,Fiat,2019,41007,Bencin,Ročni,69,10490,Pravna oseba
+Škoda Octavia,Škoda,2020,185000,Dizel,Avtomatski,150,16950,Pravna oseba
+Hyundai ix35,Hyundai,2015,192140,Dizel,Ročni,136,9990,Pravna oseba
+BMW Serija 5,BMW,2020,149244,Dizel,Ročni,190,Cena po dogovoru,Pravna oseba
+Volkswagen ID.Buzz,Volkswagen,,Novo vozilo,,Avtomatski,286,Cena po dogovoru,Pravna oseba
+Volkswagen Golf,Volkswagen,,Novo vozilo,Bencin,Avtomatski,150,31700,Pravna oseba
+Volkswagen ID.4,Volkswagen,,Novo vozilo,,Avtomatski,170,34757,Pravna oseba
+Volkswagen ID.4,Volkswagen,,Novo vozilo,,Avtomatski,170,Cena po dogovoru,Pravna oseba
+Volkswagen T-Roc,Volkswagen,,Novo vozilo,Bencin,Avtomatski,150,39999,Pravna oseba
+Volkswagen Passat,Volkswagen,,Novo vozilo,Hibrid,Avtomatski,204,38990,Pravna oseba
+Volkswagen ID.3,Volkswagen,,Novo vozilo,,Avtomatski,170,34238,Pravna oseba
+Volkswagen ID.7,Volkswagen,,Novo vozilo,,Avtomatski,286,52037,Pravna oseba
+Volkswagen Tiguan,Volkswagen,,Novo vozilo,Hibrid,Avtomatski,204,40500,Pravna oseba
+Volkswagen Tayron,Volkswagen,,Novo vozilo,Dizel,Avtomatski,193,64000,Pravna oseba
+Volkswagen Tayron,Volkswagen,,Novo vozilo,Bencin,Avtomatski,150,39900,Pravna oseba
+Volkswagen Taigo,Volkswagen,,Novo vozilo,Bencin,Avtomatski,116,23800,Pravna oseba
+Volkswagen T-Cross,Volkswagen,2019,73765,Bencin,Ročni,95,13670,Pravna oseba
+Citroën C3,Citroën,2018,86997,Bencin,Ročni,82,6999,Pravna oseba
+MINI Cooper,MINI,2012,167000,Bencin,Avtomatski,184,7290,Pravna oseba
+Ford Ranger,Ford,2023,102000,Dizel,Avtomatski,170,28990,Pravna oseba
+Volkswagen Taigo,Volkswagen,2026,5000,Bencin,Ročni,116,24590,Pravna oseba
+Volkswagen T-Roc,Volkswagen,2026,4000,Bencin,Avtomatski,150,32790,Pravna oseba
+BMW i3,BMW,2021,94977,,Avtomatski,184,22990,Pravna oseba
+BMW X1,BMW,2023,82477,Hibrid,Avtomatski,136,33990,Pravna oseba
+BMW X1,BMW,2024,78027,Bencin,Avtomatski,218,34990,Pravna oseba
+Volkswagen Passat,Volkswagen,,Novo vozilo,Bencin,Avtomatski,150,42542,Pravna oseba
+Volkswagen ID.3,Volkswagen,2024,21000,,Avtomatski,204,31990,Pravna oseba
+Volkswagen T-Cross,Volkswagen,2025,7500,Bencin,Ročni,116,22499,Pravna oseba
+Volkswagen Passat,Volkswagen,2025,40000,Hibrid,Avtomatski,204,39999,Pravna oseba
+Volkswagen ID.3,Volkswagen,2024,21000,,Avtomatski,204,34999,Pravna oseba
+Škoda Kodiaq,Škoda,2025,15000,Bencin,Avtomatski,150,38490,Pravna oseba
+Volkswagen Touran,Volkswagen,2026,13000,Dizel,Ročni,122,31900,Pravna oseba
+Volkswagen Tayron,Volkswagen,2025,17000,Bencin,Avtomatski,150,38999,Pravna oseba
+Volkswagen T-Roc,Volkswagen,2025,7000,Bencin,Avtomatski,150,34999,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2025,22000,Bencin,Avtomatski,150,39490,Pravna oseba
+Nissan X-Trail,Nissan,2026,1,,Avtomatski,158,46900,Pravna oseba
+Škoda Kodiaq,Škoda,2022,87100,Bencin,Avtomatski,150,28999,Pravna oseba
+Škoda Octavia,Škoda,2021,159630,Dizel,Avtomatski,150,16995,Pravna oseba
+Škoda Octavia,Škoda,2021,159630,Dizel,Avtomatski,150,16995,Pravna oseba
+Mercedes-Benz A-Razred,Mercedes-Benz,2020,122519,Bencin,Avtomatski,163,19988,Pravna oseba
+Renault Symbioz,Renault,,Novo vozilo,Hibrid,Avtomatski,145,29490,Pravna oseba
+Dacia Duster,Dacia,,Novo vozilo,Bencin,Ročni,140,20980,Pravna oseba
+Ford Transit,Ford,2023,158967,Dizel,Avtomatski,120,16999,Pravna oseba
+Audi A8,Audi,2025,28846,Hibrid,Avtomatski,462,79990,Pravna oseba
+Peugeot 5008,Peugeot,2023,35154,Bencin,Ročni,131,18990,Pravna oseba
+Audi A6,Audi,2021,130264,Dizel,Avtomatski,204,24990,Pravna oseba
+Audi Q3,Audi,2022,42000,Bencin,Avtomatski,150,28490,Pravna oseba
+Ford Mondeo,Ford,2015,199100,Dizel,Ročni,116,Cena po dogovoru,Pravna oseba
+Volvo S90,Volvo,2018,209320,Dizel,Avtomatski,190,17995,Pravna oseba
+Volvo S90,Volvo,2018,209320,Dizel,Avtomatski,190,17995,Pravna oseba
+Opel Mokka,Opel,2024,30000,,,136,17800,Fizična oseba
+Citroën C4,Citroën,2024,79974,Bencin,Avtomatski,131,15890,Pravna oseba
+Peugeot 308,Peugeot,2019,153987,Bencin,Ročni,110,6750,Pravna oseba
+Audi A6,Audi,2025,27000,Dizel,Avtomatski,204,52990,Pravna oseba
+BMW Serija 3,BMW,2021,152000,Dizel,Avtomatski,150,22990,Pravna oseba
+Audi A6,Audi,2025,27220,Dizel,Avtomatski,204,50490,Pravna oseba
+Audi A8,Audi,2022,127648,Dizel,Avtomatski,286,Cena po dogovoru,Pravna oseba
+Audi A6 Avant,Audi,2015,258630,Dizel,Avtomatski,320,16995,Pravna oseba
+BMW Serija 1,BMW,2025,39700,Bencin,Avtomatski,156,33890,Pravna oseba
+BMW Serija 5,BMW,2025,50396,Dizel,Avtomatski,286,62990,Pravna oseba
+Forthing V9,Forthing,,Novo vozilo,Hibrid,Avtomatski,272,42900,Pravna oseba
+Dacia Sandero,Dacia,,Novo vozilo,Bencin,Ročni,110,Cena po dogovoru,Pravna oseba
+Dacia Duster,Dacia,,Novo vozilo,Bencin,Ročni,140,Cena po dogovoru,Pravna oseba
+Renault Symbioz,Renault,,Novo vozilo,Bencin,Ročni,140,Cena po dogovoru,Pravna oseba
+Renault Symbioz,Renault,,Novo vozilo,Bencin,Ročni,140,24940,Pravna oseba
+Renault Symbioz,Renault,,Novo vozilo,Hibrid,Ročni,140,24470,Pravna oseba
+Renault Symbioz,Renault,,Novo vozilo,Bencin,Ročni,190,Cena po dogovoru,Pravna oseba
+Audi A6,Audi,2025,24920,Dizel,Avtomatski,204,50490,Pravna oseba
+Volkswagen Golf,Volkswagen,2015,188000,Dizel,Avtomatski,184,12850,Pravna oseba
+KG Mobility Musso,KG,,Novo vozilo,Dizel,Avtomatski,203,41999,Pravna oseba
+Audi A4 Avant,Audi,2019,231000,Dizel,Avtomatski,150,14850,Pravna oseba
+Audi A4 Avant,Audi,2019,231000,Dizel,Avtomatski,150,14850,Pravna oseba
+KIA Stonic,KIA,2022,39357,Bencin,Ročni,84,12999,Pravna oseba
+Volkswagen Passat,Volkswagen,2021,179913,Dizel,Avtomatski,122,19900,Pravna oseba
+BMW serija 7:,BMW,2020,92217,Dizel,Avtomatski,286,41800,Pravna oseba
+Audi A4 Avant,Audi,2011,368132,Dizel,Ročni,170,4790,Pravna oseba
+Opel Corsa,Opel,2022,83231,Bencin,Ročni,75,9490,Pravna oseba
+Audi A3,Audi,2014,310224,Dizel,Ročni,105,7500,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2015,162693,Dizel,Ročni,110,9990,Pravna oseba
+Audi A4,Audi,2015,276267,Dizel,Ročni,150,9990,Pravna oseba
+Citroën Berlingo,Citroën,2019,173137,Dizel,Ročni,102,12490,Pravna oseba
+Opel Corsa,Opel,2024,29437,Bencin,Ročni,101,14640,Pravna oseba
+Audi Q3,Audi,2012,209267,Dizel,Ročni,136,10990,Pravna oseba
+Audi A4 Avant,Audi,2018,234010,Dizel,Ročni,190,12490,Pravna oseba
+Audi A4,Audi,2017,328013,Dizel,Ročni,122,12990,Pravna oseba
+Mercedes-Benz C-Razred,Mercedes-Benz,2015,279827,Dizel,Ročni,116,8200,Pravna oseba
+Audi A3,Audi,2019,211000,Dizel,Avtomatski,150,14900,Pravna oseba
+Renault Megane,Renault,2018,154582,Dizel,Ročni,110,8690,Pravna oseba
+Volkswagen Golf,Volkswagen,2015,267476,Dizel,Ročni,150,9500,Pravna oseba
+Opel Grandland,Opel,2025,28780,Bencin,Avtomatski,136,24990,Pravna oseba
+Škoda Octavia,Škoda,2016,213510,Dizel,Avtomatski,110,7780,Pravna oseba
+Škoda Karoq,Škoda,2023,96142,Dizel,Avtomatski,116,21980,Pravna oseba
+Seat Arona,Seat,2022,169070,Bencin,Avtomatski,150,14880,Pravna oseba
+Renault Scénic,Renault,2015,158012,Dizel,Ročni,110,5480,Pravna oseba
+Renault Kangoo,Renault,2017,113748,Dizel,Ročni,90,9980,Pravna oseba
+Renault Clio,Renault,2019,34523,Bencin,Ročni,76,8480,Pravna oseba
+Ford Kuga,Ford,2024,12000,Bencin,Avtomatski,186,23800,Pravna oseba
+Peugeot 3008,Peugeot,2017,181776,Dizel,Ročni,120,10980,Pravna oseba
+Peugeot 3008,Peugeot,2021,163614,Dizel,Ročni,131,14980,Pravna oseba
+Peugeot 3008,Peugeot,2021,68681,Bencin,Avtomatski,131,17980,Pravna oseba
+Peugeot 2008,Peugeot,2023,124472,Bencin,Avtomatski,131,13980,Pravna oseba
+Mazda Mazda3,Mazda,2019,114739,Dizel,Avtomatski,116,14980,Pravna oseba
+Hyundai Elantra,Hyundai,2012,172324,Bencin,Ročni,132,5980,Pravna oseba
+Ford Puma,Ford,2021,94900,Bencin,Ročni,125,13980,Pravna oseba
+Ford Focus,Ford,2020,159452,Dizel,Avtomatski,120,8980,Pravna oseba
+Ford Focus,Ford,2020,149786,Dizel,Avtomatski,120,9980,Pravna oseba
+DS DS 7 Crossback,DS,2019,118000,Dizel,Avtomatski,131,17880,Pravna oseba
+DS DS 4,DS,2023,61685,Bencin,Avtomatski,131,18980,Pravna oseba
+DS DS 4,DS,2022,71302,Bencin,Avtomatski,131,18980,Pravna oseba
+Citroën C4 Grand Picasso,Citroën,2015,239909,Dizel,Avtomatski,116,5980,Pravna oseba
+Citroën C4 Grand Picasso,Citroën,2016,198786,Dizel,Ročni,120,5480,Pravna oseba
+Citroën C4,Citroën,2022,53105,Bencin,Ročni,131,12980,Pravna oseba
+Citroën C3 Aircross,Citroën,2021,98978,Dizel,Avtomatski,120,12480,Pravna oseba
+BMW X3,BMW,2012,299450,Dizel,Avtomatski,184,10980,Pravna oseba
+Audi A3,Audi,2021,87949,Hibrid,Avtomatski,204,20980,Pravna oseba
+Alfa Romeo Tonale,Alfa,2024,95117,Bencin,Avtomatski,131,20980,Pravna oseba
+Audi A6,Audi,2019,146000,Dizel,Avtomatski,286,23990,Pravna oseba
+Audi A5 Sportback,Audi,2015,232950,Dizel,Avtomatski,150,11995,Pravna oseba
+Audi A5 Sportback,Audi,2015,232950,Dizel,Avtomatski,150,11995,Pravna oseba
+Audi A5 Sportback,Audi,2015,232950,Dizel,Avtomatski,150,11995,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2022,49199,Bencin,Ročni,131,23999,Pravna oseba
+KIA Ceed,KIA,2025,5000,Bencin,Ročni,101,16999,Pravna oseba
+Audi A3,Audi,2017,36000,Bencin,Avtomatski,190,17900,Pravna oseba
+Mercedes-Benz C-Razred,Mercedes-Benz,2014,259000,Dizel,Ročni,136,13850,Pravna oseba
+BMW serija X5:,BMW,2025,9000,Bencin,Avtomatski,625,149950,Pravna oseba
+Volkswagen Arteon Shooting Brake,Volkswagen,2022,129000,Dizel,Avtomatski,200,29950,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2021,152000,Dizel,Avtomatski,150,28890,Pravna oseba
+Volkswagen Arteon Shooting Brake,Volkswagen,2022,115020,Dizel,Avtomatski,190,28850,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2021,144000,Dizel,Avtomatski,150,27900,Pravna oseba
+Volkswagen Arteon Shooting Brake,Volkswagen,2022,138000,Dizel,Avtomatski,150,26850,Pravna oseba
+Audi Q5,Audi,2019,215000,Dizel,Avtomatski,190,23850,Pravna oseba
+Volkswagen Golf Variant,Volkswagen,2021,149000,Dizel,Avtomatski,150,23850,Pravna oseba
+Škoda Octavia,Škoda,2022,125000,Dizel,Avtomatski,150,24850,Pravna oseba
+Volvo XC60,Volvo,2019,195000,Dizel,Avtomatski,190,22850,Pravna oseba
+Volkswagen Golf Variant,Volkswagen,2022,145000,Dizel,Avtomatski,150,20850,Pravna oseba
+Volkswagen Passat Variant,Volkswagen,2020,176000,Dizel,Avtomatski,150,20850,Pravna oseba
+Volkswagen Golf Variant,Volkswagen,2022,179000,Dizel,Avtomatski,150,19850,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2021,159080,Dizel,Ročni,122,19850,Pravna oseba
+BMW serija 5 Touring:,BMW,2017,215000,Dizel,Avtomatski,231,17850,Pravna oseba
+Opel Mokka,Opel,2021,110000,Bencin,Ročni,101,13900,Pravna oseba
+Volkswagen Golf Variant,Volkswagen,2021,165000,Dizel,Avtomatski,150,19950,Pravna oseba
+Mercedes-Benz CLA-Razred,Mercedes-Benz,2017,69106,Bencin,Ročni,122,17950,Pravna oseba
+Volkswagen Touran,Volkswagen,2018,195120,Dizel,Ročni,150,17850,Pravna oseba
+Volkswagen Passat Alltrack,Volkswagen,2017,165072,Dizel,Ročni,150,16850,Pravna oseba
+Volkswagen Caddy,Volkswagen,2018,90000,Dizel,Ročni,102,15950,Pravna oseba
+Mercedes-Benz C-Razred,Mercedes-Benz,2017,206421,Dizel,Avtomatski,136,15900,Pravna oseba
+Volkswagen Caddy,Volkswagen,2019,165020,Dizel,Ročni,102,15900,Pravna oseba
+Mercedes-Benz E-Razred,Mercedes-Benz,2015,181000,Dizel,Avtomatski,136,15850,Pravna oseba
+Audi A6 Avant,Audi,2016,254141,Dizel,Avtomatski,150,14850,Pravna oseba
+BMW serija X1:,BMW,2016,163011,Dizel,Avtomatski,150,14850,Pravna oseba
+Hyundai Tucson,Hyundai,2019,129000,Dizel,Ročni,116,14850,Pravna oseba
+Audi A4 Avant,Audi,2016,250074,Dizel,Avtomatski,190,13850,Pravna oseba
+Škoda Octavia,Škoda,2017,219061,Dizel,Ročni,184,13850,Pravna oseba
+Volkswagen Passat Variant,Volkswagen,2018,199000,Dizel,Avtomatski,150,13850,Pravna oseba
+Volkswagen Golf Sportsvan,Volkswagen,2018,208000,Bencin,Ročni,131,12600,Pravna oseba
+Audi A4 Avant,Audi,2016,214045,Dizel,Ročni,136,11850,Pravna oseba
+Audi A6 Avant,Audi,2012,239000,Dizel,Avtomatski,177,11850,Pravna oseba
+Volkswagen Golf,Volkswagen,2016,203000,Dizel,Ročni,150,11850,Pravna oseba
+Opel Zafira,Opel,2017,125027,Dizel,Ročni,135,11850,Pravna oseba
+Audi A6 Avant,Audi,2014,235056,Dizel,Ročni,136,10850,Pravna oseba
+Audi Q5,Audi,2009,315000,Dizel,Avtomatski,170,8900,Pravna oseba
+BMW serija 5 Touring:,BMW,2015,223000,Dizel,Ročni,190,8650,Pravna oseba
+KIA Proceed,KIA,2020,199020,Dizel,Avtomatski,136,10850,Pravna oseba
+Suzuki SX4 S-Cross,Suzuki,2017,199000,Bencin,Ročni,111,8850,Pravna oseba
+Opel Insignia,Opel,2014,207843,Dizel,Ročni,140,7350,Pravna oseba
+Volkswagen Golf Variant,Volkswagen,2015,198137,Dizel,Ročni,110,7850,Pravna oseba
+Volkswagen Passat CC,Volkswagen,2010,275000,Dizel,Ročni,140,6600,Pravna oseba
+Volkswagen Jetta,Volkswagen,2014,179056,Dizel,Ročni,105,6950,Pravna oseba
+Citroën Berlingo,Citroën,2014,159248,Dizel,Ročni,75,6950,Pravna oseba
+Volkswagen Touran,Volkswagen,2011,285038,Dizel,Ročni,105,5300,Pravna oseba
+Renault Clio,Renault,2011,245000,Dizel,Ročni,75,2300,Pravna oseba
+Peugeot 508,Peugeot,2012,239000,Hibrid,Avtomatski,163,4900,Pravna oseba
+Hyundai Trajet,Hyundai,2008,196000,Bencin,Ročni,140,2850,Pravna oseba
+Opel Insignia,Opel,2019,170000,Dizel,Ročni,170,10950,Pravna oseba
+Renault Symbioz,Renault,,Novo vozilo,Hibrid,Avtomatski,158,33640,Pravna oseba
+Volkswagen Golf,Volkswagen,2021,155000,Dizel,Avtomatski,150,19450,Pravna oseba
+Mercedes-Benz E-Razred,Mercedes-Benz,2017,225000,Dizel,Avtomatski,194,21350,Pravna oseba
+Fiat 124 Spider,Fiat,2018,61174,Bencin,Avtomatski,140,23990,Pravna oseba
+Omoda 9,Omoda,,Novo vozilo,Hibrid,Avtomatski,605,Cena po dogovoru,Pravna oseba
+Volkswagen T-Roc,Volkswagen,2019,133040,Dizel,Ročni,116,14999,Pravna oseba
+BYD ATTO 2,BYD,,Novo vozilo,Hibrid,Avtomatski,166,Cena po dogovoru,Pravna oseba
+Audi A5,Audi,2015,234741,Dizel,Ročni,150,13940,Pravna oseba
+Mercedes-Benz V-Razred,Mercedes-Benz,2026,31357,Dizel,Avtomatski,237,89988,Pravna oseba
+Renault Clio,Renault,2006,224273,Dizel,Ročni,68,1450,Fizična oseba
+Peugeot 5008,Peugeot,2019,148800,Dizel,Avtomatski,131,Cena po dogovoru,Pravna oseba
+Peugeot 5008,Peugeot,2019,148800,Dizel,Avtomatski,131,Cena po dogovoru,Pravna oseba
+Peugeot 5008,Peugeot,2019,148800,Dizel,Avtomatski,131,Cena po dogovoru,Pravna oseba
+Volkswagen Sharan,Volkswagen,2015,332000,Dizel,Ročni,140,8980,Fizična oseba
+Volkswagen Sharan,Volkswagen,2012,256000,Dizel,Ročni,140,8150,Fizična oseba
+SsangYong Tivoli,SsangYong,2016,128000,Dizel,Avtomatski,116,6900,Pravna oseba
+Audi A6 Avant,Audi,2017,213000,Dizel,Avtomatski,272,14850,Pravna oseba
+Škoda Octavia,Škoda,2015,296498,Dizel,Avtomatski,150,7490,Pravna oseba
+BMW Serija 5,BMW,2017,258989,Dizel,Avtomatski,190,19990,Pravna oseba
+Volkswagen Golf,Volkswagen,2017,170982,Bencin,Ročni,110,9790,Pravna oseba
+Mercedes-Benz GLC-Razred,Mercedes-Benz,2019,187537,Dizel,Avtomatski,163,27990,Pravna oseba
+Ford Transit Courier,Ford,,19385,Bencin,,101,20990,Pravna oseba
+Volkswagen Golf,Volkswagen,2016,137226,Bencin,Ročni,86,9490,Pravna oseba
+Renault Clio,Renault,2016,146587,Bencin,Ročni,73,6790,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2014,192000,Dizel,Ročni,110,9850,Pravna oseba
+Škoda Octavia,Škoda,2016,254000,Dizel,Avtomatski,110,7850,Pravna oseba
+BMW serija X6:,BMW,2015,195000,Dizel,Avtomatski,258,23850,Pravna oseba
+KIA Pro_Ceed,KIA,2009,254778,Dizel,Ročni,116,2199,Pravna oseba
+Mercedes-Benz B-Razred,Mercedes-Benz,2016,141927,Dizel,Ročni,136,10190,Pravna oseba
+Opel Astra,Opel,2021,107897,Bencin,Ročni,110,Cena po dogovoru,Pravna oseba
+Dacia Bigster,Dacia,,Novo vozilo,Hibrid,Avtomatski,156,29940,Pravna oseba
+Volvo XC40,Volvo,2020,128624,Bencin,Avtomatski,163,18999,Pravna oseba
+Ford Kuga,Ford,2024,54998,Bencin,Avtomatski,186,21999,Pravna oseba
+Seat Tarraco,Seat,2021,140883,Bencin,Avtomatski,150,22444,Pravna oseba
+Seat Tarraco,Seat,2021,140883,Bencin,Avtomatski,150,22444,Pravna oseba
+Peugeot 3008,Peugeot,2022,83881,Dizel,Avtomatski,131,19382,Pravna oseba
+Opel Zafira,Opel,2018,110824,Bencin,Ročni,140,9799,Pravna oseba
+Volkswagen T-Roc,Volkswagen,2019,84775,Bencin,Ročni,116,14499,Pravna oseba
+Škoda Octavia,Škoda,2015,209242,Bencin,Ročni,105,5490,Pravna oseba
+Audi Q8,Audi,2024,26000,Dizel,Avtomatski,286,Cena po dogovoru,Pravna oseba
+Volkswagen Passat,Volkswagen,2005,220500,Dizel,Ročni,105,2990,Pravna oseba
+Volkswagen Passat,Volkswagen,2017,299000,Dizel,Avtomatski,150,8200,Pravna oseba
+Fiat 500X,Fiat,2024,29663,Bencin,Ročni,120,Cena po dogovoru,Pravna oseba
+Mercedes-Benz GLC-Razred,Mercedes-Benz,2025,10224,Dizel,Avtomatski,269,Cena po dogovoru,Pravna oseba
+Mercedes-Benz GLB-Razred,Mercedes-Benz,2025,14329,Dizel,Avtomatski,190,Cena po dogovoru,Pravna oseba
+Mercedes-Benz GLB-Razred,Mercedes-Benz,2025,11299,Dizel,Avtomatski,150,42988,Pravna oseba
+Peugeot 1007,Peugeot,2006,161000,Bencin,Avtomatski,109,799,Fizična oseba
+Mercedes-Benz GLA-Razred,Mercedes-Benz,2024,23727,Dizel,Avtomatski,150,Cena po dogovoru,Pravna oseba
+Mercedes-Benz E-Razred,Mercedes-Benz,2024,26527,Hibrid,Avtomatski,313,Cena po dogovoru,Pravna oseba
+KIA Sportage,KIA,2025,28250,Bencin,Avtomatski,150,23999,Pravna oseba
+Mercedes-Benz E-Razred,Mercedes-Benz,2024,56540,Hibrid,Avtomatski,313,Cena po dogovoru,Pravna oseba
+BMW Serija 2,BMW,2017,179800,Dizel,Ročni,116,9350,Pravna oseba
+Mercedes-Benz A-Razred,Mercedes-Benz,2018,71491,Bencin,Avtomatski,163,19488,Pravna oseba
+KIA XCeed,KIA,2025,15778,Bencin,Avtomatski,140,23499,Pravna oseba
+Jeep Avenger,Jeep,2025,15932,Bencin,Ročni,101,18488,Pravna oseba
+Jeep Renegade,Jeep,2024,47903,Bencin,Avtomatski,131,17488,Pravna oseba
+Citroën C3,Citroën,2026,4262,Bencin,Ročni,101,15988,Pravna oseba
+Alfa Romeo Stelvio,Alfa,2026,14946,Bencin,Avtomatski,280,48488,Pravna oseba
+Alfa Romeo Stelvio,Alfa,2025,12767,Bencin,Avtomatski,280,44988,Pravna oseba
+Fiat Grande Panda,Fiat,2026,10610,Bencin,Avtomatski,110,17488,Pravna oseba
+Alfa Romeo Junior,Alfa,2025,10115,Bencin,Avtomatski,144,24988,Pravna oseba
+Volkswagen Passat,Volkswagen,2022,133900,Dizel,Avtomatski,200,27900,Pravna oseba
+Nissan 100 NX,Nissan,1994,128500,Bencin,Ročni,102,4790,Pravna oseba
+Volkswagen Sharan,Volkswagen,2012,235000,Dizel,Ročni,140,12990,Pravna oseba
+Citroën C5 Aircross,Citroën,2022,76300,Dizel,Avtomatski,131,17990,Pravna oseba
+BMW X1,BMW,2016,96350,Dizel,Ročni,150,16990,Pravna oseba
+Volkswagen ID.5,Volkswagen,2023,72580,,Avtomatski,204,26500,Pravna oseba
+Volkswagen Arteon,Volkswagen,2022,53721,Bencin,Avtomatski,320,34900,Pravna oseba
+Nissan Qashqai,Nissan,2019,113482,Bencin,Avtomatski,159,13900,Pravna oseba
+Mercedes-Benz GLE-Razred,Mercedes-Benz,2021,155101,Hibrid,Avtomatski,320,44900,Pravna oseba
+Ford Tourneo,Ford,2020,230586,Dizel,Ročni,185,17900,Pravna oseba
+Audi A5,Audi,2024,24500,Dizel,Avtomatski,204,56888,Pravna oseba
+Mercedes-Benz GLC-Razred,Mercedes-Benz,2018,80670,Dizel,Avtomatski,170,29900,Pravna oseba
+BMW X7,BMW,2023,155502,Dizel,Avtomatski,352,71900,Pravna oseba
+Citroën C5 X,Citroën,2024,65619,Bencin,Avtomatski,131,21990,Pravna oseba
+Mazda Mazda2,Mazda,2005,130200,Bencin,Ročni,75,390,Pravna oseba
+Mercedes-Benz B-Razred,Mercedes-Benz,2010,311885,Dizel,Ročni,109,2550,Pravna oseba
+Fiat 500C,Fiat,2023,21835,Bencin,Ročni,69,11990,Pravna oseba
+BMW Serija 3,BMW,2026,6799,Bencin,Avtomatski,184,44777,Pravna oseba
+Škoda Octavia,Škoda,2013,322167,Dizel,Ročni,170,4990,Pravna oseba
+Mazda Mazda6,Mazda,2014,186000,Dizel,Ročni,150,6990,Pravna oseba
+Škoda Octavia,Škoda,2021,85806,Dizel,Ročni,116,17999,Pravna oseba
+BMW Serija 3,BMW,2023,95576,Dizel,Avtomatski,190,34990,Pravna oseba
+Volkswagen Golf,Volkswagen,2021,117656,Dizel,Avtomatski,200,23999,Pravna oseba
+Audi A4,Audi,2017,318000,Dizel,Avtomatski,272,12980,Pravna oseba
+BMW X1,BMW,2025,24300,Dizel,Avtomatski,150,44880,Pravna oseba
+BMW i5,BMW,2023,43304,,Avtomatski,340,44010,Pravna oseba
+Toyota Proace,Toyota,2020,86057,Dizel,Ročni,120,20990,Pravna oseba
+Audi Q3,Audi,2014,289245,Dizel,Ročni,140,8990,Pravna oseba
+Volkswagen Golf,Volkswagen,2021,179000,Dizel,Ročni,116,14990,Pravna oseba
+Audi A3,Audi,2021,176000,Dizel,Avtomatski,150,20990,Pravna oseba
+Renault Zoe,Renault,2020,100970,,Avtomatski,136,11380,Pravna oseba
+Citroën C3,Citroën,2018,77560,Bencin,Ročni,82,6990,Pravna oseba
+Audi A6,Audi,2020,135881,Dizel,Avtomatski,204,Cena po dogovoru,Pravna oseba
+Mercedes-Benz B-Razred,Mercedes-Benz,2018,162500,Dizel,Avtomatski,136,14690,Pravna oseba
+MG MG HS,MG,2025,12950,Hibrid,Avtomatski,224,29990,Pravna oseba
+Volkswagen Golf,Volkswagen,2019,150183,Dizel,Ročni,116,16990,Pravna oseba
+MG MG HS,MG,,Novo vozilo,Hibrid,Avtomatski,224,26990,Pravna oseba
+MG MG HS,MG,,Novo vozilo,Hibrid,Avtomatski,224,27490,Pravna oseba
+MG MG HS,MG,,Novo vozilo,Hibrid,Avtomatski,224,27490,Pravna oseba
+MG MG HS,MG,,Novo vozilo,Hibrid,Avtomatski,224,27490,Pravna oseba
+MG MG HS,MG,,Novo vozilo,Hibrid,Avtomatski,224,29990,Pravna oseba
+KIA Stonic,KIA,,Novo vozilo,Bencin,Ročni,79,16649,Pravna oseba
+KG Mobility Korando,KG,,Novo vozilo,Bencin,Ročni,163,Cena po dogovoru,Pravna oseba
+KG Mobility Korando,KG,,Novo vozilo,Bencin,Avtomatski,163,Cena po dogovoru,Pravna oseba
+MG MGS5 EV,MG,,Novo vozilo,,Avtomatski,231,33990,Pravna oseba
+Volkswagen Golf,Volkswagen,2018,98200,Bencin,Ročni,110,11490,Pravna oseba
+Alfa Romeo Tonale,Alfa,2023,74000,Bencin,Avtomatski,131,Cena po dogovoru,Pravna oseba
+Citroën Berlingo,Citroën,2017,245000,Dizel,Ročni,99,5500,Fizična oseba
+Opel Crossland,Opel,2019,85940,Bencin,Ročni,110,Cena po dogovoru,Pravna oseba
+Fiat Tipo,Fiat,2018,101208,Bencin,Ročni,95,6870,Pravna oseba
+KIA Stonic,KIA,2019,60819,Bencin,Ročni,99,12000,Fizična oseba
+Mercedes-Benz EQE,Mercedes-Benz,2023,57451,,Avtomatski,245,44980,Pravna oseba
+Renault Clio,Renault,2020,63496,Bencin,Ročni,101,9990,Pravna oseba
+Citroën C3 Aircross,Citroën,2024,15116,Bencin,Ročni,110,13990,Pravna oseba
+Volkswagen Golf,Volkswagen,2011,181361,Bencin,Ročni,105,4190,Pravna oseba
+Peugeot Partner,Peugeot,2012,240200,Dizel,Ročni,92,6900,Pravna oseba
+Opel Crossland,Opel,2023,26537,Bencin,Ročni,110,12990,Pravna oseba
+Voyah Free,Voyah,2026,30,,Avtomatski,489,49990,Pravna oseba
+Renault Clio,Renault,,Novo vozilo,Hibrid,Avtomatski,158,27140,Pravna oseba
+Audi A6,Audi,2019,86000,Bencin,Avtomatski,340,36490,Pravna oseba
+BMW Serija 3,BMW,2025,65450,Dizel,Avtomatski,190,42990,Pravna oseba
+BMW X1,BMW,2024,81739,Dizel,Avtomatski,197,39990,Pravna oseba
+BMW Serija 5,BMW,2024,57481,Dizel,Avtomatski,197,55890,Pravna oseba
+Volkswagen T-Roc,Volkswagen,2020,92269,Dizel,Avtomatski,150,20999,Pravna oseba
+Geely Coolray,Geely,2024,41098,Bencin,Avtomatski,174,19990,Pravna oseba
+KIA Sportage,KIA,2025,24,Bencin,Avtomatski,160,27488,Pravna oseba
+KIA Sportage,KIA,2025,13,Bencin,Avtomatski,160,27488,Pravna oseba
+Volvo XC60,Volvo,2023,97043,Dizel,Avtomatski,197,Cena po dogovoru,Pravna oseba
+Volvo XC60,Volvo,2024,39897,Bencin,Avtomatski,197,Cena po dogovoru,Pravna oseba
+DS DS 4,DS,2025,11821,Bencin,Avtomatski,131,22488,Pravna oseba
+Lamborghini Huracan,Lamborghini,2024,3800,Bencin,Avtomatski,640,338850,Pravna oseba
+Citroën C3,Citroën,2022,57000,Bencin,Ročni,83,7950,Pravna oseba
+BMW serija 3 Gran Turismo:,BMW,2016,267000,Dizel,Avtomatski,150,9850,Pravna oseba
+Audi A3,Audi,2019,189000,Bencin,Ročni,116,12850,Pravna oseba
+Škoda Octavia,Škoda,2015,210000,Dizel,Ročni,105,7850,Pravna oseba
+Mercedes-Benz G-Razred,Mercedes-Benz,2026,6800,Bencin,Avtomatski,585,218950,Pravna oseba
+Audi A3,Audi,2016,198000,Dizel,Ročni,110,8850,Pravna oseba
+Audi A4,Audi,2019,217000,Dizel,Avtomatski,190,19850,Pravna oseba
+BMW serija X3:,BMW,2017,210000,Dizel,Avtomatski,190,15850,Pravna oseba
+Volkswagen Passat Variant,Volkswagen,2020,246000,Dizel,Avtomatski,150,15950,Pravna oseba
+BMW X6,BMW,2024,26484,Dizel,Avtomatski,352,82990,Pravna oseba
+Alfa Romeo Stelvio,Alfa,2024,28434,Dizel,Avtomatski,209,36988,Pravna oseba
+BMW Serija 5,BMW,2020,126843,Dizel,Avtomatski,193,29990,Pravna oseba
+Audi A3,Audi,2021,149500,Bencin,Avtomatski,110,Cena po dogovoru,Pravna oseba
+KIA Sportage,KIA,2021,42918,Bencin,Ročni,132,16999,Pravna oseba
+Zeekr 001,Zeekr,2026,13638,,Avtomatski,544,64990,Pravna oseba
+BMW X1,BMW,2024,81739,Dizel,Ročni,197,39990,Pravna oseba
+Citroën C3,Citroën,2017,154000,Bencin,Ročni,82,5850,Pravna oseba
+Renault 5 E-tech,Renault,,Novo vozilo,,Avtomatski,122,30940,Pravna oseba
+Renault Clio,Renault,2017,75746,Bencin,Ročni,73,7890,Pravna oseba
+BMW serija 5 Touring:,BMW,2014,352000,Dizel,Avtomatski,184,6999,Pravna oseba
+Mercedes-Benz C-Razred,Mercedes-Benz,,68391,Bencin,Avtomatski,170,28390,Pravna oseba
+Volkswagen Passat,Volkswagen,2015,267000,Dizel,Avtomatski,150,10750,Pravna oseba
+Opel Astra,Opel,2014,259852,Dizel,Ročni,136,4990,Pravna oseba
+Nissan Juke,Nissan,2024,26082,Bencin,Ročni,114,17999,Pravna oseba
+Renault Clio,Renault,2016,108000,Bencin,Ročni,73,5999,Pravna oseba
+Citroën C3,Citroën,2017,112000,Bencin,Ročni,82,6490,Pravna oseba
+Ford Puma,Ford,,14390,Bencin,Ročni,125,17990,Pravna oseba
+KIA Optima,KIA,2017,225000,Dizel,Avtomatski,141,10450,Pravna oseba
+Mercedes-Benz GLC-Razred,Mercedes-Benz,2019,230000,Dizel,Avtomatski,204,20990,Pravna oseba
+Volkswagen Touran,Volkswagen,2017,173400,Dizel,Ročni,116,11990,Pravna oseba
+MINI Cooper,MINI,2022,208000,Bencin,Ročni,136,10980,Pravna oseba
+Citroën C4,Citroën,2021,81000,Bencin,Avtomatski,131,12990,Pravna oseba
+Opel Mokka,Opel,2022,222000,Bencin,Avtomatski,131,9490,Pravna oseba
+Mercedes-Benz B-Razred,Mercedes-Benz,2022,100164,Dizel,Avtomatski,116,18880,Pravna oseba
+Volkswagen Golf,Volkswagen,2015,227500,Dizel,Ročni,184,10990,Pravna oseba
+Audi Q7,Audi,2018,205320,Dizel,Avtomatski,218,31995,Pravna oseba
+Audi Q7,Audi,2018,205320,Dizel,Avtomatski,218,31995,Pravna oseba
+Audi A4,Audi,2016,238430,Dizel,Avtomatski,218,14995,Pravna oseba
+Škoda Octavia,Škoda,2022,120520,Dizel,Ročni,150,17999,Pravna oseba
+Mercedes-Benz ML-Razred,Mercedes-Benz,2013,239650,Dizel,Avtomatski,204,14995,Pravna oseba
+BMW serija X6:,BMW,2020,163502,Bencin,Avtomatski,333,54995,Pravna oseba
+Peugeot 2008,Peugeot,2025,28168,Bencin,Avtomatski,145,22000,Pravna oseba
+Peugeot 208,Peugeot,2022,47771,Bencin,Ročni,101,10990,Pravna oseba
+Mazda MX-5,Mazda,2019,62000,Bencin,Ročni,184,26900,Pravna oseba
+Mercedes-Benz CLA-Razred,Mercedes-Benz,2016,279900,Dizel,Ročni,136,Cena po dogovoru,Pravna oseba
+Mercedes-Benz E-Razred,Mercedes-Benz,2017,148817,Dizel,Avtomatski,194,Cena po dogovoru,Pravna oseba
+Mercedes-Benz GLC-Razred,Mercedes-Benz,2024,12421,Dizel,Avtomatski,269,Cena po dogovoru,Pravna oseba
+Mercedes-Benz GLC-Razred,Mercedes-Benz,2024,3916,Dizel,Avtomatski,269,Cena po dogovoru,Pravna oseba
+Citroën C5 X,Citroën,2022,72805,Bencin,Avtomatski,131,13988,Pravna oseba
+BMW Serija 2,BMW,2018,107521,Bencin,Avtomatski,192,Cena po dogovoru,Pravna oseba
+Volvo XC90,Volvo,2016,209650,Dizel,Avtomatski,235,20995,Pravna oseba
+Suzuki Swift,Suzuki,2023,69519,Bencin,Ročni,83,16990,Pravna oseba
+Infiniti Q50,Infiniti,2017,74170,Dizel,Avtomatski,170,15990,Pravna oseba
+Volkswagen T-Cross,Volkswagen,,Novo vozilo,Bencin,Ročni,116,Cena po dogovoru,Pravna oseba
+Geely CoolRay,Geely,2024,21423,Bencin,Avtomatski,174,22999,Pravna oseba
+Volkswagen Golf,Volkswagen,,Novo vozilo,Bencin,Avtomatski,150,31627,Pravna oseba
+Volkswagen Golf,Volkswagen,,Novo vozilo,Bencin,Avtomatski,150,31905,Pravna oseba
+Volkswagen Passat,Volkswagen,2016,138000,Dizel,Ročni,150,14490,Fizična oseba
+Fiat 500,Fiat,2022,89900,Bencin,Ročni,71,10990,Pravna oseba
+Seat Alhambra,Seat,2019,172082,Dizel,Avtomatski,177,19800,Pravna oseba
+BMW Serija 1,BMW,2023,105981,Bencin,Avtomatski,136,20990,Pravna oseba
+Ford Mondeo,Ford,2021,155305,Dizel,Avtomatski,150,13490,Pravna oseba
+KIA Sportage,KIA,2021,67605,Bencin,Ročni,132,17999,Pravna oseba
+Opel Astra,Opel,2022,Novo vozilo,Bencin,Ročni,170,1000,Fizična oseba
+Geely StarRay EM-i,Geely,,Novo vozilo,Hibrid,Avtomatski,99,Cena po dogovoru,Pravna oseba
+Geely StarRay EM-i,Geely,,Novo vozilo,Hibrid,Avtomatski,218,Cena po dogovoru,Pravna oseba
+Geely StarRay EM-i,Geely,,Novo vozilo,Hibrid,Avtomatski,218,Cena po dogovoru,Pravna oseba
+Geely StarRay EM-i,Geely,,Novo vozilo,Bencin,Avtomatski,99,Cena po dogovoru,Pravna oseba
+Geely StarRay EM-i,Geely,,Novo vozilo,Hibrid,Avtomatski,99,Cena po dogovoru,Pravna oseba
+Renault Clio,Renault,2020,83041,Bencin,Ročni,101,10350,Pravna oseba
+Mercedes-Benz A-Razred,Mercedes-Benz,2016,173519,Dizel,Avtomatski,136,Cena po dogovoru,Pravna oseba
+Seat Leon,Seat,2001,247180,Bencin,Ročni,75,Cena po dogovoru,Pravna oseba
+Peugeot 307,Peugeot,2004,236292,Dizel,Ročni,107,Cena po dogovoru,Pravna oseba
+Peugeot 3008,Peugeot,2014,132000,Bencin,Ročni,156,7290,Pravna oseba
+Škoda Octavia,Škoda,2021,177320,Dizel,Avtomatski,150,16995,Pravna oseba
+Peugeot ,Peugeot,2023,58000,Bencin,Avtomatski,131,18000,Fizična oseba
+Citroën C3,Citroën,2017,116431,Bencin,Avtomatski,110,6699,Pravna oseba
+Volkswagen Polo,Volkswagen,2021,66668,Bencin,Ročni,95,Cena po dogovoru,Pravna oseba
+Citroën C3 Aircross,Citroën,2019,114500,Bencin,Avtomatski,110,Cena po dogovoru,Pravna oseba
+Mercedes-Benz GLC-Razred,Mercedes-Benz,2025,14587,Dizel,Avtomatski,197,Cena po dogovoru,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2023,41600,Dizel,Ročni,150,Cena po dogovoru,Pravna oseba
+Hyundai Veloster,Hyundai,2012,64800,Bencin,Ročni,140,Cena po dogovoru,Pravna oseba
+MINI Countryman,MINI,2018,183352,Hibrid,Avtomatski,136,Cena po dogovoru,Pravna oseba
+Audi A4,Audi,2017,150200,Dizel,Avtomatski,190,Cena po dogovoru,Pravna oseba
+Mercedes-Benz E-Razred,Mercedes-Benz,2022,29695,Dizel,Avtomatski,160,Cena po dogovoru,Pravna oseba
+Mercedes-Benz C-Razred,Mercedes-Benz,2023,125740,Dizel,Avtomatski,186,Cena po dogovoru,Pravna oseba
+Mazda CX-60,Mazda,2023,72633,Dizel,Avtomatski,200,Cena po dogovoru,Pravna oseba
+BMW X1,BMW,2023,106444,Hibrid,Avtomatski,204,Cena po dogovoru,Pravna oseba
+Toyota Corolla,Toyota,2020,66400,Bencin,Ročni,116,Cena po dogovoru,Pravna oseba
+Audi SQ5,Audi,2020,113108,Dizel,Avtomatski,347,Cena po dogovoru,Pravna oseba
+KIA XCeed,KIA,,Novo vozilo,Bencin,Avtomatski,150,27099,Pravna oseba
+Alfa Romeo Stelvio,Alfa,2021,149300,Dizel,Avtomatski,190,Cena po dogovoru,Pravna oseba
+MG MG4,MG,2023,115897,,Avtomatski,204,Cena po dogovoru,Pravna oseba
+Audi e-tron,Audi,2022,28777,,Avtomatski,313,Cena po dogovoru,Pravna oseba
+Seat Leon,Seat,2023,146713,Dizel,Ročni,116,Cena po dogovoru,Pravna oseba
+Volkswagen Touareg,Volkswagen,2024,25516,Dizel,Avtomatski,231,Cena po dogovoru,Pravna oseba
+KIA Sportage,KIA,,Novo vozilo,Dizel,Avtomatski,136,31299,Pravna oseba
+Volkswagen Golf,Volkswagen,2018,177750,Dizel,Avtomatski,184,Cena po dogovoru,Pravna oseba
+Opel Crossland X,Opel,2018,185450,Dizel,Ročni,120,Cena po dogovoru,Pravna oseba
+Alfa Romeo Giulia,Alfa,2021,130325,Dizel,Avtomatski,190,Cena po dogovoru,Pravna oseba
+Audi A5,Audi,2020,151067,Bencin,Avtomatski,245,Cena po dogovoru,Pravna oseba
+Seat Leon,Seat,2021,74244,Bencin,Ročni,150,Cena po dogovoru,Pravna oseba
+Mercedes-Benz EQC,Mercedes-Benz,2023,78634,,Avtomatski,408,Cena po dogovoru,Pravna oseba
+Renault Talisman,Renault,2019,162612,Dizel,Avtomatski,160,Cena po dogovoru,Pravna oseba
+Renault Espace,Renault,2023,86134,Hibrid,Avtomatski,173,Cena po dogovoru,Pravna oseba
+BMW serija 3:,BMW,2020,102320,Bencin,Avtomatski,374,42995,Pravna oseba
+MINI 3-vratni,MINI,2004,160000,Bencin,Ročni,116,6900,Fizična oseba
+Seat Altea,Seat,2012,236784,Dizel,Ročni,105,Cena po dogovoru,Pravna oseba
+Opel Crossland X,Opel,2017,30900,Bencin,Avtomatski,110,8900,Fizična oseba
+KIA Ceed,KIA,2020,1,Bencin,Ročni,101,9690,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2018,182500,Dizel,Avtomatski,150,17790,Pravna oseba
+KIA Sportage,KIA,2018,154869,Dizel,Ročni,116,Cena po dogovoru,Pravna oseba
+KIA Ceed,KIA,2020,1,Bencin,Ročni,101,9690,Pravna oseba
+BMW Serija 4,BMW,2022,123426,Dizel,Avtomatski,190,32990,Pravna oseba
+Peugeot 408,Peugeot,2020,1,Bencin,Avtomatski,136,36990,Pravna oseba
+Audi Q5,Audi,2016,180000,Dizel,Avtomatski,190,15940,Pravna oseba
+Audi A3,Audi,2018,186124,Dizel,Avtomatski,184,18990,Pravna oseba
+Audi A6,Audi,2016,259000,Dizel,Avtomatski,218,13490,Pravna oseba
+Volkswagen Passat Variant,Volkswagen,2020,220000,Dizel,Avtomatski,150,14990,Pravna oseba
+BMW serija 2 Coupe:,BMW,2019,68000,Dizel,Ročni,190,22990,Pravna oseba
+BMW serija 3:,BMW,2015,195000,Bencin,Avtomatski,245,17980,Pravna oseba
+BMW Serija 3,BMW,2021,205056,Dizel,Avtomatski,150,20990,Pravna oseba
+Audi Q5,Audi,2019,242674,Dizel,Avtomatski,190,22990,Pravna oseba
+Renault Captur,Renault,2017,105302,Bencin,Ročni,90,8150,Pravna oseba
+Renault Symbioz,Renault,,Novo vozilo,Bencin,Avtomatski,141,29490,Pravna oseba
+Jeep Compass,Jeep,2020,83125,Bencin,Ročni,140,13990,Pravna oseba
+Chevrolet Trax,Chevrolet,2013,160000,Dizel,Ročni,131,5990,Pravna oseba
+Renault Clio,Renault,2014,67308,Bencin,Ročni,73,6800,Pravna oseba
+Dacia Duster,Dacia,,Novo vozilo,Hibrid,Avtomatski,158,26560,Pravna oseba
+Ford Kuga,Ford,2021,67333,Dizel,Ročni,150,19390,Pravna oseba
+Opel Corsa,Opel,2022,51537,Bencin,Ročni,75,9990,Pravna oseba
+Suzuki S-Cross,Suzuki,2024,57757,Bencin,Ročni,110,22700,Pravna oseba
+Peugeot 208,Peugeot,2015,182877,Dizel,Ročni,68,3990,Pravna oseba
+Dacia Sandero,Dacia,2022,45314,Bencin,Ročni,67,9090,Pravna oseba
+Mercedes-Benz A-Razred,Mercedes-Benz,2019,211400,Dizel,Avtomatski,116,12490,Pravna oseba
+Mitsubishi ASX,Mitsubishi,2016,101186,Dizel,Ročni,114,8490,Pravna oseba
+Renault Captur,Renault,2020,127816,Bencin,Avtomatski,131,13690,Pravna oseba
+Ford Mondeo,Ford,2019,248625,Dizel,Avtomatski,190,6690,Pravna oseba
+Suzuki SX4 S-Cross,Suzuki,2021,103888,Bencin,Ročni,129,17490,Pravna oseba
+Hyundai i10,Hyundai,2022,37374,Bencin,Ročni,84,10200,Pravna oseba
+Nissan Micra,Nissan,,Novo vozilo,,Avtomatski,150,22700,Pravna oseba
+MG MG HS,MG,,Novo vozilo,Bencin,Avtomatski,170,26990,Pravna oseba
+Renault Captur,Renault,2026,4899,Bencin,Ročni,91,19720,Pravna oseba
+Renault Clio,Renault,2019,122425,Bencin,Ročni,90,8490,Pravna oseba
+Renault Captur,Renault,2015,187337,Bencin,Ročni,90,5990,Pravna oseba
+Renault Clio,Renault,2020,117712,Bencin,Avtomatski,131,13900,Pravna oseba
+Renault Captur,Renault,2018,201683,Bencin,Ročni,90,8200,Pravna oseba
+Renault Rafale,Renault,2025,17272,Hibrid,Avtomatski,300,41490,Pravna oseba
+MG MG HS,MG,,Novo vozilo,Hibrid,Avtomatski,143,30490,Pravna oseba
+MG MGS5 EV,MG,,Novo vozilo,,Avtomatski,231,27290,Pravna oseba
+Renault Captur,Renault,2025,5778,Bencin,Ročni,91,19995,Pravna oseba
+Renault Scenic E-tech,Renault,,Novo vozilo,,Avtomatski,170,27720,Pravna oseba
+Hyundai i10,Hyundai,2018,19910,Bencin,Ročni,87,9200,Pravna oseba
+Renault Twingo,Renault,,Novo vozilo,,Avtomatski,82,12980,Pravna oseba
+MG MG ZS,MG,,Novo vozilo,Bencin,Ročni,116,16990,Pravna oseba
+MG MG ZS,MG,,Novo vozilo,Bencin,Ročni,116,19390,Pravna oseba
+MG MG ZS,MG,,Novo vozilo,Hibrid,Avtomatski,197,23390,Pravna oseba
+Suzuki Swift,Suzuki,2018,121000,Bencin,Ročni,90,10770,Pravna oseba
+Renault Clio,Renault,,Novo vozilo,Dizel,Ročni,101,16990,Pravna oseba
+Renault Symbioz,Renault,2026,3688,Bencin,Ročni,140,24500,Pravna oseba
+Dacia Duster,Dacia,,Novo vozilo,Hibrid,Avtomatski,140,26570,Pravna oseba
+Dacia Bigster,Dacia,2026,7000,Bencin,Ročni,140,24571,Pravna oseba
+Dacia Sandero,Dacia,2026,2000,Bencin,Avtomatski,122,18071,Pravna oseba
+Dacia Sandero,Dacia,,Novo vozilo,Bencin,Avtomatski,122,21320,Pravna oseba
+Peugeot 2008,Peugeot,2020,116706,Bencin,Avtomatski,131,13200,Pravna oseba
+Mazda Mazda6,Mazda,2015,232530,Dizel,Ročni,150,5990,Pravna oseba
+MG MG ZS,MG,,Novo vozilo,Bencin,Ročni,116,16990,Pravna oseba
+Renault Mégane Conquest,Renault,,Novo vozilo,Hibrid,Avtomatski,94,23790,Pravna oseba
+Nissan X-Trail,Nissan,,Novo vozilo,Bencin,Avtomatski,163,34900,Pravna oseba
+Renault Mégane,Renault,2018,219263,Dizel,Ročni,110,7500,Pravna oseba
+MG MGS5 EV,MG,,Novo vozilo,,Avtomatski,231,27290,Pravna oseba
+Nissan Qashqai,Nissan,,Novo vozilo,Bencin,Ročni,140,23900,Pravna oseba
+Renault Koleos,Renault,2019,107009,Dizel,Avtomatski,177,19900,Pravna oseba
+Renault Captur,Renault,2024,45853,Bencin,Ročni,91,14990,Pravna oseba
+Renault Clio,Renault,,Novo vozilo,Bencin,Avtomatski,114,23090,Pravna oseba
+Peugeot 208,Peugeot,2018,92953,Bencin,Ročni,83,5490,Pravna oseba
+Nissan Qashqai,Nissan,2025,5008,Bencin,Avtomatski,158,30950,Pravna oseba
+Renault Scénic,Renault,2019,150456,Dizel,Ročni,120,12900,Pravna oseba
+Renault Clio,Renault,2020,86364,Bencin,Ročni,72,9900,Pravna oseba
+Renault Austral,Renault,,Novo vozilo,Bencin,Avtomatski,199,38630,Pravna oseba
+Renault Twingo,Renault,,Novo vozilo,,Avtomatski,82,11790,Pravna oseba
+Opel Mokka,Opel,2023,33093,Bencin,Avtomatski,131,17850,Pravna oseba
+Renault Mégane Conquest,Renault,2022,95497,Bencin,Avtomatski,140,18500,Pravna oseba
+Renault Clio,Renault,2025,25246,Bencin,Ročni,91,15300,Pravna oseba
+Opel Crossland X,Opel,2018,108473,Bencin,Ročni,110,8790,Pravna oseba
+Renault Rafale,Renault,2026,1,Hibrid,Avtomatski,200,35500,Pravna oseba
+Dacia Bigster,Dacia,,Novo vozilo,Bencin,Ročni,140,25090,Pravna oseba
+Suzuki Vitara,Suzuki,,Novo vozilo,Bencin,Ročni,110,25550,Pravna oseba
+Renault Twingo,Renault,,Novo vozilo,,Avtomatski,82,11190,Pravna oseba
+Renault Twingo,Renault,,Novo vozilo,,Avtomatski,82,11790,Pravna oseba
+Ford Tourneo Connect,Ford,,Novo vozilo,Dizel,Avtomatski,122,35368,Pravna oseba
+Renault Twingo,Renault,,Novo vozilo,,Avtomatski,82,14600,Pravna oseba
+Renault 4 E-tech,Renault,,Novo vozilo,,Avtomatski,150,27190,Pravna oseba
+Dacia Sandero,Dacia,,Novo vozilo,Bencin,Ročni,101,14750,Pravna oseba
+Nissan Qashqai,Nissan,,Novo vozilo,Bencin,Avtomatski,158,30900,Pravna oseba
+Nissan Qashqai,Nissan,,Novo vozilo,Bencin,Ročni,140,27950,Pravna oseba
+Nissan Juke,Nissan,,Novo vozilo,Bencin,Ročni,114,19700,Pravna oseba
+MG MG ZS,MG,,Novo vozilo,Bencin,Ročni,116,19390,Pravna oseba
+MG MG ZS,MG,,Novo vozilo,Bencin,Ročni,116,19390,Pravna oseba
+Suzuki Vitara,Suzuki,,Novo vozilo,Bencin,Ročni,110,24250,Pravna oseba
+Nissan X-Trail,Nissan,,Novo vozilo,Bencin,Avtomatski,163,33250,Pravna oseba
+Nissan Qashqai,Nissan,2024,5700,Bencin,Avtomatski,158,29500,Pravna oseba
+Renault Koleos,Renault,2022,154912,Bencin,Avtomatski,158,23950,Pravna oseba
+Nissan Juke,Nissan,,Novo vozilo,Bencin,Ročni,114,21200,Pravna oseba
+Renault 5 E-tech,Renault,,Novo vozilo,,Avtomatski,122,21974,Pravna oseba
+MG MGS5 EV,MG,,Novo vozilo,,Avtomatski,231,27290,Pravna oseba
+Renault Captur,Renault,,Novo vozilo,Bencin,Avtomatski,158,24890,Pravna oseba
+Renault Clio,Renault,,Novo vozilo,Bencin,Ročni,114,17909,Pravna oseba
+Mercedes-Benz B-Razred,Mercedes-Benz,,Novo vozilo,Bencin,Avtomatski,163,35535,Pravna oseba
+Mercedes-Benz B-Razred,Mercedes-Benz,,Novo vozilo,Bencin,Avtomatski,163,35535,Pravna oseba
+Renault Clio,Renault,,Novo vozilo,Bencin,Ročni,91,17520,Pravna oseba
+Renault Austral,Renault,,Novo vozilo,Bencin,Avtomatski,150,30790,Pravna oseba
+Dacia Sandero,Dacia,2022,45314,Bencin,Ročni,67,9200,Pravna oseba
+Dacia Bigster,Dacia,,Novo vozilo,Bencin,Ročni,131,29940,Pravna oseba
+Mercedes-Benz A-Razred,Mercedes-Benz,,Novo vozilo,Bencin,Avtomatski,136,39712,Pravna oseba
+Renault Clio,Renault,,Novo vozilo,Bencin,Ročni,79,17420,Pravna oseba
+Nissan Qashqai,Nissan,,Novo vozilo,Bencin,Ročni,140,23900,Pravna oseba
+MG MG ZS,MG,,Novo vozilo,Bencin,Ročni,106,16400,Pravna oseba
+Renault Clio,Renault,,Novo vozilo,Bencin,Ročni,114,20390,Pravna oseba
+Renault Clio,Renault,,Novo vozilo,Hibrid,Avtomatski,160,25790,Pravna oseba
+Renault Clio,Renault,,Novo vozilo,Bencin,Ročni,114,20890,Pravna oseba
+Dacia Bigster,Dacia,,Novo vozilo,Hibrid,Avtomatski,156,29640,Pravna oseba
+Dacia Duster,Dacia,,Novo vozilo,Hibrid,Avtomatski,156,27060,Pravna oseba
+Suzuki S-Cross,Suzuki,,Novo vozilo,Bencin,Ročni,110,26830,Pravna oseba
+Nissan X-Trail,Nissan,,Novo vozilo,Bencin,Avtomatski,213,43100,Pravna oseba
+Renault 5 E-tech,Renault,,Novo vozilo,,Avtomatski,150,33790,Pravna oseba
+MG MG3,MG,,Novo vozilo,Hibrid,Avtomatski,194,16540,Pravna oseba
+Renault Scenic E-tech,Renault,,Novo vozilo,,Avtomatski,170,30180,Pravna oseba
+Suzuki S-Cross,Suzuki,,Novo vozilo,Bencin,Avtomatski,110,27380,Pravna oseba
+Renault 5 E-tech,Renault,,Novo vozilo,,Avtomatski,150,34740,Pravna oseba
+Renault Symbioz,Renault,,Novo vozilo,Bencin,Ročni,140,26190,Pravna oseba
+Dacia Bigster,Dacia,,Novo vozilo,Plin,Ročni,140,26490,Pravna oseba
+Nissan Qashqai,Nissan,,Novo vozilo,Bencin,Avtomatski,158,32400,Pravna oseba
+Nissan Qashqai,Nissan,,Novo vozilo,Bencin,Avtomatski,158,32800,Pravna oseba
+Renault 4 E-tech,Renault,2026,1,,Avtomatski,150,30850,Pravna oseba
+Dacia Sandero,Dacia,,Novo vozilo,Bencin,Ročni,91,15690,Pravna oseba
+Renault Captur,Renault,,Novo vozilo,Bencin,Ročni,140,22280,Pravna oseba
+Renault Captur,Renault,,Novo vozilo,Bencin,Avtomatski,158,25330,Pravna oseba
+Dacia Bigster,Dacia,,Novo vozilo,Hibrid,Avtomatski,156,29890,Pravna oseba
+Suzuki S-Cross,Suzuki,,Novo vozilo,Bencin,Ročni,110,25330,Pravna oseba
+Dacia Jogger,Dacia,,Novo vozilo,Bencin,Ročni,110,19050,Pravna oseba
+Dacia Bigster,Dacia,,Novo vozilo,Bencin,Ročni,140,26240,Pravna oseba
+MG MG HS,MG,,Novo vozilo,Bencin,Avtomatski,170,28490,Pravna oseba
+Dacia Bigster,Dacia,,Novo vozilo,Bencin,Ročni,131,29490,Pravna oseba
+Renault Symbioz,Renault,,Novo vozilo,Bencin,Ročni,140,23890,Pravna oseba
+Suzuki Vitara,Suzuki,,Novo vozilo,Bencin,Ročni,110,26150,Pravna oseba
+MG MG ZS,MG,,Novo vozilo,Bencin,Ročni,116,19390,Pravna oseba
+Suzuki Swift,Suzuki,,Novo vozilo,Bencin,Ročni,83,16320,Pravna oseba
+MG MG ZS,MG,,Novo vozilo,Hibrid,Avtomatski,197,20590,Pravna oseba
+Renault Symbioz,Renault,,Novo vozilo,Hibrid,Avtomatski,145,Cena po dogovoru,Pravna oseba
+Renault Rafale,Renault,,Novo vozilo,Hibrid,Avtomatski,200,Cena po dogovoru,Pravna oseba
+Audi A4,Audi,2019,162000,Dizel,Avtomatski,190,24990,Fizična oseba
+BMW X4,BMW,2023,99640,Dizel,Avtomatski,340,49990,Pravna oseba
+Volkswagen Golf,Volkswagen,2019,94287,Bencin,Avtomatski,245,21990,Pravna oseba
+Dacia Bigster,Dacia,,Novo vozilo,Bencin,Ročni,140,Cena po dogovoru,Pravna oseba
+Mazda CX-5,Mazda,2014,155000,Dizel,Ročni,150,8490,Pravna oseba
+Renault Koleos,Renault,2018,92000,Dizel,Avtomatski,177,17950,Pravna oseba
+Mercedes-Benz GLS-Razred,Mercedes-Benz,2016,233778,Dizel,Avtomatski,258,29990,Pravna oseba
+Mercedes-Benz CLA-Razred,Mercedes-Benz,2025,11983,Bencin,Avtomatski,163,33990,Pravna oseba
+BMW Serija 5,BMW,2024,40013,Dizel,Avtomatski,197,43990,Pravna oseba
+Hyundai i10,Hyundai,2014,101997,Bencin,Ročni,65,7350,Pravna oseba
+Volkswagen Passat,Volkswagen,2016,236000,Dizel,Ročni,120,7800,Fizična oseba
+Renault Talisman,Renault,2020,85120,Bencin,Avtomatski,224,18550,Pravna oseba
+Volkswagen Passat,Volkswagen,2023,96210,Dizel,Avtomatski,150,18350,Pravna oseba
+BMW X5,BMW,2025,51800,Dizel,Avtomatski,298,Cena po dogovoru,Pravna oseba
+BMW X1,BMW,2016,198700,Dizel,Ročni,190,Cena po dogovoru,Pravna oseba
+Honda HR-V,Honda,,Novo vozilo,Hibrid,Avtomatski,131,Cena po dogovoru,Pravna oseba
+Volvo XC40,Volvo,2026,10000,Bencin,Avtomatski,163,33990,Pravna oseba
+Volvo XC40,Volvo,2026,5000,Bencin,Avtomatski,163,39999,Pravna oseba
+Forthing V9,Forthing,,Novo vozilo,Hibrid,Avtomatski,154,42900,Pravna oseba
+Nissan X-Trail,Nissan,2015,169620,Dizel,Ročni,131,9995,Pravna oseba
+Volkswagen Golf,Volkswagen,2023,1,Dizel,Ročni,116,19450,Pravna oseba
+Peugeot 308,Peugeot,2025,25356,Dizel,Avtomatski,131,21490,Pravna oseba
+Mitsubishi ASX,Mitsubishi,,Novo vozilo,Bencin,Avtomatski,140,Cena po dogovoru,Pravna oseba
+Volvo XC60,Volvo,2019,137420,Hibrid,Avtomatski,390,25990,Pravna oseba
+Volvo XC60,Volvo,2022,74408,Bencin,Avtomatski,197,31499,Pravna oseba
+Volvo XC90,Volvo,2024,32337,Dizel,Avtomatski,235,52499,Pravna oseba
+Volvo XC90,Volvo,2023,83977,Dizel,Avtomatski,235,45699,Pravna oseba
+Baic BJ30,Baic,,Novo vozilo,Hibrid,Avtomatski,280,35900,Pravna oseba
+Škoda Karoq,Škoda,2023,146813,Dizel,Avtomatski,150,22499,Pravna oseba
+Volkswagen Passat,Volkswagen,2022,92302,Dizel,Avtomatski,150,22999,Pravna oseba
+Ford S-MAX,Ford,2018,198150,Dizel,Avtomatski,179,9900,Fizična oseba
+KIA Ceed,KIA,2018,73000,Bencin,Ročni,101,8500,Fizična oseba
+Peugeot ,Peugeot,2023,24791,Plin,Ročni,110,17590,Pravna oseba
+Renault Scénic,Renault,2009,226066,Bencin,Ročni,110,2990,Pravna oseba
+Ford Tourneo,Ford,2004,370536,Dizel,Ročni,90,1999,Pravna oseba
+Renault Mégane,Renault,2016,228075,Dizel,Ročni,110,6450,Pravna oseba
+Renault Grand Scenic,Renault,2017,224650,Dizel,Ročni,131,9290,Pravna oseba
+Geely StarRay,Geely,,Novo vozilo,Bencin,Avtomatski,238,31990,Pravna oseba
+Mercedes-Benz CLA-Razred,Mercedes-Benz,,Novo vozilo,,Avtomatski,224,47645,Pravna oseba
+Mercedes-Benz CLA-Razred,Mercedes-Benz,,Novo vozilo,,Avtomatski,224,38400,Pravna oseba
+Nissan Qashqai,Nissan,,Novo vozilo,Bencin,Avtomatski,158,30600,Pravna oseba
+Dacia Sandero,Dacia,,Novo vozilo,Bencin,Ročni,91,15950,Pravna oseba
+Dacia Sandero,Dacia,,Novo vozilo,Bencin,Ročni,110,15950,Pravna oseba
+Dacia Sandero,Dacia,,Novo vozilo,Bencin,Ročni,110,14650,Pravna oseba
+Dacia Sandero,Dacia,,Novo vozilo,Bencin,Ročni,110,17050,Pravna oseba
+Renault 5 E-tech,Renault,,Novo vozilo,,Avtomatski,150,31190,Pravna oseba
+Dacia Sandero,Dacia,,Novo vozilo,Bencin,Ročni,110,16490,Pravna oseba
+Mercedes-Benz E-Razred,Mercedes-Benz,,Novo vozilo,Dizel,Avtomatski,197,Cena po dogovoru,Pravna oseba
+Mercedes-Benz B-Razred,Mercedes-Benz,2026,500,Bencin,Avtomatski,163,Cena po dogovoru,Pravna oseba
+Renault Rafale,Renault,2025,10463,Hibrid,Avtomatski,199,39490,Pravna oseba
+Renault Symbioz,Renault,,Novo vozilo,Hibrid,Avtomatski,158,31590,Pravna oseba
+Mercedes-Benz CLA-Razred,Mercedes-Benz,,Novo vozilo,Bencin,Avtomatski,163,Cena po dogovoru,Pravna oseba
+Mercedes-Benz CLE,Mercedes-Benz,2024,31653,Bencin,Avtomatski,381,Cena po dogovoru,Pravna oseba
+Mercedes-Benz B-Razred,Mercedes-Benz,,Novo vozilo,Bencin,Avtomatski,136,Cena po dogovoru,Pravna oseba
+Mercedes-Benz B-Razred,Mercedes-Benz,2026,100,Bencin,Avtomatski,163,Cena po dogovoru,Pravna oseba
+Suzuki Vitara,Suzuki,2022,91165,Bencin,Ročni,129,17450,Pravna oseba
+Mercedes-Benz G-Razred,Mercedes-Benz,,Novo vozilo,Bencin,Avtomatski,585,Cena po dogovoru,Pravna oseba
+Mercedes-Benz G-Razred,Mercedes-Benz,,Novo vozilo,Bencin,Avtomatski,585,Cena po dogovoru,Pravna oseba
+Mercedes-Benz GLC-Razred,Mercedes-Benz,,Novo vozilo,Dizel,Avtomatski,163,Cena po dogovoru,Pravna oseba
+Mercedes-Benz GLC-Razred,Mercedes-Benz,,Novo vozilo,Dizel,Avtomatski,197,Cena po dogovoru,Pravna oseba
+Mercedes-Benz CLA-Razred,Mercedes-Benz,2026,11930,Bencin,Avtomatski,163,45790,Pravna oseba
+Mercedes-Benz E-Razred,Mercedes-Benz,2024,13750,Dizel,Avtomatski,197,59500,Pravna oseba
+Renault Twingo,Renault,,Novo vozilo,,Avtomatski,80,11490,Pravna oseba
+Mercedes-Benz S-Razred,Mercedes-Benz,,Novo vozilo,Dizel,Avtomatski,367,Cena po dogovoru,Pravna oseba
+Opel Corsa,Opel,2019,146092,Bencin,Ročni,75,6190,Pravna oseba
+Mercedes-Benz B-Razred,Mercedes-Benz,2026,39174,Bencin,Avtomatski,136,25950,Pravna oseba
+Volvo XC60,Volvo,2024,54268,Dizel,Avtomatski,197,37772,Pravna oseba
+Mercedes-Benz B-Razred,Mercedes-Benz,2025,39170,Bencin,Avtomatski,136,25950,Pravna oseba
+Mercedes-Benz GLE-Razred,Mercedes-Benz,2026,6000,Dizel,Avtomatski,367,Cena po dogovoru,Pravna oseba
+Peugeot 2008,Peugeot,2025,9406,Bencin,Avtomatski,145,21790,Pravna oseba
+Mercedes-Benz GLE-Razred,Mercedes-Benz,2026,3760,Dizel,Avtomatski,367,Cena po dogovoru,Pravna oseba
+Mercedes-Benz GLE-Razred,Mercedes-Benz,,Novo vozilo,Dizel,Avtomatski,367,Cena po dogovoru,Pravna oseba
+Suzuki Vitara,Suzuki,,Novo vozilo,Bencin,Ročni,109,Cena po dogovoru,Pravna oseba
+Renault 4 E-tech,Renault,,Novo vozilo,,Avtomatski,150,Cena po dogovoru,Pravna oseba
+Dacia Duster,Dacia,,Novo vozilo,Hibrid,Avtomatski,154,26570,Pravna oseba
+Mercedes-Benz GLS-Razred,Mercedes-Benz,,Novo vozilo,Dizel,Avtomatski,367,Cena po dogovoru,Pravna oseba
+Dacia Bigster,Dacia,,Novo vozilo,Hibrid,Avtomatski,156,29990,Pravna oseba
+Dacia Bigster,Dacia,2026,1,Bencin,Ročni,140,25340,Pravna oseba
+Mercedes-Benz GLE-Razred,Mercedes-Benz,,Novo vozilo,Bencin,Avtomatski,449,Cena po dogovoru,Pravna oseba
+Mercedes-Benz GLE-Razred,Mercedes-Benz,,Novo vozilo,Dizel,Avtomatski,367,Cena po dogovoru,Pravna oseba
+Mercedes-Benz GLE-Razred,Mercedes-Benz,,Novo vozilo,Bencin,Avtomatski,449,Cena po dogovoru,Pravna oseba
+Dacia Bigster,Dacia,2026,1,Bencin,Ročni,140,24520,Pravna oseba
+Nissan Qashqai,Nissan,2017,175285,Bencin,Ročni,116,10999,Pravna oseba
+Mercedes-Benz A-Razred,Mercedes-Benz,,Novo vozilo,Bencin,Avtomatski,136,Cena po dogovoru,Pravna oseba
+Mercedes-Benz B-Razred,Mercedes-Benz,,Novo vozilo,Bencin,Avtomatski,136,Cena po dogovoru,Pravna oseba
+Alpine A390,Alpine,2026,1500,,Avtomatski,401,72490,Pravna oseba
+Mercedes-Benz GLE-Razred,Mercedes-Benz,2018,173384,Dizel,Avtomatski,272,31990,Pravna oseba
+Peugeot Rifter,Peugeot,2019,225620,Dizel,Avtomatski,131,9490,Pravna oseba
+Mercedes-Benz B-Razred,Mercedes-Benz,,Novo vozilo,Bencin,Avtomatski,163,Cena po dogovoru,Pravna oseba
+Mercedes-Benz B-Razred,Mercedes-Benz,2026,100,Bencin,Avtomatski,163,Cena po dogovoru,Pravna oseba
+Suzuki Across,Suzuki,,Novo vozilo,Hibrid,Avtomatski,185,41500,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2016,323484,Dizel,Avtomatski,150,11690,Pravna oseba
+Opel Insignia,Opel,2016,255100,Dizel,Ročni,120,5990,Pravna oseba
+Renault Austral,Renault,2023,50720,Hibrid,Avtomatski,200,26290,Pravna oseba
+Mercedes-Benz GLA-Razred,Mercedes-Benz,2024,49456,Dizel,Avtomatski,150,39250,Pravna oseba
+BMW Serija 2,BMW,2018,192080,Dizel,Ročni,116,8180,Pravna oseba
+Mercedes-Benz E-Razred,Mercedes-Benz,2017,252300,Bencin,Avtomatski,245,23590,Pravna oseba
+Suzuki Vitara,Suzuki,2017,133555,Bencin,Ročni,140,15390,Pravna oseba
+Mercedes-Benz SL-Razred,Mercedes-Benz,2023,30000,Bencin,Avtomatski,476,119500,Pravna oseba
+Nissan Juke,Nissan,2026,2341,Bencin,Ročni,114,20990,Pravna oseba
+Renault Austral,Renault,2025,23256,Bencin,Avtomatski,158,Cena po dogovoru,Pravna oseba
+Mercedes-Benz GLE-Razred,Mercedes-Benz,2026,4001,Hibrid,Avtomatski,605,Cena po dogovoru,Pravna oseba
+MG MG HS,MG,,Novo vozilo,Bencin,Avtomatski,170,26490,Pravna oseba
+Mercedes-Benz AMG GT Coupe,Mercedes-Benz,2026,3500,Bencin,Avtomatski,421,Cena po dogovoru,Pravna oseba
+Mercedes-Benz CLE,Mercedes-Benz,2026,3500,Bencin,Avtomatski,449,Cena po dogovoru,Pravna oseba
+Mercedes-Benz GLE-Razred,Mercedes-Benz,2026,4000,Bencin,Avtomatski,605,Cena po dogovoru,Pravna oseba
+Mercedes-Benz CLE,Mercedes-Benz,2026,3500,Bencin,Avtomatski,449,Cena po dogovoru,Pravna oseba
+Nissan Qashqai,Nissan,2026,18004,Bencin,Avtomatski,158,Cena po dogovoru,Pravna oseba
+Nissan Qashqai,Nissan,2026,18007,Bencin,Avtomatski,158,Cena po dogovoru,Pravna oseba
+Nissan Qashqai,Nissan,2026,18005,Bencin,Avtomatski,158,Cena po dogovoru,Pravna oseba
+Nissan Qashqai,Nissan,2026,18002,Bencin,Avtomatski,158,Cena po dogovoru,Pravna oseba
+Nissan Qashqai,Nissan,2026,18001,Bencin,Avtomatski,158,Cena po dogovoru,Pravna oseba
+Nissan Qashqai,Nissan,2026,18000,Bencin,Avtomatski,158,Cena po dogovoru,Pravna oseba
+Nissan Qashqai,Nissan,2026,18000,Bencin,Avtomatski,158,Cena po dogovoru,Pravna oseba
+Mercedes-Benz CLA-Razred,Mercedes-Benz,2026,1500,,Avtomatski,272,Cena po dogovoru,Pravna oseba
+Mercedes-Benz GLC-Razred,Mercedes-Benz,2026,5000,,Avtomatski,489,Cena po dogovoru,Pravna oseba
+Suzuki Swift,Suzuki,,Novo vozilo,Bencin,Ročni,82,Cena po dogovoru,Pravna oseba
+Renault Mégane,Renault,2020,145052,Dizel,Ročni,131,11550,Pravna oseba
+Dacia Jogger,Dacia,2022,75788,Bencin,Ročni,91,10990,Pravna oseba
+Suzuki Swift,Suzuki,,Novo vozilo,Bencin,Ročni,82,Cena po dogovoru,Pravna oseba
+Mercedes-Benz B-Razred,Mercedes-Benz,2025,38774,Bencin,Avtomatski,136,25950,Pravna oseba
+Mercedes-Benz GLB-Razred,Mercedes-Benz,,Novo vozilo,,Avtomatski,272,Cena po dogovoru,Pravna oseba
+Mercedes-Benz GLC-Razred,Mercedes-Benz,,Novo vozilo,,Avtomatski,489,Cena po dogovoru,Pravna oseba
+Mercedes-Benz GLC-Razred,Mercedes-Benz,,Novo vozilo,,Avtomatski,489,Cena po dogovoru,Pravna oseba
+Mercedes-Benz V-Razred,Mercedes-Benz,2026,1600,Dizel,Avtomatski,237,Cena po dogovoru,Pravna oseba
+Mercedes-Benz GLC-Razred,Mercedes-Benz,2026,1590,Dizel,Avtomatski,163,Cena po dogovoru,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2015,207800,Dizel,Ročni,150,Cena po dogovoru,Pravna oseba
+BMW Serija 5,BMW,2018,195000,Dizel,Avtomatski,265,22990,Pravna oseba
+Land Rover Range Rover Sport,Land,2016,218000,Dizel,Avtomatski,306,Cena po dogovoru,Pravna oseba
+Mercedes-Benz C-Razred,Mercedes-Benz,2016,295200,Dizel,Avtomatski,170,11290,Pravna oseba
+Mercedes-Benz GLB-Razred,Mercedes-Benz,2026,2000,Bencin,Avtomatski,190,Cena po dogovoru,Pravna oseba
+Hyundai Tucson,Hyundai,2018,64959,Dizel,Ročni,136,16490,Pravna oseba
+Mercedes-Benz CLA-Razred,Mercedes-Benz,,Novo vozilo,Bencin,Avtomatski,163,Cena po dogovoru,Pravna oseba
+Suzuki Vitara,Suzuki,,Novo vozilo,Bencin,Ročni,110,Cena po dogovoru,Pravna oseba
+MG MG ZS,MG,2023,58900,Bencin,Avtomatski,111,14500,Pravna oseba
+Nissan X-Trail,Nissan,,Novo vozilo,Bencin,Avtomatski,163,35000,Pravna oseba
+Nissan X-Trail,Nissan,,Novo vozilo,Bencin,Avtomatski,163,36800,Pravna oseba
+Renault Clio,Renault,,Novo vozilo,Dizel,Ročni,101,16990,Pravna oseba
+Nissan Townstar,Nissan,,Novo vozilo,Bencin,Ročni,131,25990,Pravna oseba
+Nissan Micra,Nissan,,Novo vozilo,,Avtomatski,150,Cena po dogovoru,Pravna oseba
+Suzuki Vitara,Suzuki,,Novo vozilo,Bencin,Ročni,110,Cena po dogovoru,Pravna oseba
+Suzuki S-Cross,Suzuki,,Novo vozilo,Bencin,Ročni,110,Cena po dogovoru,Pravna oseba
+MG MG ZS,MG,,Novo vozilo,Hibrid,Avtomatski,102,19560,Pravna oseba
+MG MG ZS,MG,,Novo vozilo,Hibrid,Avtomatski,102,22990,Pravna oseba
+Alpine A290,Alpine,,Novo vozilo,,Avtomatski,220,43800,Pravna oseba
+Alpine A390,Alpine,,Novo vozilo,,Avtomatski,401,84700,Pravna oseba
+Mercedes-Benz E-Razred,Mercedes-Benz,2024,13750,Dizel,Avtomatski,197,61490,Pravna oseba
+Mercedes-Benz E-Razred,Mercedes-Benz,2023,43555,Hibrid,Avtomatski,204,48290,Pravna oseba
+Nissan Qashqai,Nissan,2026,5800,Bencin,Avtomatski,158,28420,Pravna oseba
+MG MG ZS,MG,,Novo vozilo,Bencin,Ročni,116,16490,Pravna oseba
+MG MG ZS,MG,,Novo vozilo,Bencin,Ročni,116,19390,Pravna oseba
+MG MG ZS,MG,,Novo vozilo,Bencin,Ročni,116,19390,Pravna oseba
+MG MG ZS,MG,,Novo vozilo,Bencin,Ročni,116,Cena po dogovoru,Pravna oseba
+MG MG ZS,MG,,Novo vozilo,Bencin,Ročni,116,16490,Pravna oseba
+Nissan Juke,Nissan,2015,145413,Bencin,Ročni,116,7590,Pravna oseba
+Nissan Qashqai,Nissan,,Novo vozilo,Bencin,Ročni,140,23900,Pravna oseba
+Nissan Qashqai,Nissan,,Novo vozilo,Bencin,Ročni,140,23900,Pravna oseba
+Nissan Qashqai,Nissan,,Novo vozilo,Bencin,Ročni,140,23900,Pravna oseba
+Nissan Qashqai,Nissan,,Novo vozilo,Bencin,Ročni,140,Cena po dogovoru,Pravna oseba
+Nissan Qashqai,Nissan,,Novo vozilo,Bencin,Ročni,140,23900,Pravna oseba
+Nissan Qashqai,Nissan,,Novo vozilo,Bencin,Ročni,140,23900,Pravna oseba
+Nissan Qashqai,Nissan,,Novo vozilo,Bencin,Ročni,140,23900,Pravna oseba
+Nissan Qashqai,Nissan,,Novo vozilo,Bencin,Ročni,140,23900,Pravna oseba
+Mercedes-Benz GLE-Razred,Mercedes-Benz,2026,1995,Dizel,Avtomatski,367,Cena po dogovoru,Pravna oseba
+Renault Austral,Renault,,Novo vozilo,Hibrid,Avtomatski,131,42130,Pravna oseba
+Mercedes-Benz GLC-Razred,Mercedes-Benz,,Novo vozilo,,Avtomatski,489,Cena po dogovoru,Pravna oseba
+MG MGS5 EV,MG,,Novo vozilo,,Avtomatski,231,31990,Pravna oseba
+MG MGS5 EV,MG,,Novo vozilo,,Avtomatski,231,34990,Pravna oseba
+Mercedes-Benz CLA-Razred,Mercedes-Benz,,Novo vozilo,,Avtomatski,224,47645,Pravna oseba
+Mercedes-Benz CLA-Razred,Mercedes-Benz,2026,1000,Bencin,Avtomatski,163,Cena po dogovoru,Pravna oseba
+Mercedes-Benz E-Razred,Mercedes-Benz,,Novo vozilo,Dizel,Avtomatski,197,Cena po dogovoru,Pravna oseba
+Mercedes-Benz C-Razred,Mercedes-Benz,2016,88874,Dizel,Avtomatski,136,16990,Pravna oseba
+MG MG5,MG,,Novo vozilo,,Avtomatski,156,18690,Pravna oseba
+Mercedes-Benz A-Razred,Mercedes-Benz,2025,2000,Bencin,Avtomatski,136,36890,Pravna oseba
+Mercedes-Benz V-Razred,Mercedes-Benz,,Novo vozilo,Dizel,Avtomatski,237,Cena po dogovoru,Pravna oseba
+Mercedes-Benz SL-Razred,Mercedes-Benz,,Novo vozilo,Bencin,Avtomatski,585,Cena po dogovoru,Pravna oseba
+Alpine A390,Alpine,,Novo vozilo,,Avtomatski,401,78800,Pravna oseba
+Renault Twingo,Renault,,Novo vozilo,,Avtomatski,82,Cena po dogovoru,Pravna oseba
+Suzuki Vitara,Suzuki,2025,10800,Bencin,Ročni,129,23250,Pravna oseba
+Renault Twingo,Renault,,Novo vozilo,,Avtomatski,82,Cena po dogovoru,Pravna oseba
+Nissan Juke,Nissan,2021,68900,Bencin,Avtomatski,117,15090,Pravna oseba
+Citroën C5 Aircross,Citroën,2025,14016,Bencin,Ročni,131,19900,Pravna oseba
+Mercedes-Benz A-Razred,Mercedes-Benz,2025,38990,Bencin,Avtomatski,136,27900,Pravna oseba
+Mercedes-Benz A-Razred,Mercedes-Benz,2025,38870,Bencin,Avtomatski,136,27900,Pravna oseba
+Chevrolet Trax,Chevrolet,2013,160310,Dizel,Ročni,131,5990,Pravna oseba
+Mercedes-Benz GLE-Razred,Mercedes-Benz,2026,6100,Dizel,Avtomatski,367,Cena po dogovoru,Pravna oseba
+Mercedes-Benz A-Razred,Mercedes-Benz,2025,39110,Bencin,Avtomatski,136,27900,Pravna oseba
+Renault Mégane,Renault,2021,51500,Bencin,Avtomatski,300,32990,Pravna oseba
+Suzuki S-Cross,Suzuki,,Novo vozilo,Bencin,Ročni,110,Cena po dogovoru,Pravna oseba
+Suzuki Vitara,Suzuki,2022,91165,Bencin,Ročni,129,18990,Pravna oseba
+Renault Twingo,Renault,,Novo vozilo,,Avtomatski,82,11790,Pravna oseba
+Suzuki S-Cross,Suzuki,,Novo vozilo,Bencin,Ročni,110,Cena po dogovoru,Pravna oseba
+Suzuki S-Cross,Suzuki,,Novo vozilo,Bencin,Ročni,110,Cena po dogovoru,Pravna oseba
+Alpine A110,Alpine,,Novo vozilo,Bencin,Ročni,374,Cena po dogovoru,Pravna oseba
+Suzuki Vitara,Suzuki,,Novo vozilo,Bencin,Ročni,110,Cena po dogovoru,Pravna oseba
+Mercedes-Benz C-Razred,Mercedes-Benz,2025,9000,Dizel,Avtomatski,163,43990,Pravna oseba
+Renault Scénic,Renault,2017,159017,Bencin,Ročni,116,8990,Pravna oseba
+Dacia Jogger,Dacia,,Novo vozilo,Bencin,Ročni,110,21300,Pravna oseba
+Renault Clio,Renault,,Novo vozilo,Bencin,Avtomatski,109,29490,Pravna oseba
+Dacia Sandero,Dacia,2026,1000,Bencin,Ročni,110,17590,Pravna oseba
+Nissan Qashqai,Nissan,,Novo vozilo,Bencin,Avtomatski,158,32100,Pravna oseba
+Nissan Qashqai,Nissan,,Novo vozilo,Bencin,Avtomatski,158,29400,Pravna oseba
+Nissan Qashqai,Nissan,,Novo vozilo,Bencin,Avtomatski,158,29400,Pravna oseba
+Suzuki Swift,Suzuki,,Novo vozilo,Bencin,Ročni,82,Cena po dogovoru,Pravna oseba
+Suzuki Swift,Suzuki,,Novo vozilo,Bencin,Ročni,82,Cena po dogovoru,Pravna oseba
+Suzuki Swift,Suzuki,,Novo vozilo,Bencin,Ročni,82,Cena po dogovoru,Pravna oseba
+Dacia Sandero,Dacia,,Novo vozilo,Bencin,Ročni,110,15090,Pravna oseba
+Renault Espace,Renault,,Novo vozilo,Hibrid,Avtomatski,200,Cena po dogovoru,Pravna oseba
+Renault Clio,Renault,,Novo vozilo,Bencin,Ročni,91,19020,Pravna oseba
+Alpine A110,Alpine,,Novo vozilo,Bencin,Avtomatski,300,136930,Pravna oseba
+Mercedes-Benz A-Razred,Mercedes-Benz,2025,10,Bencin,Avtomatski,136,36490,Pravna oseba
+Mercedes-Benz E-Razred,Mercedes-Benz,2024,31700,Hibrid,Avtomatski,585,Cena po dogovoru,Pravna oseba
+Alpine A290,Alpine,2025,1,,Avtomatski,220,35690,Pravna oseba
+Mercedes-Benz Vito,Mercedes-Benz,,Novo vozilo,Dizel,Avtomatski,163,55990,Pravna oseba
+Alpine A290,Alpine,,Novo vozilo,,Avtomatski,220,Cena po dogovoru,Pravna oseba
+Nissan Qashqai,Nissan,,Novo vozilo,Bencin,Avtomatski,158,34300,Pravna oseba
+Mercedes-Benz CLA-Razred,Mercedes-Benz,2026,2000,Bencin,Avtomatski,163,48000,Pravna oseba
+Renault Clio,Renault,,Novo vozilo,Bencin,Ročni,114,19305,Pravna oseba
+Alpine A110,Alpine,2022,29790,Bencin,Avtomatski,300,Cena po dogovoru,Pravna oseba
+MG MGS5 EV,MG,,Novo vozilo,,Avtomatski,231,Cena po dogovoru,Pravna oseba
+Nissan Juke,Nissan,,Novo vozilo,Bencin,Avtomatski,114,22400,Pravna oseba
+Renault Clio,Renault,,Novo vozilo,Bencin,Ročni,114,19390,Pravna oseba
+Renault Scénic,Renault,,Novo vozilo,,Avtomatski,170,Cena po dogovoru,Pravna oseba
+Renault Clio,Renault,,Novo vozilo,Hibrid,Avtomatski,160,28490,Pravna oseba
+Renault Clio,Renault,,Novo vozilo,Bencin,Avtomatski,258,164090,Pravna oseba
+Nissan Qashqai,Nissan,,Novo vozilo,Bencin,Avtomatski,158,Cena po dogovoru,Pravna oseba
+Suzuki Vitara,Suzuki,,Novo vozilo,Bencin,Ročni,110,Cena po dogovoru,Pravna oseba
+Alpine A290,Alpine,,Novo vozilo,,Avtomatski,179,Cena po dogovoru,Pravna oseba
+Mercedes-Benz B-Razred,Mercedes-Benz,,Novo vozilo,Bencin,Avtomatski,136,Cena po dogovoru,Pravna oseba
+Mercedes-Benz GLC-Razred,Mercedes-Benz,,Novo vozilo,,Avtomatski,489,Cena po dogovoru,Pravna oseba
+Mercedes-Benz GLC-Razred,Mercedes-Benz,,Novo vozilo,,Avtomatski,489,Cena po dogovoru,Pravna oseba
+Alpine A390,Alpine,,Novo vozilo,,Avtomatski,401,Cena po dogovoru,Pravna oseba
+Mercedes-Benz B-Razred,Mercedes-Benz,,Novo vozilo,Bencin,Avtomatski,136,33990,Pravna oseba
+Dacia Duster,Dacia,,Novo vozilo,Bencin,Ročni,131,24480,Pravna oseba
+Nissan Qashqai,Nissan,,Novo vozilo,Bencin,Avtomatski,158,34900,Pravna oseba
+Suzuki Vitara,Suzuki,,Novo vozilo,Bencin,Avtomatski,110,Cena po dogovoru,Pravna oseba
+Nissan Qashqai,Nissan,,Novo vozilo,Bencin,Avtomatski,158,34800,Pravna oseba
+Suzuki Vitara,Suzuki,,Novo vozilo,Bencin,Avtomatski,110,Cena po dogovoru,Pravna oseba
+Renault 4 E-tech,Renault,,Novo vozilo,,Avtomatski,150,34780,Pravna oseba
+MG MG3,MG,,Novo vozilo,Hibrid,Avtomatski,194,16800,Pravna oseba
+Škoda Superb,Škoda,2018,272000,Dizel,Avtomatski,150,11990,Pravna oseba
+Suzuki Vitara,Suzuki,,Novo vozilo,Bencin,Ročni,110,26150,Pravna oseba
+Nissan Townstar,Nissan,,Novo vozilo,Bencin,Ročni,131,27840,Pravna oseba
+Renault Symbioz,Renault,,Novo vozilo,Bencin,Ročni,140,23490,Pravna oseba
+Dacia Sandero,Dacia,,Novo vozilo,Bencin,Ročni,91,13480,Pravna oseba
+Renault Captur,Renault,,Novo vozilo,Bencin,Ročni,91,20690,Pravna oseba
+Renault 5 E-tech,Renault,,Novo vozilo,,Avtomatski,150,33000,Pravna oseba
+Renault 5 E-tech,Renault,,Novo vozilo,,Avtomatski,122,Cena po dogovoru,Pravna oseba
+Renault 5 E-tech,Renault,,Novo vozilo,,Avtomatski,150,25990,Pravna oseba
+Nissan Qashqai,Nissan,,Novo vozilo,Bencin,Avtomatski,158,Cena po dogovoru,Pravna oseba
+Renault Symbioz,Renault,,Novo vozilo,Bencin,Ročni,140,27190,Pravna oseba
+Opel Grandland,Opel,2024,29073,Bencin,Ročni,131,17990,Pravna oseba
+Dacia Sandero,Dacia,,Novo vozilo,Bencin,Ročni,110,15950,Pravna oseba
+Nissan Qashqai,Nissan,,Novo vozilo,Bencin,Avtomatski,158,31500,Pravna oseba
+Suzuki Vitara,Suzuki,,Novo vozilo,Bencin,Ročni,110,Cena po dogovoru,Pravna oseba
+MG MG HS,MG,,Novo vozilo,Hibrid,Avtomatski,272,35090,Pravna oseba
+Renault Espace,Renault,,Novo vozilo,Hibrid,Avtomatski,200,Cena po dogovoru,Pravna oseba
+Renault Symbioz,Renault,,Novo vozilo,Bencin,Ročni,140,24990,Pravna oseba
+Renault Scénic,Renault,,Novo vozilo,,Avtomatski,218,Cena po dogovoru,Pravna oseba
+Dacia Bigster,Dacia,,Novo vozilo,Bencin,Ročni,131,28490,Pravna oseba
+Dacia Bigster,Dacia,,Novo vozilo,Bencin,Ročni,131,26720,Pravna oseba
+Dacia Bigster,Dacia,,Novo vozilo,Bencin,Ročni,140,21490,Pravna oseba
+Audi A4,Audi,2022,119800,Dizel,Avtomatski,204,28990,Pravna oseba
+BMW Serija 4,BMW,2014,162000,Bencin,Avtomatski,245,20990,Pravna oseba
+Fiat Ducato,Fiat,2024,54203,Dizel,Ročni,179,Cena po dogovoru,Pravna oseba
+Renault Scenic E-tech,Renault,,Novo vozilo,,Avtomatski,170,34190,Pravna oseba
+Dacia Duster,Dacia,,Novo vozilo,Bencin,Ročni,131,24480,Pravna oseba
+Alpine A290,Alpine,,Novo vozilo,,Avtomatski,220,43480,Pravna oseba
+Dacia Duster,Dacia,,Novo vozilo,Bencin,Ročni,131,22780,Pravna oseba
+Renault Captur,Renault,,Novo vozilo,Bencin,Ročni,140,22280,Pravna oseba
+Nissan Qashqai,Nissan,,Novo vozilo,Bencin,Avtomatski,158,Cena po dogovoru,Pravna oseba
+Renault 5 E-tech,Renault,,Novo vozilo,,Avtomatski,150,25490,Pravna oseba
+Renault Captur,Renault,,Novo vozilo,Bencin,Ročni,91,21730,Pravna oseba
+MG MG HS,MG,,Novo vozilo,Bencin,Avtomatski,170,31250,Pravna oseba
+Renault Symbioz,Renault,,Novo vozilo,Hibrid,Avtomatski,145,Cena po dogovoru,Pravna oseba
+BMW Serija 2,BMW,2025,15164,Bencin,Avtomatski,136,34990,Pravna oseba
+Mercedes-Benz Vito,Mercedes-Benz,2025,15560,Dizel,Avtomatski,163,59988,Pravna oseba
+KIA Sportage,KIA,2024,28252,Bencin,Avtomatski,150,22990,Pravna oseba
+Citroën C3,Citroën,2017,118249,Bencin,Ročni,82,5500,Pravna oseba
+Citroën C4,Citroën,2022,49386,Dizel,Ročni,110,14900,Pravna oseba
+Citroën DS3,Citroën,2019,40224,Bencin,Avtomatski,110,11990,Pravna oseba
+Land Rover Discovery,Land,2022,78233,Dizel,Avtomatski,163,23488,Pravna oseba
+Jeep Wrangler,Jeep,2022,81093,Bencin,Avtomatski,272,39488,Pravna oseba
+Jeep Compass,Jeep,2024,52462,Bencin,Avtomatski,131,21988,Pravna oseba
+Peugeot 308,Peugeot,2025,37300,Dizel,Avtomatski,131,18988,Pravna oseba
+Peugeot 308,Peugeot,2016,104574,Bencin,Ročni,131,6488,Pravna oseba
+Mercedes-Benz B-Razred,Mercedes-Benz,2024,8289,Bencin,Avtomatski,136,25488,Pravna oseba
+Mercedes-Benz B-Razred,Mercedes-Benz,2024,14392,Bencin,Avtomatski,136,24988,Pravna oseba
+Opel Mokka,Opel,2016,76693,Bencin,Avtomatski,140,8988,Pravna oseba
+DS DS 7,DS,2024,32032,Dizel,Avtomatski,131,26988,Pravna oseba
+DS DS 7,DS,2025,10998,Hibrid,Avtomatski,200,41988,Pravna oseba
+Citroën C5 Aircross,Citroën,2025,22172,Dizel,Avtomatski,131,22488,Pravna oseba
+BMW X4,BMW,2024,32119,Dizel,Avtomatski,340,Cena po dogovoru,Pravna oseba
+BMW X3,BMW,2018,237605,Dizel,Avtomatski,190,Cena po dogovoru,Pravna oseba
+Ford Puma,Ford,,Novo vozilo,Bencin,Avtomatski,125,26652,Pravna oseba
+Alfa Romeo Giulia,Alfa,2025,37271,Dizel,Avtomatski,209,40488,Pravna oseba
+BMW X3,BMW,2015,110726,Dizel,Ročni,150,Cena po dogovoru,Pravna oseba
+Ford Mondeo,Ford,2005,255000,Dizel,Avtomatski,116,1100,Fizična oseba
+Mercedes-Benz GLB-Razred,Mercedes-Benz,2025,12714,Dizel,Avtomatski,150,42990,Pravna oseba
+Škoda Fabia,Škoda,2015,135781,Bencin,Ročni,90,5400,Pravna oseba
+Volkswagen Passat,Volkswagen,2013,468988,Dizel,Avtomatski,140,5500,Pravna oseba
+Audi A4,Audi,2016,170000,Dizel,Ročni,150,15790,Pravna oseba
+BMW Serija 5,BMW,2019,183000,Dizel,Avtomatski,265,27490,Pravna oseba
+Hongqi HS3,Hongqi,2025,10000,Bencin,Avtomatski,156,Cena po dogovoru,Pravna oseba
+KIA Stonic,KIA,2022,101524,Bencin,Ročni,84,9999,Pravna oseba
+Fiat Panda,Fiat,,Novo vozilo,Bencin,Ročni,65,11490,Pravna oseba
+Geely Cityray,Geely,,Novo vozilo,Bencin,Avtomatski,174,Cena po dogovoru,Pravna oseba
+Renault Captur,Renault,2019,64577,Bencin,Ročni,90,9500,Pravna oseba
+Volkswagen Tiguan,Volkswagen,,Novo vozilo,Dizel,Avtomatski,150,Cena po dogovoru,Pravna oseba
+Audi Q3,Audi,2021,87490,Dizel,Avtomatski,190,33990,Pravna oseba
+Volkswagen Polo,Volkswagen,,Novo vozilo,Bencin,Ročni,95,23850,Pravna oseba
+Citroën C5 Aircross,Citroën,2022,123009,Hibrid,Avtomatski,224,16880,Pravna oseba
+Volkswagen Passat,Volkswagen,2019,233852,Dizel,Avtomatski,150,10990,Pravna oseba
+Volkswagen Sharan,Volkswagen,2016,228745,Dizel,Ročni,150,12940,Pravna oseba
+Volkswagen Sharan,Volkswagen,2016,249852,Dizel,Ročni,150,12940,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2015,182000,Dizel,Ročni,150,12940,Pravna oseba
+Volkswagen Passat,Volkswagen,2015,269854,Dizel,Ročni,150,9995,Pravna oseba
+Volkswagen Golf,Volkswagen,2014,228741,Dizel,Ročni,150,9945,Pravna oseba
+Volkswagen CC,Volkswagen,2013,237412,Dizel,Ročni,140,9940,Pravna oseba
+Škoda Octavia,Škoda,2023,139000,Dizel,Avtomatski,150,20990,Pravna oseba
+Škoda Octavia,Škoda,2016,248752,Dizel,Ročni,150,8945,Pravna oseba
+Škoda Octavia,Škoda,2015,244745,Dizel,Ročni,150,8990,Pravna oseba
+Škoda Octavia,Škoda,2017,234715,Dizel,Ročni,150,9990,Pravna oseba
+Mercedes-Benz E-Razred,Mercedes-Benz,2014,232854,Dizel,Avtomatski,136,12940,Pravna oseba
+Citroën C4,Citroën,2017,194444,Dizel,Ročni,120,6690,Pravna oseba
+BMW X6,BMW,2021,94000,Dizel,Avtomatski,286,65900,Pravna oseba
+BMW Serija 5,BMW,2018,246985,Dizel,Avtomatski,265,20990,Pravna oseba
+BMW Serija 5,BMW,2017,151000,Dizel,Avtomatski,400,34990,Pravna oseba
+BMW Serija 5,BMW,2017,196859,Dizel,Avtomatski,190,17990,Pravna oseba
+BMW Serija 3,BMW,2014,256985,Dizel,Ročni,143,8990,Pravna oseba
+BMW Serija 3,BMW,2015,200000,Dizel,Avtomatski,143,9940,Pravna oseba
+BMW Serija 1,BMW,2021,152000,Bencin,Avtomatski,140,19850,Pravna oseba
+Volvo XC90,Volvo,2016,353852,Dizel,Avtomatski,190,15990,Pravna oseba
+Audi A6,Audi,2015,266852,Dizel,Ročni,190,14800,Pravna oseba
+Audi A6,Audi,2012,179856,Dizel,Avtomatski,177,13945,Pravna oseba
+Audi A4,Audi,2016,239458,Dizel,Avtomatski,190,12940,Pravna oseba
+Audi A4,Audi,2014,242896,Dizel,Ročni,143,7990,Pravna oseba
+Audi A4,Audi,2019,188523,Dizel,Avtomatski,150,18800,Pravna oseba
+Audi A4,Audi,2016,239852,Dizel,Avtomatski,190,15940,Pravna oseba
+Audi A4,Audi,2014,189000,Dizel,Avtomatski,190,12490,Pravna oseba
+Geely EX5,Geely,,Novo vozilo,,Avtomatski,218,36490,Pravna oseba
+Geely EX5,Geely,,Novo vozilo,,Avtomatski,218,36490,Pravna oseba
+KIA Sportage,KIA,2026,9172,Bencin,Avtomatski,150,27999,Pravna oseba
+Geely StarRay,Geely,2026,5000,Bencin,Avtomatski,238,29799,Pravna oseba
+Renault Captur,Renault,2018,50356,Bencin,Avtomatski,118,11500,Pravna oseba
+Honda CR-V,Honda,2021,69900,Hibrid,Avtomatski,145,28690,Pravna oseba
+KIA PV5,KIA,,Novo vozilo,,Avtomatski,163,45099,Pravna oseba
+Renault Kangoo,Renault,2014,149500,Dizel,Ročni,90,7590,Pravna oseba
+KIA Ceed,KIA,,Novo vozilo,Bencin,Ročni,101,17849,Pravna oseba
+Volvo XC60,Volvo,2024,53138,Dizel,Avtomatski,197,35899,Pravna oseba
+Volvo XC40,Volvo,2026,10000,Bencin,Avtomatski,163,33999,Pravna oseba
+BMW M2,BMW,2019,108669,Bencin,Avtomatski,411,49490,Pravna oseba
+BMW M2,BMW,2017,121173,Bencin,Avtomatski,370,39490,Pravna oseba
+Volvo XC60,Volvo,2018,156298,Dizel,Avtomatski,190,21990,Pravna oseba
+BMW serija 4 Gran Coupe,BMW,,298923,Dizel,Avtomatski,190,11590,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2018,209020,Dizel,Avtomatski,150,13900,Pravna oseba
+Volkswagen Passat,Volkswagen,2016,161000,Dizel,Ročni,150,13500,Fizična oseba
+Fiat 124 Spider,Fiat,2019,68355,Bencin,Ročni,140,21990,Pravna oseba
+Jeep Compass,Jeep,2023,38816,Hibrid,Avtomatski,190,22990,Pravna oseba
+Citroën C3,Citroën,2025,6385,Bencin,Ročni,101,13990,Pravna oseba
+Renault Austral,Renault,,Novo vozilo,Bencin,Avtomatski,150,34980,Pravna oseba
+Renault Clio,Renault,,Novo vozilo,Bencin,Ročni,114,19570,Pravna oseba
+Renault Master,Renault,,Novo vozilo,Dizel,Ročni,150,33510,Pravna oseba
+Renault Clio,Renault,,Novo vozilo,Bencin,Ročni,114,19970,Pravna oseba
+Renault Clio,Renault,,Novo vozilo,Bencin,Avtomatski,114,21270,Pravna oseba
+BMW Serija 5,BMW,2025,38900,Dizel,Avtomatski,303,71900,Pravna oseba
+Renault Kangoo,Renault,2018,300000,Dizel,Ročni,109,2990,Pravna oseba
+BMW Serija 1,BMW,2025,25540,Bencin,Avtomatski,122,26790,Pravna oseba
+BMW X1,BMW,2025,20900,Hibrid,Avtomatski,136,45900,Pravna oseba
+Peugeot Boxer,Peugeot,2023,94983,Dizel,Ročni,140,18490,Pravna oseba
+Audi A4,Audi,2014,237000,Dizel,Ročni,120,9990,Pravna oseba
+Renault Master,Renault,,Novo vozilo,Dizel,Ročni,150,Cena po dogovoru,Pravna oseba
+Citroën C3,Citroën,2026,12358,Bencin,Ročni,101,14990,Pravna oseba
+Renault Master,Renault,,Novo vozilo,Dizel,Ročni,150,Cena po dogovoru,Pravna oseba
+Peugeot Expert,Peugeot,2024,34,,Avtomatski,136,Cena po dogovoru,Pravna oseba
+Nissan NV 200,Nissan,2011,222000,Dizel,Ročni,86,5490,Pravna oseba
+Volkswagen Transporter,Volkswagen,2012,299000,Dizel,Ročni,102,7500,Pravna oseba
+Fiat Doblo,Fiat,2023,78232,Dizel,Ročni,131,16990,Pravna oseba
+Mercedes-Benz B-Razred,Mercedes-Benz,2012,199119,Dizel,Ročni,109,6699,Pravna oseba
+Ford Mondeo,Ford,2022,223000,Dizel,Avtomatski,190,13990,Pravna oseba
+Volkswagen Golf,Volkswagen,2023,119202,Bencin,Ročni,245,24900,Pravna oseba
+Dacia Bigster,Dacia,,Novo vozilo,Bencin,Ročni,140,26470,Pravna oseba
+Ford Mondeo,Ford,2016,226320,Dizel,Avtomatski,179,11995,Pravna oseba
+Škoda Superb,Škoda,2021,144241,Dizel,Ročni,150,17900,Pravna oseba
+BMW M3 Touring,BMW,2010,331465,Dizel,Ročni,143,Cena po dogovoru,Pravna oseba
+Škoda Octavia,Škoda,2016,187635,Dizel,Ročni,90,6590,Pravna oseba
+Volkswagen Golf,Volkswagen,2019,161000,Dizel,Avtomatski,150,14900,Fizična oseba
+Škoda Octavia,Škoda,2019,237514,Dizel,Avtomatski,150,9900,Pravna oseba
+Seat Leon,Seat,2020,150629,Bencin,Avtomatski,290,15900,Pravna oseba
+Porsche Cayenne,Porsche,2020,106198,Hibrid,Avtomatski,462,59900,Pravna oseba
+Porsche 911,Porsche,2020,58931,Bencin,Avtomatski,385,99999,Pravna oseba
+Porsche 718,Porsche,2022,39150,Bencin,Avtomatski,420,89900,Pravna oseba
+Peugeot 5008,Peugeot,2021,140383,Dizel,Ročni,131,14490,Pravna oseba
+Peugeot 5008,Peugeot,2020,151886,Dizel,Ročni,131,13490,Pravna oseba
+Opel Astra,Opel,2012,157429,Bencin,Ročni,120,4900,Pravna oseba
+Mercedes-Benz GL-Razred,Mercedes-Benz,2015,183954,Bencin,Avtomatski,435,28500,Pravna oseba
+Renault Clio,Renault,2004,253300,Bencin,Ročni,75,Cena po dogovoru,Pravna oseba
+Nissan Qashqai,Nissan,2007,232950,Bencin,Ročni,141,Cena po dogovoru,Pravna oseba
+Audi A6,Audi,2018,242340,Dizel,Avtomatski,190,16995,Pravna oseba
