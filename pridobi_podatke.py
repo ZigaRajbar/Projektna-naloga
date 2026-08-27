@@ -11,5 +11,5 @@ def raw_podatki_s_spletne_strani(stevilo_strani):
             return f"Napaka na strani {i}."
 
         vsi_podatki += r.text
-        time.sleep(2)
+        time.sleep(1)
     return vsi_podatki
