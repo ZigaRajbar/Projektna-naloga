@@ -1,6 +1,22 @@
 Ime,Znamka,Letnik,Prevoženi kilometri,Tip goriva,Tip menjalnika,Moč motorja,Cena,Prodajalec
-Renault Megane,Renault,2022,142454,Dizel,Avtomatski,116,12190,Pravna oseba
+Toyota C-HR,Toyota,2017,179000,Bencin,Avtomatski,116,12980,Pravna oseba
+Nissan Qashqai,Nissan,2023,128700,Bencin,Avtomatski,158,18890,Pravna oseba
+Volkswagen Golf,Volkswagen,2017,221822,Dizel,Ročni,116,11990,Pravna oseba
+Volkswagen Golf,Volkswagen,2013,169981,Bencin,Ročni,105,7990,Pravna oseba
+Audi Q5,Audi,2022,106950,Dizel,Avtomatski,204,31490,Pravna oseba
+Audi A7,Audi,2016,263295,Dizel,Avtomatski,272,19995,Pravna oseba
+BMW Serija 5,BMW,2022,152481,Dizel,Avtomatski,190,22680,Pravna oseba
+Cupra Leon,Cupra,2023,164539,Dizel,Avtomatski,150,18850,Pravna oseba
+Audi A4,Audi,2014,259000,Dizel,Avtomatski,177,7490,Pravna oseba
+Volkswagen Golf,Volkswagen,2017,169000,Dizel,Ročni,116,9990,Pravna oseba
+Volkswagen Passat,Volkswagen,2011,328000,Dizel,Ročni,170,6390,Pravna oseba
+Audi A4,Audi,2016,206666,Dizel,Avtomatski,190,14490,Pravna oseba
+Volkswagen Tiguan,Volkswagen,2022,138500,Dizel,Avtomatski,150,21490,Pravna oseba
+Volkswagen Golf,Volkswagen,2017,199952,Dizel,Ročni,116,12650,Pravna oseba
 Fiat 500X,Fiat,2021,56202,Bencin,Ročni,120,12990,Pravna oseba
+Ford Fusion,Ford,2009,206000,Bencin,Ročni,101,490,Pravna oseba
+Ford Fusion,Ford,2007,305000,Dizel,Ročni,68,200,Pravna oseba
+Renault Megane,Renault,2022,142454,Dizel,Avtomatski,116,12190,Pravna oseba
 KIA XCeed,KIA,2026,5000,Bencin,Avtomatski,150,29444,Pravna oseba
 KIA XCeed,KIA,2026,5000,Bencin,Avtomatski,150,24999,Pravna oseba
 KIA Stonic,KIA,2026,5000,Bencin,Avtomatski,101,22999,Pravna oseba
@@ -119,7 +135,6 @@ Ford S-MAX,Ford,2017,266000,Dizel,Avtomatski,179,8880,Pravna oseba
 Mazda CX-5,Mazda,2021,78402,Dizel,Ročni,150,20880,Pravna oseba
 Ford Tourneo,Ford,2025,25124,Dizel,Ročni,101,20480,Pravna oseba
 BMW X4,BMW,2017,194000,Dizel,Avtomatski,190,21880,Pravna oseba
-BMW X4,BMW,2017,194000,Dizel,Avtomatski,190,21880,Pravna oseba
 Mazda CX-30,Mazda,2021,114050,Bencin,Avtomatski,179,20880,Pravna oseba
 BMW serija X5:,BMW,2016,210000,Dizel,Avtomatski,258,19999,Pravna oseba
 BMW serija 5 Touring:,BMW,2017,360050,Dizel,Avtomatski,265,15999,Pravna oseba
@@ -237,7 +252,7 @@ Ford Focus,Ford,2018,139888,Bencin,Ročni,150,,Pravna oseba
 Seat Leon,Seat,2021,80273,Bencin,Avtomatski,150,,Pravna oseba
 Mercedes-Benz E-Razred,Mercedes-Benz,2022,212451,Hibrid,Avtomatski,306,19980,Pravna oseba
 Renault Austral,Renault,,,Bencin,Avtomatski,148,30300,Pravna oseba
-Alfa Romeo Stelvio,Alfa,2022,48930,Dizel,Avtomatski,209,,Pravna oseba
+Alfa Romeo Stelvio,Alfa Romeo,2022,48930,Dizel,Avtomatski,209,,Pravna oseba
 Renault Austral,Renault,,,Bencin,Avtomatski,150,31300,Pravna oseba
 MG MG5,MG,2022,71881,Električni pogon,Avtomatski,177,,Pravna oseba
 MG MG4,MG,2024,25229,Električni pogon,Avtomatski,204,,Pravna oseba
@@ -298,7 +313,6 @@ Dacia Sandero,Dacia,,,Bencin,Ročni,101,12750,Pravna oseba
 Nissan Qashqai,Nissan,2014,117191,Dizel,Ročni,131,,Pravna oseba
 Audi e-tron,Audi,2022,84441,Električni pogon,Avtomatski,313,,Pravna oseba
 Dacia Sandero,Dacia,,,Bencin,Ročni,91,12999,Pravna oseba
-Dacia Duster,Dacia,,,Bencin,Ročni,140,22499,Pravna oseba
 Dacia Duster,Dacia,,,Bencin,Ročni,140,22499,Pravna oseba
 Dacia Duster,Dacia,,,Bencin,Ročni,131,23200,Pravna oseba
 Dacia Duster,Dacia,,,Bencin,Ročni,131,23200,Pravna oseba
@@ -389,6 +403,7 @@ Nissan Qashqai,Nissan,2009,228258,Bencin,Ročni,114,3250,Fizična oseba
 Renault Espace,Renault,2020,175574,Dizel,Avtomatski,160,17390,Pravna oseba
 Volkswagen Golf,Volkswagen,2016,247120,Dizel,Avtomatski,184,,Pravna oseba
 Ford Puma,Ford,,30411,Bencin,Avtomatski,125,Cena po dogovoru,Pravna oseba
+BMW X3,BMW,2018,165550,Dizel,Avtomatski,190,26880,Pravna oseba
 Opel Insignia,Opel,2015,228620,Dizel,Ročni,136,5995,Pravna oseba
 Mercedes-Benz E-Razred,Mercedes-Benz,2017,232200,Dizel,Avtomatski,194,22290,Pravna oseba
 Škoda Octavia,Škoda,2023,1,Dizel,Avtomatski,150,Cena po dogovoru,Pravna oseba
@@ -538,7 +553,6 @@ Ford Puma,Ford,,,Električni pogon,Avtomatski,169,Cena po dogovoru,Pravna oseba
 Ford Tourneo,Ford,,,Dizel,Avtomatski,170,Cena po dogovoru,Pravna oseba
 Ford Tourneo,Ford,,,Električni pogon,Avtomatski,136,Cena po dogovoru,Pravna oseba
 DS DS 7 Crossback,DS,2021,120000,Dizel,Avtomatski,131,15990,Pravna oseba
-Opel Movano,Opel,2025,37668,Dizel,Avtomatski,140,24990,Pravna oseba
 Opel Movano,Opel,2025,37668,Dizel,Avtomatski,140,24990,Pravna oseba
 DS DS 7 Crossback,DS,2018,138000,Dizel,Ročni,131,13500,Pravna oseba
 Ford Transit Custom,Ford,,,Dizel,Avtomatski,170,Cena po dogovoru,Pravna oseba
@@ -784,14 +798,14 @@ Mercedes-Benz ML-Razred,Mercedes-Benz,2015,282013,Dizel,Avtomatski,204,16980,Pra
 Hyundai i40,Hyundai,2017,213021,Dizel,Ročni,116,6980,Pravna oseba
 Ford Ecosport,Ford,2015,117021,Bencin,Ročni,125,6980,Pravna oseba
 BMW serija 3:,BMW,2020,102320,Bencin,Avtomatski,374,40995,Pravna oseba
-Alfa Romeo Stelvio,Alfa,2022,149450,Dizel,Avtomatski,190,18990,Pravna oseba
+Alfa Romeo Stelvio,Alfa Romeo,2022,149450,Dizel,Avtomatski,190,18990,Pravna oseba
 Peugeot 2008,Peugeot,2022,121400,Dizel,Ročni,110,13700,Pravna oseba
 Opel Insignia,Opel,2021,161531,Bencin,Avtomatski,170,12990,Pravna oseba
 Ford Mondeo,Ford,2021,184540,Dizel,Avtomatski,150,11990,Pravna oseba
 Opel Combo,Opel,2020,136440,Dizel,Ročni,102,11490,Pravna oseba
 BMW serija 6 Gran Turismo:,BMW,2023,140211,Dizel,Avtomatski,286,36990,Pravna oseba
 Jaguar XE,Jaguar,2021,76900,Dizel,Avtomatski,179,18900,Pravna oseba
-Alfa Romeo Stelvio,Alfa,2021,151200,Dizel,Avtomatski,190,18300,Pravna oseba
+Alfa Romeo Stelvio,Alfa Romeo,2021,151200,Dizel,Avtomatski,190,18300,Pravna oseba
 Audi Q3,Audi,2022,116100,Bencin,Avtomatski,150,26990,Pravna oseba
 Audi A4,Audi,2020,171563,Plin,Avtomatski,170,16990,Pravna oseba
 Audi A4,Audi,2020,171563,Bencin,Avtomatski,170,16990,Pravna oseba
@@ -811,7 +825,7 @@ Dodge Ram,Dodge,2021,165200,Bencin,Avtomatski,309,Cena po dogovoru,Pravna oseba
 Opel Astra,Opel,2023,163650,Dizel,Avtomatski,131,,Pravna oseba
 Audi Q8,Audi,2021,79100,Hibrid,Avtomatski,381,50990,Pravna oseba
 Hyundai Kona,Hyundai,2021,134156,Dizel,Avtomatski,136,13200,Pravna oseba
-Alfa Romeo Stelvio,Alfa,2019,163600,Dizel,Avtomatski,190,,Pravna oseba
+Alfa Romeo Stelvio,Alfa Romeo,2019,163600,Dizel,Avtomatski,190,,Pravna oseba
 Volkswagen Passat,Volkswagen,2022,157098,Dizel,Avtomatski,150,,Pravna oseba
 Volkswagen Passat,Volkswagen,2021,171025,Dizel,Avtomatski,122,12990,Pravna oseba
 Fiat Tipo,Fiat,2020,156283,Dizel,Ročni,95,7490,Pravna oseba
@@ -1026,7 +1040,7 @@ Volkswagen Taigo,Volkswagen,2023,51000,Bencin,Avtomatski,110,17900,Pravna oseba
 MINI Paceman,MINI,2013,200400,Dizel,Avtomatski,143,9999,Pravna oseba
 Mercedes-Benz GLK-Razred,Mercedes-Benz,2008,350100,Dizel,Avtomatski,224,7999,Pravna oseba
 KIA Seltos,KIA,,,Bencin,Avtomatski,179,,Pravna oseba
-Alfa Romeo Giulia,Alfa,2019,230040,Dizel,Avtomatski,209,18999,Pravna oseba
+Alfa Romeo Giulia,Alfa Romeo,2019,230040,Dizel,Avtomatski,209,18999,Pravna oseba
 Cupra Leon,Cupra,,,Hibrid,Avtomatski,204,36270,Pravna oseba
 Cupra Leon,Cupra,,,Bencin,Ročni,150,28100,Pravna oseba
 BMW Serija 3,BMW,2025,16522,Bencin,Avtomatski,258,Cena po dogovoru,Pravna oseba
@@ -1250,7 +1264,7 @@ Opel Grandland X,Opel,2019,100000,Bencin,Avtomatski,131,10990,Pravna oseba
 Opel Crossland,Opel,2022,37000,Bencin,Ročni,83,9999,Pravna oseba
 Opel Astra,Opel,2018,153000,Bencin,Ročni,105,6500,Pravna oseba
 MINI One,MINI,2017,95000,Bencin,Ročni,102,9990,Pravna oseba
-Land Rover Discovery Sport,Land,2018,90000,Dizel,Avtomatski,179,17999,Pravna oseba
+Land Rover Discovery Sport,Land Rover,2018,90000,Dizel,Avtomatski,179,17999,Pravna oseba
 Citroën C5 Aircross,Citroën,2021,135000,Bencin,Ročni,131,12688,Pravna oseba
 Toyota Yaris Cross,Toyota,2022,90017,Bencin,Ročni,125,17450,Pravna oseba
 KIA Ceed,KIA,2023,164000,Dizel,Avtomatski,136,13999,Pravna oseba
@@ -1279,7 +1293,7 @@ Audi Q3,Audi,2020,134000,Dizel,Avtomatski,190,22550,Pravna oseba
 Toyota Yaris Cross,Toyota,2021,19684,Bencin,Ročni,125,18320,Pravna oseba
 Suzuki Vitara,Suzuki,2023,67029,Bencin,Ročni,129,18950,Pravna oseba
 Toyota Yaris Cross,Toyota,2021,52889,Bencin,Ročni,125,19190,Pravna oseba
-Land Rover Range Rover Evoque,Land,2018,119000,Dizel,Avtomatski,150,15500,Pravna oseba
+Land Rover Range Rover Evoque,Land Rover,2018,119000,Dizel,Avtomatski,150,15500,Pravna oseba
 Toyota Corolla,Toyota,2021,73587,Hibrid,Avtomatski,122,19750,Pravna oseba
 Toyota Yaris Cross,Toyota,2024,43307,Bencin,Ročni,125,20320,Pravna oseba
 Toyota C-HR,Toyota,2022,84671,Hibrid,Avtomatski,122,20590,Pravna oseba
@@ -1291,7 +1305,7 @@ Volkswagen Passat,Volkswagen,2021,118945,Dizel,Avtomatski,200,22950,Pravna oseba
 Suzuki S-Cross,Suzuki,2024,46168,Bencin,Ročni,129,22990,Pravna oseba
 Toyota Corolla,Toyota,2021,77444,Hibrid,Avtomatski,122,23550,Pravna oseba
 Toyota C-HR,Toyota,2021,83980,Hibrid,Avtomatski,184,24590,Pravna oseba
-Land Rover Range Rover Velar,Land,2020,106871,Dizel,Avtomatski,179,24950,Pravna oseba
+Land Rover Range Rover Velar,Land Rover,2020,106871,Dizel,Avtomatski,179,24950,Pravna oseba
 Toyota RAV4,Toyota,2020,107544,Hibrid,Avtomatski,222,25590,Pravna oseba
 Mercedes-Benz GLC-Razred,Mercedes-Benz,2018,157692,Dizel,Avtomatski,258,27450,Pravna oseba
 Subaru Forester,Subaru,2022,96021,Bencin,Avtomatski,150,29490,Pravna oseba
@@ -1320,13 +1334,11 @@ Porsche Panamera,Porsche,2023,75802,Hibrid,Avtomatski,462,85990,Pravna oseba
 Citroën C4,Citroën,2024,129000,Dizel,Avtomatski,131,14990,Pravna oseba
 Peugeot 2008,Peugeot,2017,105000,Bencin,Ročni,110,6890,Pravna oseba
 Škoda Kodiaq,Škoda,2023,166533,Dizel,Avtomatski,200,26990,Pravna oseba
-Audi A7,Audi,2016,263295,Dizel,Avtomatski,272,19995,Pravna oseba
 Hyundai Bayon,Hyundai,2024,22786,Bencin,Ročni,101,,Pravna oseba
 Dacia Spring,Dacia,2023,65675,Električni pogon,Avtomatski,65,,Pravna oseba
 Porsche Panamera,Porsche,2018,230400,Bencin,Avtomatski,330,42999,Pravna oseba
 Hyundai Kona,Hyundai,2023,27500,Bencin,Ročni,120,16500,Fizična oseba
 Renault Twingo,Renault,2010,167117,Bencin,Ročni,58,2590,Pravna oseba
-Volkswagen Tiguan,Volkswagen,2022,138500,Dizel,Avtomatski,150,21490,Pravna oseba
 Volkswagen Arteon Shooting Brake,Volkswagen,2023,136000,Dizel,Avtomatski,150,24990,Pravna oseba
 Opel Mokka,Opel,2015,174332,Dizel,Ročni,131,,Pravna oseba
 Renault Clio,Renault,2006,110305,Bencin,Ročni,75,2500,Pravna oseba
@@ -1358,7 +1370,7 @@ Peugeot 3008,Peugeot,2018,308588,Dizel,Avtomatski,120,9690,Pravna oseba
 Citroën C4 Cactus,Citroën,2018,102278,Bencin,Ročni,131,7690,Pravna oseba
 Ford Kuga,Ford,2022,127134,Dizel,Avtomatski,120,17490,Pravna oseba
 Peugeot 3008,Peugeot,2022,121312,Dizel,Avtomatski,131,18290,Pravna oseba
-Land Rover Range Rover Evoque,Land,2012,242155,Dizel,Avtomatski,150,10990,Pravna oseba
+Land Rover Range Rover Evoque,Land Rover,2012,242155,Dizel,Avtomatski,150,10990,Pravna oseba
 Peugeot 508,Peugeot,2022,124171,Dizel,Avtomatski,131,17690,Pravna oseba
 Citroën C4,Citroën,2021,148123,Dizel,Ročni,110,12590,Pravna oseba
 Peugeot Rifter,Peugeot,2020,160376,Dizel,Avtomatski,131,,Pravna oseba
@@ -1391,7 +1403,6 @@ Peugeot Traveller,Peugeot,2017,379730,Dizel,Ročni,150,11999,Pravna oseba
 Peugeot 308,Peugeot,2015,259011,Dizel,Avtomatski,181,,Pravna oseba
 Škoda Roomster,Škoda,2008,300737,Bencin,Ročni,86,1990,Pravna oseba
 Audi A7,Audi,2022,112500,Dizel,Avtomatski,204,38900,Pravna oseba
-BMW serija 1:,BMW,2023,85000,Dizel,Ročni,116,17366,Pravna oseba
 Citroën C4 Aircross,Citroën,2015,192000,Dizel,Ročni,114,6990,Pravna oseba
 Dacia Sandero,Dacia,,,Bencin,Ročni,101,13870,Pravna oseba
 Ford Tourneo,Ford,2026,2990,Dizel,Avtomatski,170,,Pravna oseba
@@ -1457,7 +1468,7 @@ Audi A5 Sportback,Audi,2012,369000,Dizel,Avtomatski,136,6850,Pravna oseba
 Citroën C5,Citroën,2007,245000,Dizel,Ročni,170,600,Pravna oseba
 Volkswagen Caddy,Volkswagen,2025,756,Dizel,Ročni,102,Cena po dogovoru,Pravna oseba
 Citroën C3,Citroën,2020,132000,Bencin,Ročni,83,7495,Fizična oseba
-Citroën DS3,Citroën,2011,275800,Dizel,Ročni,92,3500,Fizična oseba
+Citroën DS3,Citroën,2011,275800,Dizel,Ročni,92,2900,Fizična oseba
 Volkswagen Golf,Volkswagen,2018,60516,Bencin,Ročni,131,17990,Fizična oseba
 BMW Serija 3,BMW,2020,134000,Bencin,Avtomatski,156,22990,Fizična oseba
 Ford Focus,Ford,2011,320000,Dizel,Ročni,116,3290,Fizična oseba
@@ -1532,7 +1543,7 @@ Renault Scénic,Renault,2014,197893,Dizel,Ročni,110,,Pravna oseba
 Citroën C4 Cactus,Citroën,2019,149875,Bencin,Ročni,110,6450,Pravna oseba
 Volkswagen Golf,Volkswagen,2013,260654,Dizel,Ročni,150,9350,Pravna oseba
 Fiat Panda,Fiat,2022,119312,Bencin,Ročni,69,10850,Pravna oseba
-Alfa Romeo Stelvio,Alfa,2017,178441,Dizel,Avtomatski,179,14990,Pravna oseba
+Alfa Romeo Stelvio,Alfa Romeo,2017,178441,Dizel,Avtomatski,179,14990,Pravna oseba
 Fiat Freemont,Fiat,2014,251132,Dizel,Avtomatski,170,6950,Pravna oseba
 Volkswagen Passat,Volkswagen,2018,161622,Dizel,Avtomatski,150,15990,Pravna oseba
 MINI Countryman,MINI,2013,192351,Bencin,Avtomatski,218,9990,Pravna oseba
@@ -1800,19 +1811,19 @@ Opel Zafira,Opel,2015,65000,Dizel,Avtomatski,131,12999,Pravna oseba
 Lexus UX,Lexus,2019,68299,Hibrid,Avtomatski,184,22999,Pravna oseba
 Opel Crossland,Opel,2023,35062,Bencin,Ročni,110,14999,Pravna oseba
 Opel Grandland,Opel,,,Bencin,Avtomatski,145,32999,Pravna oseba
-Land Rover Range Rover Evoque,Land,2018,93000,Dizel,Avtomatski,150,19999,Pravna oseba
+Land Rover Range Rover Evoque,Land Rover,2018,93000,Dizel,Avtomatski,150,19999,Pravna oseba
 Opel Zafira,Opel,2015,33000,Dizel,Ročni,131,14999,Pravna oseba
 Opel Zafira,Opel,2015,21000,Dizel,Avtomatski,131,15999,Pravna oseba
 Tesla Model 3,Tesla,2023,59000,Električni pogon,Avtomatski,464,39999,Pravna oseba
 Tesla Model Y,Tesla,,,Električni pogon,Avtomatski,514,57999,Pravna oseba
 Ford Transit Custom,Ford,,28967,Dizel,Ročni,150,36990,Pravna oseba
-Land Rover Discovery,Land,2019,70140,Dizel,Avtomatski,306,35550,Pravna oseba
+Land Rover Discovery,Land Rover,2019,70140,Dizel,Avtomatski,306,35550,Pravna oseba
 Renault Talisman,Renault,2018,199600,Dizel,Avtomatski,131,9990,Pravna oseba
 Volkswagen T-Roc,Volkswagen,2019,109975,Bencin,Ročni,116,13990,Pravna oseba
 Mercedes-Benz E-Razred,Mercedes-Benz,2019,91000,Dizel,Avtomatski,245,,Pravna oseba
 Mazda Mazda6,Mazda,2023,91000,Bencin,Avtomatski,165,,Pravna oseba
 Mercedes-Benz E-Razred,Mercedes-Benz,2025,15800,Dizel,Avtomatski,197,,Pravna oseba
-Land Rover Range Rover Sport,Land,2024,82275,Dizel,Avtomatski,300,74880,Pravna oseba
+Land Rover Range Rover Sport,Land Rover,2024,82275,Dizel,Avtomatski,300,74880,Pravna oseba
 KIA Stonic,KIA,2023,105000,Bencin,Ročni,101,,Pravna oseba
 Suzuki Vitara,Suzuki,2017,182000,Bencin,Ročni,120,,Pravna oseba
 Citroën C5 Aircross,Citroën,2021,85000,Bencin,Ročni,131,12980,Pravna oseba
@@ -1873,7 +1884,6 @@ BMW serija 3 Touring:,BMW,2019,149900,Dizel,Avtomatski,150,14490,Pravna oseba
 Citroën C3,Citroën,2023,47755,Bencin,Ročni,110,11200,Pravna oseba
 KIA Sportage,KIA,2022,1,Bencin,Ročni,150,Cena po dogovoru,Pravna oseba
 Mercedes-Benz B-Razred,Mercedes-Benz,2017,179800,Dizel,Ročni,109,10899,Pravna oseba
-Citroën C3,Citroën,2022,79374,Bencin,Ročni,83,8600,Pravna oseba
 BMW X4,BMW,2016,197000,Dizel,Avtomatski,190,18990,Pravna oseba
 Volkswagen Golf,Volkswagen,2013,164764,Bencin,Ročni,122,,Pravna oseba
 Volkswagen Passat,Volkswagen,2021,82620,Dizel,Avtomatski,150,19990,Pravna oseba
@@ -1937,7 +1947,7 @@ Nissan Qashqai,Nissan,2012,98000,Bencin,Ročni,117,6999,Pravna oseba
 MINI Countryman,MINI,2015,180000,Bencin,Ročni,190,13499,Pravna oseba
 Škoda Karoq,Škoda,2018,161000,Dizel,Ročni,150,15490,Pravna oseba
 Toyota GR Yaris,Toyota,,,Bencin,Ročni,280,48990,Pravna oseba
-Land Rover Range Rover Velar,Land,2021,97130,Dizel,Avtomatski,300,39990,Pravna oseba
+Land Rover Range Rover Velar,Land Rover,2021,97130,Dizel,Avtomatski,300,39990,Pravna oseba
 Mercedes-Benz GLC-Razred,Mercedes-Benz,,,Dizel,Avtomatski,197,,Pravna oseba
 Volkswagen Passat,Volkswagen,2016,354231,Dizel,Avtomatski,150,9490,Pravna oseba
 Mercedes-Benz A-Razred,Mercedes-Benz,2021,82000,Bencin,Ročni,109,17675,Pravna oseba
@@ -2233,7 +2243,6 @@ Volkswagen Caddy,Volkswagen,2025,9000,Hibrid,Avtomatski,150,34990,Pravna oseba
 Volkswagen Caddy,Volkswagen,,,Dizel,Ročni,105,31100,Pravna oseba
 Citroën C4 SpaceTourer,Citroën,2021,141280,Dizel,Avtomatski,131,12690,Pravna oseba
 Volkswagen Caddy,Volkswagen,,,Bencin,Avtomatski,116,38990,Pravna oseba
-Volkswagen Tayron,Volkswagen,,,Dizel,Avtomatski,150,42970,Pravna oseba
 Volkswagen Tayron,Volkswagen,,,Dizel,Avtomatski,150,42970,Pravna oseba
 Opel Crossland X,Opel,2017,101890,Bencin,Ročni,82,,Pravna oseba
 Volkswagen Golf,Volkswagen,2022,183572,Dizel,Avtomatski,116,13990,Pravna oseba
@@ -2664,7 +2673,7 @@ Hyundai Kona,Hyundai,2021,76000,Bencin,Ročni,120,13990,Pravna oseba
 Volkswagen Golf,Volkswagen,2016,249004,Dizel,Ročni,110,7950,Pravna oseba
 Volkswagen Passat,Volkswagen,2012,390000,Dizel,Ročni,140,4950,Pravna oseba
 Volkswagen Passat,Volkswagen,2019,268000,Dizel,Avtomatski,190,13850,Pravna oseba
-Alfa Romeo Stelvio,Alfa,2020,159900,Dizel,Ročni,209,,Pravna oseba
+Alfa Romeo Stelvio,Alfa Romeo,2020,159900,Dizel,Ročni,209,,Pravna oseba
 Audi A6 Avant,Audi,2017,213000,Dizel,Avtomatski,272,14850,Pravna oseba
 BMW X6,BMW,2021,80405,Bencin,Avtomatski,530,57490,Pravna oseba
 Škoda Kodiaq,Škoda,2019,136638,Bencin,Ročni,150,16990,Pravna oseba
@@ -2769,7 +2778,7 @@ Renault Clio,Renault,,79421,Bencin,Ročni,76,8990,Pravna oseba
 Opel Mokka,Opel,2021,36276,Bencin,Ročni,131,15400,Fizična oseba
 Volkswagen T-Cross,Volkswagen,,,Bencin,Ročni,116,22974,Pravna oseba
 Mercedes-Benz S-Razred,Mercedes-Benz,2021,182000,Dizel,Avtomatski,286,74900,Pravna oseba
-Dacia Sandero,Dacia,2024,63873,Bencin,Ročni,91,11442,Pravna oseba
+Dacia Sandero,Dacia,2024,63873,Bencin,Ročni,91,10999,Pravna oseba
 KIA XCeed,KIA,2023,80192,Bencin,Ročni,159,20399,Pravna oseba
 Dacia Sandero,Dacia,2024,63873,Bencin,Ročni,91,11442,Pravna oseba
 Ford EcoSport,Ford,,118777,Bencin,Ročni,125,9990,Pravna oseba
@@ -2841,7 +2850,7 @@ Mercedes-Benz GLC-Razred,Mercedes-Benz,2018,194420,Dizel,Avtomatski,170,20998,Pr
 KIA Sportage,KIA,2012,153939,Dizel,Ročni,116,7598,Pravna oseba
 Mercedes-Benz GLE-Razred,Mercedes-Benz,2016,229300,Dizel,Avtomatski,204,22498,Pravna oseba
 Mazda CX-5,Mazda,2018,143587,Dizel,Avtomatski,150,16498,Pravna oseba
-Land Rover Range Rover Velar,Land,2023,53926,Dizel,Avtomatski,204,49998,Pravna oseba
+Land Rover Range Rover Velar,Land Rover,2023,53926,Dizel,Avtomatski,204,49998,Pravna oseba
 Opel Crossland X,Opel,2021,191122,Bencin,Ročni,110,6298,Pravna oseba
 Volvo XC60,Volvo,2014,165246,Bencin,Avtomatski,245,14998,Pravna oseba
 Škoda Superb,Škoda,2017,271608,Dizel,Ročni,150,8998,Pravna oseba
@@ -2927,7 +2936,7 @@ BMW X1,BMW,2024,78126,Bencin,Avtomatski,218,37900,Pravna oseba
 KIA Ceed,KIA,2019,135233,Bencin,Avtomatski,140,11490,Pravna oseba
 Volkswagen Multivan,Volkswagen,2015,119000,Dizel,Avtomatski,204,27999,Pravna oseba
 Mercedes-Benz GLE-Razred,Mercedes-Benz,2023,21900,Bencin,Avtomatski,489,89300,Pravna oseba
-Land Rover Range Rover Sport,Land,2016,118000,Dizel,Avtomatski,249,22999,Pravna oseba
+Land Rover Range Rover Sport,Land Rover,2016,118000,Dizel,Avtomatski,249,22999,Pravna oseba
 BMW i3,BMW,2021,76000,Električni pogon,Avtomatski,184,24999,Pravna oseba
 BMW X3,BMW,2025,1300,Hibrid,Avtomatski,299,59999,Pravna oseba
 Audi A6,Audi,2018,137000,Dizel,Avtomatski,286,32999,Pravna oseba
@@ -2948,7 +2957,7 @@ Mercedes-Benz E-Razred,Mercedes-Benz,2022,59900,Bencin,Avtomatski,435,59800,Prav
 BMW Serija 3,BMW,2022,62000,Hibrid,Avtomatski,204,33990,Pravna oseba
 Mercedes-Benz C-Razred,Mercedes-Benz,2019,46610,Bencin,Avtomatski,476,68900,Pravna oseba
 Ford Mustang,Ford,2016,71800,Bencin,Ročni,533,59999,Pravna oseba
-Alfa Romeo Tonale,Alfa,2024,51657,Bencin,Avtomatski,160,28999,Pravna oseba
+Alfa Romeo Tonale,Alfa Romeo,2024,51657,Bencin,Avtomatski,160,28999,Pravna oseba
 BMW Serija 1,BMW,2021,99748,Dizel,Avtomatski,116,19990,Pravna oseba
 BMW Serija 3,BMW,2018,134318,Dizel,Avtomatski,116,11999,Pravna oseba
 Audi A4,Audi,2016,195895,Dizel,Avtomatski,150,10999,Pravna oseba
@@ -3019,7 +3028,7 @@ Volkswagen Tiguan,Volkswagen,2018,240000,Dizel,Avtomatski,150,16950,Pravna oseba
 Škoda Octavia,Škoda,2024,67378,Bencin,Ročni,150,20490,Pravna oseba
 Mercedes-Benz C-Razred,Mercedes-Benz,2017,162005,Dizel,Avtomatski,170,14990,Pravna oseba
 Renault Captur,Renault,2022,95654,Hibrid,Avtomatski,143,13880,Pravna oseba
-Alfa Romeo Stelvio,Alfa,2018,163849,Dizel,Avtomatski,209,16990,Pravna oseba
+Alfa Romeo Stelvio,Alfa Romeo,2018,163849,Dizel,Avtomatski,209,16990,Pravna oseba
 Audi A6 Avant,Audi,2020,195400,Dizel,Avtomatski,204,25950,Pravna oseba
 Zeekr 7X,Zeekr,2026,5000,Električni pogon,Avtomatski,646,64990,Pravna oseba
 Fiat Panda,Fiat,2016,92000,Bencin,Ročni,69,6500,Fizična oseba
@@ -3032,7 +3041,6 @@ Volkswagen Golf,Volkswagen,2002,172181,Bencin,Ročni,105,Cena po dogovoru,Pravna
 Porsche Panamera,Porsche,2015,146000,Dizel,Avtomatski,300,29990,Pravna oseba
 Peugeot 2008,Peugeot,2020,111000,Bencin,Ročni,131,11590,Pravna oseba
 BMW serija X5:,BMW,2022,110000,Dizel,Avtomatski,286,48590,Pravna oseba
-Nissan Qashqai,Nissan,2023,128700,Bencin,Avtomatski,158,18890,Pravna oseba
 Opel Crossland,Opel,2024,28300,Bencin,Ročni,110,13990,Pravna oseba
 Audi A6 Avant,Audi,2021,144000,Dizel,Avtomatski,204,26590,Pravna oseba
 Volkswagen Golf,Volkswagen,2022,129000,Dizel,Avtomatski,116,19890,Pravna oseba
@@ -3394,7 +3402,7 @@ Peugeot 2008,Peugeot,2025,14239,Bencin,Ročni,101,17488,Pravna oseba
 Peugeot 2008,Peugeot,2025,3496,Bencin,Ročni,101,18488,Pravna oseba
 Mitsubishi Outlander,Mitsubishi,2020,226427,Bencin,Avtomatski,150,,Pravna oseba
 Leapmotor T03,Leapmotor,2025,11176,Električni pogon,Avtomatski,95,10988,Pravna oseba
-Alfa Romeo Junior,Alfa,2025,20009,Bencin,Avtomatski,136,19988,Pravna oseba
+Alfa Romeo Junior,Alfa Romeo,2025,20009,Bencin,Avtomatski,136,19988,Pravna oseba
 BMW Serija 3,BMW,2021,175000,Dizel,Avtomatski,190,19900,Fizična oseba
 BMW serija 5 Touring:,BMW,2015,223000,Dizel,Ročni,190,8650,Pravna oseba
 BMW serija X1:,BMW,2016,163011,Dizel,Avtomatski,150,13850,Pravna oseba
@@ -3429,7 +3437,7 @@ BMW Serija 3,BMW,2017,240000,Dizel,Avtomatski,190,14940,Pravna oseba
 Volkswagen Tiguan,Volkswagen,2023,96597,Dizel,Avtomatski,150,27980,Pravna oseba
 MINI Countryman Cooper,MINI,2021,144400,Dizel,Avtomatski,150,,Pravna oseba
 BMW serija 3:,BMW,2015,195000,Bencin,Avtomatski,245,17490,Pravna oseba
-Audi A6,Audi,2020,120536,Dizel,Avtomatski,286,27900,Fizična oseba
+Audi A6,Audi,2020,120536,Dizel,Avtomatski,286,26900,Fizična oseba
 Mercedes-Benz V-Razred,Mercedes-Benz,2019,149980,Dizel,Avtomatski,190,37980,Pravna oseba
 Ford B-MAX,Ford,2013,165500,Bencin,Ročni,101,3300,Fizična oseba
 Škoda Octavia,Škoda,2013,245000,Dizel,Ročni,105,,Pravna oseba
@@ -3492,7 +3500,7 @@ KIA Sportage,KIA,2025,11,Bencin,Avtomatski,160,28490,Pravna oseba
 Audi A3,Audi,2020,115714,Dizel,Ročni,116,15990,Pravna oseba
 Audi A6,Audi,2018,129500,Dizel,Avtomatski,286,32880,Pravna oseba
 Mercedes-Benz CLA-Razred,Mercedes-Benz,,,Bencin,Avtomatski,136,,Pravna oseba
-Alfa Romeo Stelvio,Alfa,2024,34542,Dizel,Avtomatski,209,36990,Pravna oseba
+Alfa Romeo Stelvio,Alfa Romeo,2024,34542,Dizel,Avtomatski,209,36990,Pravna oseba
 Cupra Formentor,Cupra,2025,8320,Bencin,Avtomatski,204,34900,Pravna oseba
 KIA Rio,KIA,2020,47450,Bencin,Ročni,84,9970,Pravna oseba
 Volkswagen Tiguan,Volkswagen,2022,118564,Dizel,Avtomatski,200,30990,Pravna oseba
@@ -3681,7 +3689,7 @@ BMW X5,BMW,2017,167876,Dizel,Avtomatski,258,24900,Fizična oseba
 Seat Altea,Seat,2015,144000,Dizel,Ročni,105,7400,Fizična oseba
 Mercedes-Benz GLC-Razred,Mercedes-Benz,2020,105214,Bencin,Avtomatski,197,32300,Fizična oseba
 Volkswagen Polo,Volkswagen,2014,135645,Bencin,Avtomatski,90,8500,Fizična oseba
-Land Rover Range Rover Evoque,Land,2014,161405,Dizel,Avtomatski,150,11990,Pravna oseba
+Land Rover Range Rover Evoque,Land Rover,2014,161405,Dizel,Avtomatski,150,11990,Pravna oseba
 Renault Scenic,Renault,2017,219000,Dizel,Ročni,131,7490,Pravna oseba
 Audi A5 Sportback,Audi,2010,380000,Dizel,Ročni,190,5990,Pravna oseba
 Mercedes-Benz GLK-Razred,Mercedes-Benz,2011,325994,Dizel,Avtomatski,170,5999,Pravna oseba
@@ -3989,7 +3997,7 @@ Citroën C4 Grand Picasso,Citroën,2016,198786,Dizel,Ročni,120,5480,Pravna oseb
 Citroën C4,Citroën,2022,53105,Bencin,Ročni,131,12980,Pravna oseba
 Citroën C3 Aircross,Citroën,2021,98978,Dizel,Avtomatski,120,12480,Pravna oseba
 Audi A3,Audi,2021,87949,Hibrid,Avtomatski,204,20980,Pravna oseba
-Alfa Romeo Tonale,Alfa,2024,95117,Bencin,Avtomatski,131,20980,Pravna oseba
+Alfa Romeo Tonale,Alfa Romeo,2024,95117,Bencin,Avtomatski,131,20980,Pravna oseba
 Audi A6,Audi,2019,146000,Dizel,Avtomatski,286,23990,Pravna oseba
 Volkswagen Tiguan,Volkswagen,2022,49199,Bencin,Ročni,131,23999,Pravna oseba
 Audi A3,Audi,2017,36000,Bencin,Avtomatski,190,17900,Pravna oseba
@@ -4079,10 +4087,10 @@ Jeep Avenger,Jeep,2025,15932,Bencin,Ročni,101,17988,Pravna oseba
 Jeep Renegade,Jeep,2024,47903,Bencin,Avtomatski,131,17488,Pravna oseba
 Citroën C3,Citroën,2026,4262,Bencin,Ročni,101,15988,Pravna oseba
 Citroën C5 Aircross,Citroën,2026,12452,Bencin,Avtomatski,145,24998,Pravna oseba
-Alfa Romeo Stelvio,Alfa,2026,14946,Bencin,Avtomatski,280,48488,Pravna oseba
-Alfa Romeo Stelvio,Alfa,2025,12767,Bencin,Avtomatski,280,44988,Pravna oseba
+Alfa Romeo Stelvio,Alfa Romeo,2026,14946,Bencin,Avtomatski,280,48488,Pravna oseba
+Alfa Romeo Stelvio,Alfa Romeo,2025,12767,Bencin,Avtomatski,280,44988,Pravna oseba
 Fiat Grande Panda,Fiat,2026,10610,Bencin,Avtomatski,110,17488,Pravna oseba
-Alfa Romeo Junior,Alfa,2025,10115,Bencin,Avtomatski,144,24988,Pravna oseba
+Alfa Romeo Junior,Alfa Romeo,2025,10115,Bencin,Avtomatski,144,24988,Pravna oseba
 Volkswagen Passat,Volkswagen,2022,133900,Dizel,Avtomatski,200,27900,Pravna oseba
 Nissan 100 NX,Nissan,1994,128500,Bencin,Ročni,102,4790,Pravna oseba
 Volkswagen Sharan,Volkswagen,2012,235000,Dizel,Ročni,140,12990,Pravna oseba
@@ -4121,7 +4129,7 @@ KG Mobility Korando,KG,,,Bencin,Ročni,163,,Pravna oseba
 KG Mobility Korando,KG,,,Bencin,Avtomatski,163,,Pravna oseba
 MG MGS5 EV,MG,,,Električni pogon,Avtomatski,231,33990,Pravna oseba
 Volkswagen Golf,Volkswagen,2018,98200,Bencin,Ročni,110,11490,Pravna oseba
-Alfa Romeo Tonale,Alfa,2023,74000,Bencin,Avtomatski,131,,Pravna oseba
+Alfa Romeo Tonale,Alfa Romeo,2023,74000,Bencin,Avtomatski,131,,Pravna oseba
 Citroën Berlingo,Citroën,2017,245000,Dizel,Ročni,99,5500,Fizična oseba
 Opel Crossland,Opel,2019,85940,Bencin,Ročni,110,Cena po dogovoru,Pravna oseba
 Fiat Tipo,Fiat,2018,101208,Bencin,Ročni,95,6870,Pravna oseba
@@ -4140,7 +4148,7 @@ DS DS 4,DS,2025,11821,Bencin,Avtomatski,131,21988,Pravna oseba
 Lamborghini Huracan,Lamborghini,2024,3800,Bencin,Avtomatski,640,338850,Pravna oseba
 Audi A3,Audi,2016,198000,Dizel,Ročni,110,8850,Pravna oseba
 BMW X6,BMW,2024,26484,Dizel,Avtomatski,352,82990,Pravna oseba
-Alfa Romeo Stelvio,Alfa,2024,28434,Dizel,Avtomatski,209,35988,Pravna oseba
+Alfa Romeo Stelvio,Alfa Romeo,2024,28434,Dizel,Avtomatski,209,35988,Pravna oseba
 BMW Serija 5,BMW,2020,126843,Dizel,Avtomatski,193,29990,Pravna oseba
 Audi A3,Audi,2021,149500,Bencin,Avtomatski,110,,Pravna oseba
 BMW X1,BMW,2024,81739,Dizel,Ročni,197,39990,Pravna oseba
@@ -4204,7 +4212,7 @@ BMW X1,BMW,2023,106444,Hibrid,Avtomatski,204,,Pravna oseba
 Toyota Corolla,Toyota,2020,66400,Bencin,Ročni,116,,Pravna oseba
 Audi SQ5,Audi,2020,113108,Dizel,Avtomatski,347,,Pravna oseba
 KIA XCeed,KIA,,,Bencin,Avtomatski,150,27099,Pravna oseba
-Alfa Romeo Stelvio,Alfa,2021,149300,Dizel,Avtomatski,190,,Pravna oseba
+Alfa Romeo Stelvio,Alfa Romeo,2021,149300,Dizel,Avtomatski,190,,Pravna oseba
 MG MG4,MG,2023,115897,Električni pogon,Avtomatski,204,,Pravna oseba
 Audi e-tron,Audi,2022,28777,Električni pogon,Avtomatski,313,,Pravna oseba
 Seat Leon,Seat,2023,146713,Dizel,Ročni,116,,Pravna oseba
@@ -4212,7 +4220,7 @@ Volkswagen Touareg,Volkswagen,2024,25516,Dizel,Avtomatski,231,,Pravna oseba
 KIA Sportage,KIA,,,Dizel,Avtomatski,136,31299,Pravna oseba
 Volkswagen Golf,Volkswagen,2018,177750,Dizel,Avtomatski,184,,Pravna oseba
 Opel Crossland X,Opel,2018,185450,Dizel,Ročni,120,,Pravna oseba
-Alfa Romeo Giulia,Alfa,2021,130325,Dizel,Avtomatski,190,,Pravna oseba
+Alfa Romeo Giulia,Alfa Romeo,2021,130325,Dizel,Avtomatski,190,,Pravna oseba
 Audi A5,Audi,2020,151067,Bencin,Avtomatski,245,,Pravna oseba
 Seat Leon,Seat,2021,74244,Bencin,Ročni,150,,Pravna oseba
 Mercedes-Benz EQC,Mercedes-Benz,2023,78634,Električni pogon,Avtomatski,408,,Pravna oseba
@@ -4622,7 +4630,7 @@ MG MG HS,MG,,,Bencin,Avtomatski,170,31250,Pravna oseba
 Renault Symbioz,Renault,,,Hibrid,Avtomatski,145,Cena po dogovoru,Pravna oseba
 BMW Serija 2,BMW,2025,15164,Bencin,Avtomatski,136,34990,Pravna oseba
 Mercedes-Benz Vito,Mercedes-Benz,2025,15560,Dizel,Avtomatski,163,59988,Pravna oseba
-Land Rover Discovery,Land,2022,78233,Dizel,Avtomatski,163,23488,Pravna oseba
+Land Rover Discovery,Land Rover,2022,78233,Dizel,Avtomatski,163,23488,Pravna oseba
 Jeep Wrangler,Jeep,2022,81093,Bencin,Avtomatski,272,39488,Pravna oseba
 Jeep Compass,Jeep,2024,52462,Bencin,Avtomatski,131,21488,Pravna oseba
 Peugeot 308,Peugeot,2025,37300,Dizel,Avtomatski,131,18488,Pravna oseba
@@ -4635,7 +4643,7 @@ DS DS 7,DS,2025,10998,Hibrid,Avtomatski,200,40988,Pravna oseba
 Citroën C5 Aircross,Citroën,2025,22172,Dizel,Avtomatski,131,22488,Pravna oseba
 BMW X4,BMW,2024,32119,Dizel,Avtomatski,340,,Pravna oseba
 BMW X3,BMW,2018,237605,Dizel,Avtomatski,190,,Pravna oseba
-Alfa Romeo Giulia,Alfa,2025,37271,Dizel,Avtomatski,209,40488,Pravna oseba
+Alfa Romeo Giulia,Alfa Romeo,2025,37271,Dizel,Avtomatski,209,40488,Pravna oseba
 BMW X3,BMW,2015,110726,Dizel,Ročni,150,Cena po dogovoru,Pravna oseba
 Ford Mondeo,Ford,2005,255000,Dizel,Avtomatski,116,1100,Fizična oseba
 Mercedes-Benz GLB-Razred,Mercedes-Benz,2025,12714,Dizel,Avtomatski,150,42990,Pravna oseba
@@ -4739,7 +4747,7 @@ Toyota Auris,Toyota,2018,29839,Hibrid,Avtomatski,136,16990,Pravna oseba
 Mercedes-Benz C-Razred,Mercedes-Benz,2018,89343,Bencin,Avtomatski,510,48900,Pravna oseba
 Mercedes-Benz A-Razred,Mercedes-Benz,2020,142751,Dizel,Avtomatski,116,17490,Pravna oseba
 Mazda CX-60,Mazda,2022,61826,Hibrid,Avtomatski,328,30900,Pravna oseba
-Land Rover Range Rover Sport,Land,2020,164089,Dizel,Avtomatski,249,26900,Pravna oseba
+Land Rover Range Rover Sport,Land Rover,2020,164089,Dizel,Avtomatski,249,26900,Pravna oseba
 KIA Sportage,KIA,2022,77715,Dizel,Ročni,136,21990,Pravna oseba
 KIA Rio,KIA,2022,50538,Bencin,Ročni,84,10900,Pravna oseba
 KIA ProCeed,KIA,2022,83210,Bencin,Avtomatski,140,19900,Pravna oseba
@@ -4764,7 +4772,7 @@ Audi A6,Audi,2018,148000,Dizel,Avtomatski,286,39990,Fizična oseba
 Audi A4,Audi,2012,167370,Dizel,Ročni,143,8890,Pravna oseba
 Audi A4,Audi,2014,296797,Dizel,Ročni,150,5700,Pravna oseba
 Audi A4 Allroad,Audi,2020,219155,Dizel,Avtomatski,190,20900,Pravna oseba
-Alfa Romeo Stelvio,Alfa,2021,140000,Dizel,Avtomatski,209,26590,Pravna oseba
+Alfa Romeo Stelvio,Alfa Romeo,2021,140000,Dizel,Avtomatski,209,26590,Pravna oseba
 KIA Sportage,KIA,2026,5001,Bencin,Avtomatski,150,30999,Pravna oseba
 Geely StarRay EM-i,Geely,,,Hibrid,Avtomatski,99,32990,Pravna oseba
 Mitsubishi Grandis,Mitsubishi,,,Bencin,Ročni,140,,Pravna oseba
@@ -4849,7 +4857,7 @@ Chevrolet Aveo,Chevrolet,2013,195000,Dizel,Ročni,75,2990,Pravna oseba
 BMW Serija 2,BMW,2025,13653,Bencin,Avtomatski,122,29990,Pravna oseba
 Audi S6,Audi,2020,170000,Dizel,Avtomatski,349,38590,Pravna oseba
 Audi A4,Audi,2008,365000,Dizel,Avtomatski,143,4990,Pravna oseba
-Alfa Romeo MiTo,Alfa,2011,269000,Dizel,Ročni,120,2790,Pravna oseba
+Alfa Romeo MiTo,Alfa Romeo,2011,269000,Dizel,Ročni,120,2790,Pravna oseba
 Mercedes-Benz GLA-Razred,Mercedes-Benz,2025,11363,Dizel,Avtomatski,150,42990,Pravna oseba
 Mercedes-Benz CLA-Razred,Mercedes-Benz,2025,15032,Bencin,Avtomatski,163,31990,Pravna oseba
 Volvo XC40,Volvo,2026,3018,Bencin,Avtomatski,163,39890,Pravna oseba
@@ -4917,8 +4925,8 @@ Renault Espace,Renault,2017,197830,Dizel,Avtomatski,160,8990,Pravna oseba
 Mercedes-Benz GLC-Razred,Mercedes-Benz,2020,87931,Dizel,Avtomatski,245,39990,Pravna oseba
 Mercedes-Benz GLB-Razred,Mercedes-Benz,2021,133704,Dizel,Avtomatski,150,28990,Pravna oseba
 KIA Ceed,KIA,2024,40650,Bencin,Ročni,120,14990,Pravna oseba
-Alfa Romeo Stelvio,Alfa,2020,72630,Dizel,Avtomatski,190,22990,Pravna oseba
-Alfa Romeo Stelvio,Alfa,2024,13876,Dizel,Avtomatski,209,36990,Pravna oseba
+Alfa Romeo Stelvio,Alfa Romeo,2020,72630,Dizel,Avtomatski,190,22990,Pravna oseba
+Alfa Romeo Stelvio,Alfa Romeo,2024,13876,Dizel,Avtomatski,209,36990,Pravna oseba
 Geely Cityray,Geely,2025,10200,Bencin,Avtomatski,174,,Pravna oseba
 DS DS 3,DS,2025,17423,Bencin,Avtomatski,145,19990,Pravna oseba
 Volkswagen Tiguan,Volkswagen,2019,272000,Dizel,Avtomatski,150,14790,Pravna oseba
@@ -4964,7 +4972,7 @@ Peugeot Rifter,Peugeot,2023,21318,Bencin,Ročni,110,16990,Pravna oseba
 Volkswagen Multivan,Volkswagen,2023,120000,Dizel,Avtomatski,150,44990,Pravna oseba
 KIA XCeed,KIA,2020,90971,Bencin,Avtomatski,140,16499,Pravna oseba
 Audi Q7,Audi,2022,125876,Dizel,Avtomatski,286,50980,Pravna oseba
-Alfa Romeo Junior,Alfa,2025,21908,Bencin,Avtomatski,136,19988,Pravna oseba
+Alfa Romeo Junior,Alfa Romeo,2025,21908,Bencin,Avtomatski,136,19988,Pravna oseba
 Ford Mondeo,Ford,2018,201130,Dizel,Avtomatski,150,9490,Pravna oseba
 Mercedes-Benz B Class,Mercedes-Benz,2022,118233,Bencin,Avtomatski,136,19990,Pravna oseba
 Škoda Octavia,Škoda,2023,163939,Dizel,Avtomatski,150,17199,Pravna oseba
@@ -4973,7 +4981,7 @@ Mercedes-Benz CLA Shooting Brake,Mercedes-Benz,,19041,Bencin,Avtomatski,136,3249
 Ford Ranger,Ford,,1900,Dizel,Avtomatski,205,50811,Pravna oseba
 Dacia Sandero,Dacia,2019,102066,Dizel,Ročni,95,7800,Pravna oseba
 Nissan Pulsar,Nissan,2015,170760,Bencin,Ročni,116,6990,Pravna oseba
-Alfa Romeo Giulietta,Alfa,2016,120104,Dizel,Ročni,105,8599,Pravna oseba
+Alfa Romeo Giulietta,Alfa Romeo,2016,120104,Dizel,Ročni,105,8599,Pravna oseba
 Volvo S60,Volvo,2023,34000,Bencin,Avtomatski,250,33750,Pravna oseba
 Suzuki Vitara,Suzuki,2019,129000,Bencin,Ročni,140,15750,Pravna oseba
 Mercedes-Benz GLB-Razred,Mercedes-Benz,2023,119000,Dizel,Avtomatski,150,28750,Pravna oseba
@@ -5047,7 +5055,7 @@ KIA Sportage,KIA,,,Bencin,Avtomatski,150,30099,Pravna oseba
 KIA Niro,KIA,,,Električni pogon,Avtomatski,204,,Pravna oseba
 KIA Sportage,KIA,,,Bencin,Avtomatski,150,30099,Pravna oseba
 KIA Stonic,KIA,,,Bencin,Ročni,101,20849,Pravna oseba
-Alfa Romeo Junior,Alfa,2025,16760,Hibrid,Avtomatski,145,27900,Pravna oseba
+Alfa Romeo Junior,Alfa Romeo,2025,16760,Hibrid,Avtomatski,145,27900,Pravna oseba
 KIA EV6,KIA,2022,103230,Električni pogon,Avtomatski,325,29990,Pravna oseba
 BMW Serija 4,BMW,2017,176100,Dizel,Avtomatski,190,18390,Pravna oseba
 Fiat Grande Panda,Fiat,,,Električni pogon,Avtomatski,113,,Pravna oseba
@@ -5056,7 +5064,7 @@ KIA Ceed,KIA,2024,37170,Bencin,Ročni,101,14990,Pravna oseba
 Fiat 600,Fiat,2025,8720,Hibrid,Avtomatski,110,20900,Pravna oseba
 KIA Sportage,KIA,,,Bencin,Avtomatski,150,30099,Pravna oseba
 KIA Ceed,KIA,,,Bencin,Ročni,101,,Pravna oseba
-Alfa Romeo Junior,Alfa,,,Hibrid,Avtomatski,136,24490,Pravna oseba
+Alfa Romeo Junior,Alfa Romeo,,,Hibrid,Avtomatski,136,24490,Pravna oseba
 Fiat Tipo,Fiat,2021,104950,Bencin,Ročni,99,11990,Pravna oseba
 Fiat Panda,Fiat,,,Bencin,Ročni,65,11490,Pravna oseba
 KIA Picanto,KIA,,,Bencin,Ročni,63,15149,Pravna oseba
@@ -5071,7 +5079,7 @@ KIA PV5,KIA,,,Električni pogon,Avtomatski,163,44599,Pravna oseba
 KIA XCeed,KIA,,,Bencin,Avtomatski,150,27799,Pravna oseba
 KIA EV3,KIA,2026,280,Električni pogon,Avtomatski,204,,Pravna oseba
 KIA Sportage,KIA,,,Bencin,Ročni,150,29299,Pravna oseba
-Alfa Romeo Junior,Alfa,2025,10020,Hibrid,Avtomatski,144,27990,Pravna oseba
+Alfa Romeo Junior,Alfa Romeo,2025,10020,Hibrid,Avtomatski,144,27990,Pravna oseba
 KIA PV5,KIA,,,Električni pogon,Avtomatski,163,,Pravna oseba
 Fiat Grande Panda,Fiat,,,Hibrid,Avtomatski,101,20080,Pravna oseba
 KIA EV4,KIA,,,Električni pogon,Avtomatski,204,49299,Pravna oseba
@@ -5080,7 +5088,7 @@ KIA Sportage,KIA,,,Bencin,Avtomatski,150,33299,Pravna oseba
 KIA Optima,KIA,2020,103690,Hibrid,Avtomatski,205,15990,Pravna oseba
 Fiat 600,Fiat,2025,3222,Hibrid,Avtomatski,101,21390,Pravna oseba
 Fiat Grande Panda,Fiat,,,Hibrid,Avtomatski,101,19440,Pravna oseba
-Alfa Romeo Tonale,Alfa,,,Hibrid,Avtomatski,159,42940,Pravna oseba
+Alfa Romeo Tonale,Alfa Romeo,,,Hibrid,Avtomatski,159,42940,Pravna oseba
 Fiat 600,Fiat,2026,166,Hibrid,Avtomatski,136,20990,Pravna oseba
 KIA ProCeed,KIA,2024,42030,Bencin,Avtomatski,140,26490,Pravna oseba
 Fiat Topolino,Fiat,,,Električni pogon,Avtomatski,8,,Pravna oseba
@@ -5089,7 +5097,7 @@ KIA PV5,KIA,,,Električni pogon,Avtomatski,163,49599,Pravna oseba
 KIA Sportage,KIA,,,Bencin,Avtomatski,150,36799,Pravna oseba
 KIA Stonic,KIA,,,Bencin,Ročni,101,21849,Pravna oseba
 KIA Stonic,KIA,2026,1500,Bencin,Ročni,101,21599,Pravna oseba
-Alfa Romeo Stelvio,Alfa,,,Bencin,Avtomatski,280,56870,Pravna oseba
+Alfa Romeo Stelvio,Alfa Romeo,,,Bencin,Avtomatski,280,56870,Pravna oseba
 KG Mobility Tivoli,KG,2025,7280,Bencin,Ročni,135,17890,Pravna oseba
 Fiat 600,Fiat,2025,330,Hibrid,Avtomatski,144,23990,Pravna oseba
 Ford Tourneo,Ford,2026,2000,Hibrid,Avtomatski,232,55990,Pravna oseba
@@ -5248,7 +5256,7 @@ Hyundai Bayon,Hyundai,2025,20017,Bencin,Ročni,79,15990,Pravna oseba
 Hyundai i20,Hyundai,2025,8053,Bencin,Ročni,101,17590,Pravna oseba
 Hyundai Kona,Hyundai,2021,238000,Bencin,Ročni,120,9990,Pravna oseba
 Hyundai Tucson,Hyundai,2019,130000,Bencin,Ročni,132,14590,Pravna oseba
-Land Rover Defender,Land,1971,123,Dizel,Ročni,60,8000,Fizična oseba
+Land Rover Defender,Land Rover,1971,123,Dizel,Ročni,60,8000,Fizična oseba
 Volvo XC40,Volvo,2025,5188,Bencin,Avtomatski,197,41990,Pravna oseba
 Audi A4 Avant,Audi,2012,199055,Dizel,Ročni,120,8650,Pravna oseba
 Renault Kadjar,Renault,2016,190000,Dizel,Ročni,110,9900,Fizična oseba
@@ -5314,7 +5322,7 @@ Volvo XC60,Volvo,2016,275455,Dizel,Avtomatski,190,,Pravna oseba
 Mazda CX-5,Mazda,2018,143587,Dizel,Avtomatski,150,,Pravna oseba
 BMW Serija 5,BMW,2018,169942,Dizel,Avtomatski,190,,Pravna oseba
 BMW Serija 5,BMW,2017,220502,Dizel,Avtomatski,190,,Pravna oseba
-Land Rover Range Rover Velar,Land,2023,53926,Dizel,Avtomatski,204,,Pravna oseba
+Land Rover Range Rover Velar,Land Rover,2023,53926,Dizel,Avtomatski,204,,Pravna oseba
 Audi Q7,Audi,2014,278429,Dizel,Avtomatski,245,14998,Pravna oseba
 Opel Crossland X,Opel,2021,191122,Bencin,Ročni,110,,Pravna oseba
 Audi Q5,Audi,2013,290808,Dizel,Avtomatski,177,,Pravna oseba
@@ -5376,7 +5384,7 @@ Opel Corsa,Opel,2011,184849,Bencin,Ročni,211,6990,Pravna oseba
 Ford Focus,Ford,2018,144142,Bencin,Avtomatski,125,8990,Pravna oseba
 Volvo XC90,Volvo,2015,299897,Dizel,Avtomatski,224,18490,Pravna oseba
 Audi Q8,Audi,2023,6185,Hibrid,Avtomatski,340,89980,Pravna oseba
-Alfa Romeo Stelvio,Alfa,2019,177424,Dizel,Avtomatski,190,17890,Pravna oseba
+Alfa Romeo Stelvio,Alfa Romeo,2019,177424,Dizel,Avtomatski,190,17890,Pravna oseba
 Audi A6,Audi,2019,254430,Dizel,Avtomatski,204,20990,Pravna oseba
 BMW Serija 7,BMW,2021,135912,Dizel,Avtomatski,340,57970,Pravna oseba
 Volkswagen Golf,Volkswagen,2010,1,Dizel,Ročni,105,3990,Pravna oseba
@@ -5563,9 +5571,9 @@ KIA Sportage,KIA,2025,18358,Bencin,Avtomatski,179,39999,Pravna oseba
 Opel Zafira,Opel,2018,110824,Bencin,Ročni,140,9799,Pravna oseba
 Audi A4,Audi,2023,154000,Dizel,Avtomatski,204,26990,Pravna oseba
 Volkswagen Transporter,Volkswagen,2017,173000,Dizel,Ročni,102,,Pravna oseba
-Land Rover Land Rover,Land,2018,143000,Dizel,Avtomatski,300,,Pravna oseba
+Land Rover Land Rover,Land Rover,2018,143000,Dizel,Avtomatski,300,,Pravna oseba
 Audi A6,Audi,2013,349000,Dizel,Avtomatski,245,7950,Pravna oseba
-Land Rover Land Rover,Land,2018,168200,Dizel,Avtomatski,258,,Pravna oseba
+Land Rover Land Rover,Land Rover,2018,168200,Dizel,Avtomatski,258,,Pravna oseba
 Ford Transit,Ford,,15106,Dizel,Ročni,131,,Pravna oseba
 Ford Capri,Ford,,9400,Električni pogon,Avtomatski,,42900,Pravna oseba
 Citroën C3,Citroën,,,Bencin,Ročni,101,21910,Pravna oseba
@@ -5684,7 +5692,7 @@ Porsche Panamera,Porsche,2019,95000,Bencin,Avtomatski,460,68850,Pravna oseba
 BMW serija 3 Gran Turismo:,BMW,2017,239785,Dizel,Avtomatski,190,13750,Pravna oseba
 BMW Serija 4,BMW,2021,84000,Bencin,Avtomatski,374,47000,Fizična oseba
 Mercedes-Benz C-Razred,Mercedes-Benz,2023,68000,Hibrid,Avtomatski,408,46000,Fizična oseba
-Land Rover Range Rover Sport,Land,2018,252136,Dizel,Avtomatski,258,25940,Pravna oseba
+Land Rover Range Rover Sport,Land Rover,2018,252136,Dizel,Avtomatski,258,25940,Pravna oseba
 Audi A4,Audi,2021,150414,Bencin,Avtomatski,150,19800,Fizična oseba
 KIA Ceed,KIA,,,Bencin,Ročni,120,17849,Pravna oseba
 KIA Sorento,KIA,,,Dizel,Avtomatski,193,65399,Pravna oseba
@@ -5712,9 +5720,8 @@ Audi Q5,Audi,2016,261000,Dizel,Avtomatski,190,14750,Pravna oseba
 Audi Q7,Audi,2021,193254,Dizel,Avtomatski,231,42999,Pravna oseba
 BMW serija 3:,BMW,2016,239475,Dizel,Ročni,150,11990,Pravna oseba
 BMW M3 Touring,BMW,2025,24414,Dizel,Avtomatski,190,Cena po dogovoru,Pravna oseba
-Lexus RX,Lexus,2008,268741,Hibrid,Avtomatski,211,3990,Pravna oseba
 KIA Stonic,KIA,2026,5000,Bencin,Ročni,101,20299,Pravna oseba
-Land Rover Defender,Land,2021,189400,Dizel,Avtomatski,300,48980,Pravna oseba
+Land Rover Defender,Land Rover,2021,189400,Dizel,Avtomatski,300,48980,Pravna oseba
 Audi A6,Audi,2016,259097,Dizel,Avtomatski,190,14980,Pravna oseba
 Ford B-Max,Ford,2014,152314,Bencin,Ročni,101,4980,Pravna oseba
 Mazda Mazda3,Mazda,2014,279132,Dizel,Ročni,150,6490,Pravna oseba
@@ -5766,7 +5773,7 @@ Tesla Model S,Tesla,2015,141300,Električni pogon,Avtomatski,700,,Pravna oseba
 Volvo XC60,Volvo,2011,34000,Dizel,Ročni,163,,Pravna oseba
 Audi RS6,Audi,2008,194286,Bencin,Avtomatski,579,36900,Pravna oseba
 BMW Serija 4,BMW,2023,69391,Bencin,Avtomatski,374,54480,Pravna oseba
-Land Rover Range Rover Sport,Land,2019,129660,Dizel,Avtomatski,258,36990,Pravna oseba
+Land Rover Range Rover Sport,Land Rover,2019,129660,Dizel,Avtomatski,258,36990,Pravna oseba
 Lamborghini Urus,Lamborghini,2021,63500,Bencin,Avtomatski,650,234999,Pravna oseba
 Lamborghini Aventador,Lamborghini,2018,18323,Bencin,Avtomatski,740,369000,Pravna oseba
 Audi S3,Audi,2020,74598,Bencin,Avtomatski,400,46830,Pravna oseba
@@ -5809,7 +5816,7 @@ Mercedes-Benz -,Mercedes-Benz,1971,76675,Bencin,Avtomatski,200,97990,Pravna oseb
 Rolls-Royce Cullinan,Rolls-Royce,2023,26027,Bencin,Avtomatski,571,374999,Pravna oseba
 Mercedes-Benz GLE-Razred,Mercedes-Benz,2020,66079,Dizel,Avtomatski,330,74910,Pravna oseba
 Maserati Levante,Maserati,2018,102000,Dizel,Avtomatski,275,43890,Pravna oseba
-Aston Martin Vantage,Aston,2024,700,Bencin,Avtomatski,665,265000,Pravna oseba
+Aston Martin Vantage,Aston Martin,2024,700,Bencin,Avtomatski,665,265000,Pravna oseba
 Lamborghini Revuelto,Lamborghini,2025,2600,Hibrid,Avtomatski,1016,758718,Pravna oseba
 Maserati MC20,Maserati,2021,8800,Bencin,Avtomatski,630,237900,Pravna oseba
 Lamborghini Huracan,Lamborghini,2020,31000,Bencin,Avtomatski,639,335500,Pravna oseba
@@ -5818,6 +5825,7 @@ Volkswagen Golf,Volkswagen,2020,122333,Dizel,Avtomatski,150,22500,Pravna oseba
 Porsche 911,Porsche,,,Bencin,Avtomatski,541,218380,Pravna oseba
 Ferrari 488 GTB,Ferrari,2018,18800,Bencin,Avtomatski,721,543630,Pravna oseba
 Ferrari 12cilindri Spider,Ferrari,,,Bencin,Avtomatski,829,756399,Pravna oseba
+Ferrari Purosangue,Ferrari,2024,200,Bencin,Avtomatski,725,768600,Pravna oseba
 Lamborghini Huracan,Lamborghini,2022,16890,Bencin,Avtomatski,640,342000,Pravna oseba
 Lotus Elise,Lotus,2019,19300,Bencin,Ročni,136,47670,Pravna oseba
 Volkswagen Passat,Volkswagen,2013,249196,Dizel,Avtomatski,140,9700,Pravna oseba
@@ -5829,7 +5837,7 @@ Mercedes-Benz CLA-Razred,Mercedes-Benz,2019,91401,Bencin,Avtomatski,306,41990,Pr
 BMW X5,BMW,2019,134163,Bencin,Avtomatski,530,59989,Pravna oseba
 Dodge Ram,Dodge,2021,39107,Bencin,Avtomatski,702,119850,Pravna oseba
 Mercedes-Benz SL-Razred,Mercedes-Benz,2009,52750,Bencin,Avtomatski,525,98980,Pravna oseba
-Land Rover Defender,Land,2024,2200,Dizel,Avtomatski,249,103103,Pravna oseba
+Land Rover Defender,Land Rover,2024,2200,Dizel,Avtomatski,249,103103,Pravna oseba
 Porsche Panamera,Porsche,2017,136000,Bencin,Avtomatski,549,59900,Pravna oseba
 Audi A8,Audi,2018,204953,Bencin,Avtomatski,340,37900,Pravna oseba
 Porsche Cayenne,Porsche,2018,139022,Bencin,Avtomatski,441,63900,Pravna oseba
@@ -5838,13 +5846,13 @@ BMW M3,BMW,2023,2040,Bencin,Avtomatski,551,129789,Pravna oseba
 Audi TTS,Audi,2017,156350,Bencin,Avtomatski,310,26990,Pravna oseba
 Porsche Cayenne,Porsche,2022,46900,Bencin,Avtomatski,640,194589,Pravna oseba
 Mercedes-Benz G-Razred,Mercedes-Benz,2016,107502,Dizel,Avtomatski,245,60500,Pravna oseba
-Aston Martin Vantage,Aston,2009,68491,Bencin,Avtomatski,426,61960,Pravna oseba
+Aston Martin Vantage,Aston Martin,2009,68491,Bencin,Avtomatski,426,61960,Pravna oseba
 Peugeot 508,Peugeot,2015,129000,Dizel,Avtomatski,204,17490,Pravna oseba
 Mercedes-Benz SL-Razred,Mercedes-Benz,1987,144772,Bencin,Avtomatski,227,49990,Pravna oseba
 Audi S3,Audi,2022,60665,Bencin,Avtomatski,400,67900,Pravna oseba
 Ferrari F8,Ferrari,2022,26000,Bencin,Avtomatski,721,297000,Pravna oseba
 BMW Serija 5,BMW,2012,303800,Dizel,Avtomatski,184,10250,Pravna oseba
-Aston Martin Vantage,Aston,2023,8800,Bencin,Avtomatski,510,162162,Pravna oseba
+Aston Martin Vantage,Aston Martin,2023,8800,Bencin,Avtomatski,510,162162,Pravna oseba
 Mercedes-Benz GLE-Razred,Mercedes-Benz,2023,18170,Bencin,Avtomatski,612,124900,Pravna oseba
 Mercedes-Benz AMG GT Coupe,Mercedes-Benz,,,Bencin,Avtomatski,585,244244,Pravna oseba
 Lamborghini Urus,Lamborghini,2021,74900,Bencin,Avtomatski,650,284899,Pravna oseba
@@ -5853,7 +5861,7 @@ Porsche 911,Porsche,2018,63000,Bencin,Avtomatski,370,96900,Pravna oseba
 Maserati Levante,Maserati,2018,220000,Dizel,Avtomatski,275,34990,Pravna oseba
 Mercedes-Benz S-Razred,Mercedes-Benz,2021,48124,Dizel,Avtomatski,286,79990,Pravna oseba
 Mercedes-Benz S-Razred,Mercedes-Benz,2015,176764,Dizel,Avtomatski,258,44700,Pravna oseba
-Land Rover Defender,Land,2021,86000,Dizel,Avtomatski,249,77900,Pravna oseba
+Land Rover Defender,Land Rover,2021,86000,Dizel,Avtomatski,249,77900,Pravna oseba
 Mercedes-Benz C-Razred,Mercedes-Benz,2001,1,Bencin,Ročni,122,Cena po dogovoru,Pravna oseba
 Ford Ranger,Ford,2016,190100,Dizel,Ročni,160,24900,Pravna oseba
 BMW Serija 5,BMW,2021,91000,Dizel,Avtomatski,286,50900,Pravna oseba
@@ -5865,7 +5873,7 @@ Mercedes-Benz G-Razred,Mercedes-Benz,2024,541,Bencin,Avtomatski,421,219219,Pravn
 BMW X5,BMW,2023,25841,Dizel,Avtomatski,340,92666,Pravna oseba
 Volkswagen Tiguan,Volkswagen,2022,19270,Dizel,Avtomatski,150,41444,Pravna oseba
 Bentley Continental,Bentley,2017,50200,Bencin,Avtomatski,521,96960,Pravna oseba
-Aston Martin DBS,Aston,2021,23350,Bencin,Avtomatski,725,264999,Pravna oseba
+Aston Martin DBS,Aston Martin,2021,23350,Bencin,Avtomatski,725,264999,Pravna oseba
 Volkswagen Golf,Volkswagen,2019,158351,Dizel,Avtomatski,150,17370,Pravna oseba
 Audi A6,Audi,2021,52315,Dizel,Avtomatski,286,55999,Pravna oseba
 Opel Astra,Opel,2023,16,Dizel,Ročni,131,34499,Pravna oseba
@@ -5895,7 +5903,7 @@ Ferrari F12,Ferrari,2013,52000,Bencin,Avtomatski,736,369900,Pravna oseba
 Ferrari 296,Ferrari,,,Bencin,Avtomatski,829,455899,Pravna oseba
 BMW serija 2 Gran Coupe:,BMW,2020,23800,Dizel,Avtomatski,190,37900,Pravna oseba
 BMW X2,BMW,2021,14500,Dizel,Avtomatski,190,40950,Pravna oseba
-Land Rover Range Rover Evoque,Land,2019,45000,Dizel,Avtomatski,179,47700,Pravna oseba
+Land Rover Range Rover Evoque,Land Rover,2019,45000,Dizel,Avtomatski,179,47700,Pravna oseba
 Mercedes-Benz GLE-Razred,Mercedes-Benz,2020,46184,Dizel,Avtomatski,272,72190,Pravna oseba
 Toyota Land Cruiser,Toyota,2011,147000,Dizel,Ročni,116,83990,Pravna oseba
 Ferrari Portofino,Ferrari,,,Bencin,Avtomatski,620,315999,Pravna oseba
@@ -6129,7 +6137,7 @@ Volkswagen Polo,Volkswagen,,,Bencin,Avtomatski,95,19497,Pravna oseba
 Peugeot 308,Peugeot,2024,30786,Bencin,Avtomatski,131,19100,Pravna oseba
 Peugeot 2008,Peugeot,2024,29601,Bencin,Avtomatski,131,18850,Pravna oseba
 KIA Sportage,KIA,,,Bencin,Avtomatski,150,,Pravna oseba
-Alfa Romeo Giulia,Alfa,2022,24300,Bencin,Avtomatski,510,65990,Pravna oseba
+Alfa Romeo Giulia,Alfa Romeo,2022,24300,Bencin,Avtomatski,510,65990,Pravna oseba
 Fiat Tipo,Fiat,2017,145484,Dizel,Ročni,95,6690,Pravna oseba
 Geely Cityray,Geely,2025,5347,Bencin,Avtomatski,174,23990,Pravna oseba
 KIA Sportage,KIA,,,Hibrid,Avtomatski,179,38299,Pravna oseba
@@ -6247,7 +6255,7 @@ Renault Symbioz,Renault,,,Bencin,Ročni,140,24540,Pravna oseba
 BMW serija 5,BMW,,78414,Hibrid,Avtomatski,252,27990,Pravna oseba
 Hyundai i30,Hyundai,2017,57125,Bencin,Ročni,99,10950,Pravna oseba
 Renault Twingo,Renault,,,Električni pogon,Avtomatski,82,,Pravna oseba
-Alfa Romeo Alfa 156,Alfa,2004,146000,Bencin,Ročni,250,18500,Fizična oseba
+Alfa Romeo Alfa 156,Alfa Romeo,2004,146000,Bencin,Ročni,250,18500,Fizična oseba
 Audi A6,Audi,2014,302220,Dizel,Avtomatski,204,10500,Pravna oseba
 BMW Serija 3,BMW,2016,228000,Dizel,Avtomatski,190,16320,Fizična oseba
 BMW X4,BMW,2023,122111,Dizel,Avtomatski,190,39990,Pravna oseba
@@ -6485,14 +6493,13 @@ Volkswagen Tiguan,Volkswagen,2015,278000,Dizel,Avtomatski,150,,Pravna oseba
 Mercedes-Benz GLC-Razred,Mercedes-Benz,2016,316000,Dizel,Avtomatski,170,15990,Pravna oseba
 Škoda Kodiaq,Škoda,2023,159000,Dizel,Avtomatski,150,,Pravna oseba
 Hyundai ix20,Hyundai,2011,105000,Bencin,Ročni,125,,Pravna oseba
-Land Rover Range Rover Sport,Land,2011,264000,Dizel,Avtomatski,256,,Pravna oseba
+Land Rover Range Rover Sport,Land Rover,2011,264000,Dizel,Avtomatski,256,,Pravna oseba
 Peugeot 5008,Peugeot,2013,1,Dizel,Ročni,150,3490,Pravna oseba
 BMW Serija 4,BMW,2015,1,Dizel,Avtomatski,190,14990,Pravna oseba
 Audi Q8,Audi,2020,119365,Dizel,Avtomatski,286,,Pravna oseba
 Audi Q3,Audi,2022,124000,Dizel,Avtomatski,200,,Pravna oseba
 Audi A8,Audi,2019,128000,Dizel,Avtomatski,286,41990,Pravna oseba
 Mercedes-Benz Vito,Mercedes-Benz,2018,169000,Dizel,Avtomatski,163,21990,Pravna oseba
-Ford S-MAX,Ford,2008,1,Dizel,Ročni,140,2400,Pravna oseba
 Ford S-MAX,Ford,2008,1,Dizel,Ročni,140,2400,Pravna oseba
 Suzuki Vitara,Suzuki,2017,208000,Dizel,Ročni,120,10490,Pravna oseba
 BMW Serija 5,BMW,2019,179000,Bencin,Avtomatski,184,19990,Pravna oseba
@@ -6537,7 +6544,7 @@ Audi A6,Audi,2019,139000,Dizel,Avtomatski,286,,Pravna oseba
 Škoda Kodiaq,Škoda,2024,108000,Dizel,Avtomatski,150,34990,Pravna oseba
 Seat Alhambra,Seat,2018,175000,Dizel,Avtomatski,150,,Pravna oseba
 Mercedes-Benz E-Razred,Mercedes-Benz,2018,1,Bencin,Avtomatski,184,21990,Pravna oseba
-Alfa Romeo Stelvio,Alfa,2018,184000,Dizel,Avtomatski,190,14990,Pravna oseba
+Alfa Romeo Stelvio,Alfa Romeo,2018,184000,Dizel,Avtomatski,190,14990,Pravna oseba
 Volkswagen Golf,Volkswagen,2010,155000,Bencin,Ročni,105,,Pravna oseba
 Audi A5,Audi,2007,315000,Dizel,Ročni,239,5490,Pravna oseba
 Ford Kuga,Ford,2015,1,Dizel,Ročni,140,6990,Pravna oseba
@@ -6725,6 +6732,7 @@ Mercedes-Benz E-Razred,Mercedes-Benz,2004,343200,Dizel,Avtomatski,150,3490,Pravn
 KIA Stonic,KIA,2023,1,Bencin,Ročni,84,13990,Pravna oseba
 Ford Kuga,Ford,2020,80274,Bencin,Ročni,150,15490,Pravna oseba
 Opel Crossland,Opel,2023,21003,Bencin,Ročni,110,12490,Pravna oseba
+KIA Ceed,KIA,,,Bencin,Ročni,101,,Pravna oseba
 KIA Ceed,KIA,,,Bencin,Ročni,101,,Pravna oseba
 Ford Mustang Mach-e,Ford,,,Električni pogon,Avtomatski,375,57563,Pravna oseba
 Ford E-Transit Custom,Ford,2023,72225,Dizel,Ročni,150,,Pravna oseba
@@ -7009,7 +7017,7 @@ Ford Fiesta,Ford,2014,94844,Bencin,Ročni,101,5490,Pravna oseba
 Mercedes-Benz A-Razred,Mercedes-Benz,2018,43500,Bencin,Ročni,163,16999,Fizična oseba
 Volkswagen Crafter,Volkswagen,2012,270312,Dizel,Avtomatski,102,8300,Fizična oseba
 Ford B-MAX,Ford,,174000,Bencin,Ročni,101,4190,Fizična oseba
-Alfa Romeo Alfa 159,Alfa,2006,297000,Dizel,Ročni,203,2200,Fizična oseba
+Alfa Romeo Alfa 159,Alfa Romeo,2006,297000,Dizel,Ročni,203,2200,Fizična oseba
 Volvo XC60,Volvo,2010,337890,Dizel,Ročni,163,5500,Fizična oseba
 BMW Serija 5,BMW,2022,167556,Dizel,Avtomatski,286,30700,Fizična oseba
 Volkswagen Passat,Volkswagen,2014,187736,Dizel,Ročni,105,7250,Fizična oseba
@@ -7119,13 +7127,13 @@ Tesla Model 3,Tesla,2019,89172,Električni pogon,Avtomatski,306,22890,Pravna ose
 Volvo V60,Volvo,2016,200000,Dizel,Avtomatski,190,,Pravna oseba
 Volkswagen Passat,Volkswagen,2011,358773,Dizel,Ročni,140,,Pravna oseba
 Porsche Panamera,Porsche,2017,138454,Bencin,Avtomatski,549,,Pravna oseba
-Alfa Romeo Tonale,Alfa,2023,8054,Dizel,Avtomatski,131,29990,Pravna oseba
+Alfa Romeo Tonale,Alfa Romeo,2023,8054,Dizel,Avtomatski,131,29990,Pravna oseba
 BMW Serija 4,BMW,2017,178675,Bencin,Avtomatski,326,24990,Pravna oseba
 BMW X3,BMW,2019,186321,Dizel,Avtomatski,340,,Pravna oseba
 Volkswagen Tiguan Allspace,Volkswagen,2018,140854,Dizel,Avtomatski,150,23990,Pravna oseba
 KIA Ceed,KIA,2021,56046,Bencin,Avtomatski,204,22990,Pravna oseba
 Ford Focus,Ford,2016,142669,Bencin,Ročni,349,24990,Pravna oseba
-Land Rover Range Rover Sport,Land,2018,115036,Dizel,Avtomatski,306,,Pravna oseba
+Land Rover Range Rover Sport,Land Rover,2018,115036,Dizel,Avtomatski,306,,Pravna oseba
 Abarth 595,Abarth,2015,113284,Bencin,Avtomatski,179,12990,Pravna oseba
 Ford Focus,Ford,2021,103462,Dizel,Avtomatski,120,,Pravna oseba
 Mercedes-Benz C-Razred,Mercedes-Benz,2017,142289,Bencin,Avtomatski,367,,Pravna oseba
@@ -7140,14 +7148,14 @@ Mercedes-Benz S-Razred,Mercedes-Benz,2014,67117,Bencin,Avtomatski,455,49990,Prav
 Porsche Cayenne,Porsche,2021,119969,Hibrid,Avtomatski,340,63990,Pravna oseba
 Maserati Ghibli,Maserati,2021,105607,Bencin,Avtomatski,430,,Pravna oseba
 Jaguar F-Type,Jaguar,2013,150000,Bencin,Avtomatski,381,,Pravna oseba
-Alfa Romeo Giulia,Alfa,2017,53000,Bencin,Ročni,510,66990,Pravna oseba
+Alfa Romeo Giulia,Alfa Romeo,2017,53000,Bencin,Ročni,510,66990,Pravna oseba
 Renault Zoe,Renault,2020,142997,Električni pogon,Avtomatski,109,6710,Pravna oseba
 Nissan 300 ZX,Nissan,1990,161473,Bencin,Avtomatski,283,20000,Pravna oseba
 BMW M3,BMW,2023,18490,Bencin,Avtomatski,530,83990,Pravna oseba
 BMW i8,BMW,2016,113000,Hibrid,Avtomatski,374,54900,Pravna oseba
 Volkswagen Tiguan Allspace,Volkswagen,2020,120000,Dizel,Avtomatski,239,30990,Pravna oseba
 Tesla Model S,Tesla,2015,249678,Električni pogon,Avtomatski,389,16500,Pravna oseba
-Alfa Romeo Giulia,Alfa,2019,66000,Bencin,Avtomatski,201,29950,Pravna oseba
+Alfa Romeo Giulia,Alfa Romeo,2019,66000,Bencin,Avtomatski,201,29950,Pravna oseba
 Škoda Octavia,Škoda,2019,150337,Dizel,Avtomatski,116,13990,Pravna oseba
 BMW X2,BMW,2025,19588,Bencin,Avtomatski,156,39900,Pravna oseba
 Peugeot 208,Peugeot,,,Bencin,Ročni,101,18115,Pravna oseba
@@ -7367,7 +7375,7 @@ Ford Kuga,Ford,2020,124576,Hibrid,Avtomatski,152,,Pravna oseba
 Audi Q7,Audi,2016,191000,Dizel,Avtomatski,272,,Pravna oseba
 Hyundai Tucson,Hyundai,2022,136400,Hibrid,Avtomatski,179,,Pravna oseba
 Peugeot 3008,Peugeot,2023,134600,Bencin,Ročni,131,,Pravna oseba
-Alfa Romeo Stelvio,Alfa,2021,149300,Dizel,Avtomatski,190,,Pravna oseba
+Alfa Romeo Stelvio,Alfa Romeo,2021,149300,Dizel,Avtomatski,190,,Pravna oseba
 Audi SQ5,Audi,2020,113108,Dizel,Avtomatski,347,,Pravna oseba
 Škoda Octavia,Škoda,2018,164000,Bencin,Ročni,116,8990,Pravna oseba
 BMW X4,BMW,2024,62967,Dizel,Avtomatski,286,54990,Pravna oseba
@@ -7490,11 +7498,3 @@ Audi A4,Audi,2019,164355,Dizel,Avtomatski,190,17790,Pravna oseba
 Renault Clio,Renault,,,Bencin,Ročni,114,19970,Pravna oseba
 MG MG HS,MG,2026,1500,Hibrid,Avtomatski,224,32480,Pravna oseba
 Mercedes-Benz A-Razred,Mercedes-Benz,2021,123063,Dizel,Avtomatski,116,20890,Pravna oseba
-Ford Kuga,Ford,2022,116502,Hibrid,Avtomatski,152,,Pravna oseba
-Ford Kuga,Ford,2023,151835,Hibrid,Avtomatski,190,16490,Pravna oseba
-Renault Twingo,Renault,,,Električni pogon,Avtomatski,82,19580,Pravna oseba
-Volkswagen Golf,Volkswagen,2020,73615,Bencin,Ročni,131,17490,Pravna oseba
-Renault Twingo,Renault,,,Električni pogon,Avtomatski,82,18980,Pravna oseba
-Renault Twingo,Renault,,,Električni pogon,Avtomatski,82,20470,Pravna oseba
-Renault Twingo,Renault,,,Električni pogon,Avtomatski,82,19580,Pravna oseba
-Renault Twingo,Renault,,,Električni pogon,Avtomatski,82,20470,Pravna oseba
