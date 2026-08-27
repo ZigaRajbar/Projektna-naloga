@@ -21,10 +21,12 @@ Za posamezen avtomobil program poskuša pridobiti:
 
 ## Datoteke
 
+- `main.py` – zažene pridobivanje, urejanje in shranjevanje podatkov.
 - `pridobi_podatke.py` – pridobi HTML podatke s spletne strani.
 - `uredi_podatke.py` – iz pridobljenih podatkov izlušči podatke o avtomobilih in jih shrani v CSV.
 - `Analiza.ipynb` – vsebuje analizo podatkov in grafe.
 - `podatki/avti.csv` – vsebuje urejene podatke o avtomobilih.
+- `primer html/` – vsebuje primer HTML strani, ki jo program obdeluje.
 
 ## Potrebne knjižnice
 

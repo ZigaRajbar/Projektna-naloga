@@ -16,7 +16,7 @@ def uredi_raw_podatke(podatki):
     for avto in avti:
         podatki_oglasa = str(avto)
 
-        ime_avta = re.search(r"<h2.*?>(.*?)</h2>", podatki_oglasa)
+        ime_avta = re.search(r"<h2.*?>(.*?)</h2>", podatki_oglasa, re.DOTALL)
         letnik = re.search(r">(19\d\d|20\d\d)<", podatki_oglasa)
         kilometrina = re.search(r">([\d.]+) km<", podatki_oglasa)
         vrsta_goriva = re.search(
@@ -29,9 +29,22 @@ def uredi_raw_podatke(podatki):
             podatki_oglasa,
         )
 
+        vecbesedne_znamke = [
+            "Land Rover",
+            "Alfa Romeo",
+            "Aston Martin",
+            "DS Automobiles",
+            "Great Wall",
+            "Lynk & Co",
+        ]
+
         if ime_avta:
             ime = ime_avta.group(1).strip()
             znamka = ime.split()[0]
+
+            for vecbesedna_znamka in vecbesedne_znamke:
+                if ime.startswith(vecbesedna_znamka):
+                    znamka = vecbesedna_znamka
         else:
             ime = None
             znamka = None
@@ -45,8 +58,10 @@ def uredi_raw_podatke(podatki):
 
         if "Fizična oseba" in podatki_oglasa:
             prodajalec = "Fizična oseba"
-        else:
+        elif 'href="/trgovec/' in podatki_oglasa:
             prodajalec = "Pravna oseba"
+        else:
+            prodajalec = None
 
         o_avtu = {
             "Ime": ime,
