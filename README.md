@@ -30,7 +30,7 @@ Za posamezen avtomobil program poskuša pridobiti:
 
 Za delovanje programa potrebujete naslednje knjižnice:
 
-**requests beautifulsoup4 pandas matplotlib jupyter**
+**requests**, **beautifulsoup4**, **pandas**, **matplotlib**, **jupyter**
 
 ## Analiza
 
