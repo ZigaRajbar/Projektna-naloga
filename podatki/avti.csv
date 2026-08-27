@@ -1,4 +1,6 @@
 Ime,Znamka,Letnik,Prevoženi kilometri,Tip goriva,Tip menjalnika,Moč motorja,Cena,Prodajalec
+Audi A6 Avant,Audi,2019,177950,Dizel,Avtomatski,286,21995,Pravna oseba
+Peugeot 5008,Peugeot,2022,101063,Bencin,Avtomatski,131,15999,Pravna oseba
 Toyota C-HR,Toyota,2017,179000,Bencin,Avtomatski,116,12980,Pravna oseba
 Nissan Qashqai,Nissan,2023,128700,Bencin,Avtomatski,158,18890,Pravna oseba
 Volkswagen Golf,Volkswagen,2017,221822,Dizel,Ročni,116,11990,Pravna oseba
@@ -1852,7 +1854,6 @@ Ford C-MAX,Ford,2018,125964,Bencin,Ročni,125,,Pravna oseba
 Mercedes-Benz GLE coupe,Mercedes-Benz,2022,58000,Dizel,Avtomatski,330,74990,Pravna oseba
 KIA Sportage,KIA,2022,132000,Dizel,Avtomatski,136,22890,Pravna oseba
 BMW serija 4 Gran Coupe:,BMW,2022,83000,Dizel,Avtomatski,190,39890,Pravna oseba
-Audi A6 Avant,Audi,2019,177950,Dizel,Avtomatski,286,21995,Pravna oseba
 Volkswagen Passat Variant,Volkswagen,2016,230000,Dizel,Avtomatski,190,11490,Pravna oseba
 KIA Sportage,KIA,2020,117980,Bencin,Ročni,132,13490,Pravna oseba
 KIA Sportage,KIA,2023,106231,Hibrid,Avtomatski,230,24487,Pravna oseba
@@ -2835,7 +2836,7 @@ Seat Leon,Seat,2015,225257,Dizel,Ročni,105,6998,Pravna oseba
 Ford Fiesta,Ford,2016,97811,Bencin,Ročni,82,7498,Pravna oseba
 Volkswagen Transporter,Volkswagen,2017,165522,Dizel,Ročni,150,21498,Pravna oseba
 Audi Q5,Audi,2013,290808,Dizel,Avtomatski,177,11498,Pravna oseba
-BMW serija 2 Active Tourer:,BMW,2020,175678,Dizel,Avtomatski,116,12998,Pravna oseba
+BMW serija 2 Active Tourer:,BMW,2020,175678,Dizel,Avtomatski,116,12498,Pravna oseba
 Mercedes-Benz C-Razred,Mercedes-Benz,2015,194416,Dizel,Ročni,136,10998,Pravna oseba
 Volvo XC40,Volvo,2019,146495,Dizel,Avtomatski,150,18998,Pravna oseba
 Volvo V90,Volvo,2018,210792,Dizel,Avtomatski,150,13998,Pravna oseba
@@ -2849,7 +2850,7 @@ Seat Altea,Seat,2011,95013,Dizel,Ročni,105,5998,Pravna oseba
 Mercedes-Benz GLC-Razred,Mercedes-Benz,2018,194420,Dizel,Avtomatski,170,20998,Pravna oseba
 KIA Sportage,KIA,2012,153939,Dizel,Ročni,116,7598,Pravna oseba
 Mercedes-Benz GLE-Razred,Mercedes-Benz,2016,229300,Dizel,Avtomatski,204,22498,Pravna oseba
-Mazda CX-5,Mazda,2018,143587,Dizel,Avtomatski,150,16498,Pravna oseba
+Mazda CX-5,Mazda,2018,143587,Dizel,Avtomatski,150,15998,Pravna oseba
 Land Rover Range Rover Velar,Land Rover,2023,53926,Dizel,Avtomatski,204,49998,Pravna oseba
 Opel Crossland X,Opel,2021,191122,Bencin,Ročni,110,6298,Pravna oseba
 Volvo XC60,Volvo,2014,165246,Bencin,Avtomatski,245,14998,Pravna oseba
@@ -3808,6 +3809,7 @@ Seat Altea Freetrack,Seat,2012,207100,Dizel,Ročni,140,6690,Pravna oseba
 Audi A1,Audi,2011,85749,Bencin,Ročni,86,7999,Pravna oseba
 BMW Serija 7,BMW,2022,72000,Dizel,Ročni,286,49990,Pravna oseba
 Suzuki e Vitara,Suzuki,,,Električni pogon,Avtomatski,184,39500,Pravna oseba
+Suzuki e Vitara,Suzuki,,,Električni pogon,Avtomatski,184,39500,Pravna oseba
 Volkswagen Tiguan,Volkswagen,2022,65929,Bencin,Avtomatski,190,30999,Pravna oseba
 Volkswagen Tiguan,Volkswagen,2023,117186,Dizel,Avtomatski,150,,Pravna oseba
 Renault Megane E-tech,Renault,2023,17980,Električni pogon,Avtomatski,131,18900,Pravna oseba
@@ -3957,7 +3959,7 @@ Renault Symbioz,Renault,,,Bencin,Ročni,140,24940,Pravna oseba
 Renault Symbioz,Renault,,,Hibrid,Ročni,140,24470,Pravna oseba
 Renault Symbioz,Renault,,,Bencin,Ročni,190,Cena po dogovoru,Pravna oseba
 Audi A6,Audi,2025,24931,Dizel,Avtomatski,204,50490,Pravna oseba
-KG Mobility Musso,KG,,,Dizel,Avtomatski,203,41999,Pravna oseba
+KG Mobility Musso,KG Mobility,,,Dizel,Avtomatski,203,41999,Pravna oseba
 Audi A4 Avant,Audi,2019,231000,Dizel,Avtomatski,150,14850,Pravna oseba
 KIA Stonic,KIA,2022,39357,Bencin,Ročni,84,12999,Pravna oseba
 Volkswagen Passat,Volkswagen,2021,179913,Dizel,Avtomatski,122,19900,Pravna oseba
@@ -4125,8 +4127,8 @@ MG MG HS,MG,,,Hibrid,Avtomatski,224,27490,Pravna oseba
 MG MG HS,MG,,,Hibrid,Avtomatski,224,27490,Pravna oseba
 MG MG HS,MG,,,Hibrid,Avtomatski,224,29990,Pravna oseba
 KIA Stonic,KIA,,,Bencin,Ročni,79,16649,Pravna oseba
-KG Mobility Korando,KG,,,Bencin,Ročni,163,,Pravna oseba
-KG Mobility Korando,KG,,,Bencin,Avtomatski,163,,Pravna oseba
+KG Mobility Korando,KG Mobility,,,Bencin,Ročni,163,,Pravna oseba
+KG Mobility Korando,KG Mobility,,,Bencin,Avtomatski,163,,Pravna oseba
 MG MGS5 EV,MG,,,Električni pogon,Avtomatski,231,33990,Pravna oseba
 Volkswagen Golf,Volkswagen,2018,98200,Bencin,Ročni,110,11490,Pravna oseba
 Alfa Romeo Tonale,Alfa Romeo,2023,74000,Bencin,Avtomatski,131,,Pravna oseba
@@ -4967,7 +4969,7 @@ Ford Tourneo,Ford,2020,160000,Dizel,Ročni,75,7480,Pravna oseba
 BMW Serija 5,BMW,2020,163000,Dizel,Avtomatski,190,18390,Pravna oseba
 Audi A6 Allroad,Audi,2013,232000,Dizel,Avtomatski,204,,Pravna oseba
 Peugeot 2008,Peugeot,2023,36000,Bencin,Avtomatski,131,,Pravna oseba
-KG Mobility Tivoli,KG,2026,5731,Bencin,Ročni,163,16999,Pravna oseba
+KG Mobility Tivoli,KG Mobility,2026,5731,Bencin,Ročni,163,16999,Pravna oseba
 Peugeot Rifter,Peugeot,2023,21318,Bencin,Ročni,110,16990,Pravna oseba
 Volkswagen Multivan,Volkswagen,2023,120000,Dizel,Avtomatski,150,44990,Pravna oseba
 KIA XCeed,KIA,2020,90971,Bencin,Avtomatski,140,16499,Pravna oseba
@@ -5004,7 +5006,6 @@ BMW Serija 3,BMW,2025,27000,Dizel,Avtomatski,190,44950,Pravna oseba
 BMW Serija 5,BMW,2024,40000,Dizel,Avtomatski,197,48850,Pravna oseba
 Škoda Superb,Škoda,2018,258000,Dizel,Avtomatski,150,13650,Pravna oseba
 Renault Scénic,Renault,2023,40000,Bencin,Avtomatski,140,21450,Pravna oseba
-BMW X3,BMW,2025,20000,Dizel,Avtomatski,197,57950,Pravna oseba
 Mitsubishi ASX,Mitsubishi,2016,205000,Dizel,Avtomatski,150,8950,Pravna oseba
 KIA Ceed,KIA,2019,178000,Bencin,Ročni,99,8950,Pravna oseba
 Audi Q8,Audi,2020,148000,Dizel,Avtomatski,286,53850,Pravna oseba
@@ -5074,7 +5075,7 @@ Fiat 600,Fiat,,,Hibrid,Avtomatski,136,24470,Pravna oseba
 KIA Rio,KIA,2023,44960,Bencin,Ročni,84,13490,Pravna oseba
 KIA Stonic,KIA,,,Bencin,Ročni,79,16649,Pravna oseba
 KIA XCeed,KIA,,,Bencin,Ročni,150,27799,Pravna oseba
-KG Mobility Musso,KG,2025,16690,Dizel,Avtomatski,203,33990,Pravna oseba
+KG Mobility Musso,KG Mobility,2025,16690,Dizel,Avtomatski,203,33990,Pravna oseba
 KIA PV5,KIA,,,Električni pogon,Avtomatski,163,44599,Pravna oseba
 KIA XCeed,KIA,,,Bencin,Avtomatski,150,27799,Pravna oseba
 KIA EV3,KIA,2026,280,Električni pogon,Avtomatski,204,,Pravna oseba
@@ -5098,42 +5099,42 @@ KIA Sportage,KIA,,,Bencin,Avtomatski,150,36799,Pravna oseba
 KIA Stonic,KIA,,,Bencin,Ročni,101,21849,Pravna oseba
 KIA Stonic,KIA,2026,1500,Bencin,Ročni,101,21599,Pravna oseba
 Alfa Romeo Stelvio,Alfa Romeo,,,Bencin,Avtomatski,280,56870,Pravna oseba
-KG Mobility Tivoli,KG,2025,7280,Bencin,Ročni,135,17890,Pravna oseba
+KG Mobility Tivoli,KG Mobility,2025,7280,Bencin,Ročni,135,17890,Pravna oseba
 Fiat 600,Fiat,2025,330,Hibrid,Avtomatski,144,23990,Pravna oseba
 Ford Tourneo,Ford,2026,2000,Hibrid,Avtomatski,232,55990,Pravna oseba
 Fiat Grande Panda,Fiat,2025,3000,Hibrid,Avtomatski,101,19490,Pravna oseba
-KG Mobility Tivoli,KG,,,Bencin,Avtomatski,163,19679,Pravna oseba
-KG Mobility Korando,KG,,,Bencin,Avtomatski,163,24999,Pravna oseba
-KG Mobility Torres,KG,,,Električni pogon,Avtomatski,207,37999,Pravna oseba
-KG Mobility Torres,KG,,,Električni pogon,Avtomatski,207,46999,Pravna oseba
-KG Mobility Torres,KG,,,Električni pogon,Avtomatski,207,27790,Pravna oseba
-KG Mobility Torres,KG,,,Bencin,Avtomatski,163,27399,Pravna oseba
-KG Mobility Tivoli,KG,,,Bencin,Ročni,163,17499,Pravna oseba
-KG Mobility Korando,KG,,,Bencin,Ročni,163,19999,Pravna oseba
+KG Mobility Tivoli,KG Mobility,,,Bencin,Avtomatski,163,19679,Pravna oseba
+KG Mobility Korando,KG Mobility,,,Bencin,Avtomatski,163,24999,Pravna oseba
+KG Mobility Torres,KG Mobility,,,Električni pogon,Avtomatski,207,37999,Pravna oseba
+KG Mobility Torres,KG Mobility,,,Električni pogon,Avtomatski,207,46999,Pravna oseba
+KG Mobility Torres,KG Mobility,,,Električni pogon,Avtomatski,207,27790,Pravna oseba
+KG Mobility Torres,KG Mobility,,,Bencin,Avtomatski,163,27399,Pravna oseba
+KG Mobility Tivoli,KG Mobility,,,Bencin,Ročni,163,17499,Pravna oseba
+KG Mobility Korando,KG Mobility,,,Bencin,Ročni,163,19999,Pravna oseba
 KIA PV5,KIA,,,Električni pogon,Avtomatski,163,,Pravna oseba
-KG Mobility Korando,KG,,,Bencin,Ročni,163,21999,Pravna oseba
+KG Mobility Korando,KG Mobility,,,Bencin,Ročni,163,21999,Pravna oseba
 KIA PV5,KIA,,,Električni pogon,Avtomatski,163,,Pravna oseba
-KG Mobility Musso,KG,,,Dizel,Avtomatski,201,36990,Pravna oseba
+KG Mobility Musso,KG Mobility,,,Dizel,Avtomatski,201,36990,Pravna oseba
 KIA XCeed,KIA,2026,7000,Bencin,Avtomatski,150,28990,Pravna oseba
-KG Mobility -,KG,,,Hibrid,Avtomatski,177,43499,Pravna oseba
-KG Mobility Musso,KG,,,Dizel,Avtomatski,201,36999,Pravna oseba
-KG Mobility Torres,KG,,,Bencin,Ročni,163,27399,Pravna oseba
+KG Mobility -,KG Mobility,,,Hibrid,Avtomatski,177,43499,Pravna oseba
+KG Mobility Musso,KG Mobility,,,Dizel,Avtomatski,201,36999,Pravna oseba
+KG Mobility Torres,KG Mobility,,,Bencin,Ročni,163,27399,Pravna oseba
 KIA EV3,KIA,,,Električni pogon,Avtomatski,204,34990,Pravna oseba
 KIA Stonic,KIA,2025,1000,Bencin,Ročni,99,21599,Pravna oseba
 KIA Sportage,KIA,,,Bencin,Avtomatski,179,43499,Pravna oseba
-KG Mobility Torres,KG,,,Bencin,Ročni,163,26999,Pravna oseba
+KG Mobility Torres,KG Mobility,,,Bencin,Ročni,163,26999,Pravna oseba
 Fiat 600,Fiat,2025,5000,Hibrid,Avtomatski,110,22490,Pravna oseba
-KG Mobility Musso,KG,,,Dizel,Avtomatski,201,36999,Pravna oseba
-KG Mobility Torres,KG,,,Bencin,Avtomatski,163,29699,Pravna oseba
-KG Mobility Rexton,KG,,,Dizel,Avtomatski,203,41999,Pravna oseba
+KG Mobility Musso,KG Mobility,,,Dizel,Avtomatski,201,36999,Pravna oseba
+KG Mobility Torres,KG Mobility,,,Bencin,Avtomatski,163,29699,Pravna oseba
+KG Mobility Rexton,KG Mobility,,,Dizel,Avtomatski,203,41999,Pravna oseba
 KIA PV5,KIA,,,Električni pogon,Avtomatski,163,41599,Pravna oseba
 KIA Stonic,KIA,,,Bencin,Avtomatski,120,28849,Pravna oseba
 KIA Sorento,KIA,,,Dizel,Avtomatski,193,66199,Pravna oseba
-KG Mobility Torres,KG,2025,16600,Bencin,Avtomatski,163,25990,Pravna oseba
-KG Mobility Rexton,KG,,,Dizel,Avtomatski,203,41999,Pravna oseba
+KG Mobility Torres,KG Mobility,2025,16600,Bencin,Avtomatski,163,25990,Pravna oseba
+KG Mobility Rexton,KG Mobility,,,Dizel,Avtomatski,203,41999,Pravna oseba
 KIA EV3,KIA,2025,800,Električni pogon,Avtomatski,204,39990,Pravna oseba
 KIA EV6,KIA,,,Električni pogon,Avtomatski,325,56999,Pravna oseba
-KG Mobility Torres,KG,,,Bencin,Avtomatski,163,33099,Pravna oseba
+KG Mobility Torres,KG Mobility,,,Bencin,Avtomatski,163,33099,Pravna oseba
 KIA Sorento,KIA,,,Dizel,Avtomatski,193,66199,Pravna oseba
 KIA EV3,KIA,,,Električni pogon,Avtomatski,204,34279,Pravna oseba
 SsangYong Tivoli,SsangYong,,,Bencin,Ročni,163,21999,Pravna oseba
@@ -5196,7 +5197,7 @@ Ford S-MAX,Ford,2016,270624,Dizel,Avtomatski,179,7490,Pravna oseba
 DS DS 9,DS,2024,106,Hibrid,Avtomatski,364,44990,Pravna oseba
 KIA Sportage,KIA,2022,95076,Bencin,Ročni,150,21222,Pravna oseba
 Škoda Octavia,Škoda,2015,404709,Dizel,Avtomatski,150,5999,Pravna oseba
-KG Mobility Tivoli,KG,,,Bencin,Ročni,163,16,Fizična oseba
+KG Mobility Tivoli,KG Mobility,,,Bencin,Ročni,163,16,Fizična oseba
 Peugeot 2008,Peugeot,2025,30005,Bencin,Avtomatski,136,20500,Pravna oseba
 Peugeot 2008,Peugeot,2025,28392,Bencin,Ročni,101,17490,Pravna oseba
 Peugeot 2008,Peugeot,2024,27550,Bencin,Ročni,101,16990,Pravna oseba
@@ -6158,23 +6159,23 @@ Fiat Grande Panda,Fiat,,,Hibrid,Avtomatski,101,17090,Pravna oseba
 Fiat Grande Panda,Fiat,,,Hibrid,Avtomatski,101,18900,Pravna oseba
 Fiat Panda,Fiat,,,Bencin,Ročni,65,12990,Pravna oseba
 Fiat Tipo,Fiat,2022,46750,Bencin,Ročni,99,11990,Pravna oseba
-KG Mobility Korando,KG,,,Bencin,Ročni,163,,Pravna oseba
+KG Mobility Korando,KG Mobility,,,Bencin,Ročni,163,,Pravna oseba
 KIA Sportage,KIA,,,Hibrid,Avtomatski,179,,Pravna oseba
-KG Mobility Torres,KG,,,Bencin,Avtomatski,163,,Pravna oseba
-KG Mobility Korando,KG,,,Bencin,Avtomatski,163,,Pravna oseba
+KG Mobility Torres,KG Mobility,,,Bencin,Avtomatski,163,,Pravna oseba
+KG Mobility Korando,KG Mobility,,,Bencin,Avtomatski,163,,Pravna oseba
 Geely Cityray,Geely,,,Bencin,Avtomatski,174,,Pravna oseba
-KG Mobility Tivoli,KG,,,Bencin,Ročni,163,,Pravna oseba
+KG Mobility Tivoli,KG Mobility,,,Bencin,Ročni,163,,Pravna oseba
 Geely StarRay EM-i,Geely,,,Hibrid,Avtomatski,99,,Pravna oseba
-KG Mobility Torres,KG,,,Hibrid,Avtomatski,150,29999,Pravna oseba
-KG Mobility Korando,KG,,,Bencin,Ročni,163,23499,Pravna oseba
-KG Mobility Korando,KG,,,Bencin,Ročni,163,21999,Pravna oseba
+KG Mobility Torres,KG Mobility,,,Hibrid,Avtomatski,150,29999,Pravna oseba
+KG Mobility Korando,KG Mobility,,,Bencin,Ročni,163,23499,Pravna oseba
+KG Mobility Korando,KG Mobility,,,Bencin,Ročni,163,21999,Pravna oseba
 KIA Sportage,KIA,,,Bencin,Avtomatski,150,,Pravna oseba
 Geely StarRay,Geely,2025,17672,Bencin,Avtomatski,174,25000,Pravna oseba
 Geely StarRay,Geely,,,Bencin,Avtomatski,238,,Pravna oseba
 Geely Cityray,Geely,,,Bencin,Avtomatski,174,,Pravna oseba
 KIA XCeed,KIA,,,Bencin,Avtomatski,150,,Pravna oseba
 KIA XCeed,KIA,,,Bencin,Avtomatski,150,,Pravna oseba
-KG Mobility Torres,KG,,,Bencin,Avtomatski,163,27999,Pravna oseba
+KG Mobility Torres,KG Mobility,,,Bencin,Avtomatski,163,27999,Pravna oseba
 KIA XCeed,KIA,,,Bencin,Avtomatski,150,,Pravna oseba
 KIA XCeed,KIA,,,Bencin,Avtomatski,150,,Pravna oseba
 KIA XCeed,KIA,,,Bencin,Avtomatski,150,,Pravna oseba
@@ -6191,14 +6192,14 @@ KIA Sportage,KIA,,,Bencin,Ročni,150,,Pravna oseba
 KIA Sportage,KIA,,,Bencin,Ročni,150,,Pravna oseba
 KIA Ceed,KIA,,,Bencin,Ročni,101,19849,Pravna oseba
 Geely Cityray,Geely,,,Bencin,Avtomatski,174,,Pravna oseba
-KG Mobility Torres,KG,,,Električni pogon,Avtomatski,207,34990,Pravna oseba
+KG Mobility Torres,KG Mobility,,,Električni pogon,Avtomatski,207,34990,Pravna oseba
 Geely Cityray,Geely,,,Bencin,Avtomatski,174,,Pravna oseba
 Geely StarRay EM-i,Geely,,,Bencin,Avtomatski,303,,Pravna oseba
 KIA Ceed,KIA,,,Bencin,Ročni,101,21449,Pravna oseba
-KG Mobility Tivoli,KG,,,Bencin,Ročni,163,,Pravna oseba
+KG Mobility Tivoli,KG Mobility,,,Bencin,Ročni,163,,Pravna oseba
 KIA Ceed,KIA,,,Bencin,Ročni,101,21449,Pravna oseba
 Geely StarRay EM-i,Geely,,,Bencin,Avtomatski,317,,Pravna oseba
-KG Mobility Korando,KG,,,Bencin,Ročni,163,,Pravna oseba
+KG Mobility Korando,KG Mobility,,,Bencin,Ročni,163,,Pravna oseba
 Jeep Compass,Jeep,,,Bencin,Avtomatski,145,34880,Pravna oseba
 KIA Stonic,KIA,,,Bencin,Ročni,101,22999,Pravna oseba
 KIA Stonic,KIA,,,Bencin,Avtomatski,101,21849,Pravna oseba
@@ -6733,7 +6734,6 @@ KIA Stonic,KIA,2023,1,Bencin,Ročni,84,13990,Pravna oseba
 Ford Kuga,Ford,2020,80274,Bencin,Ročni,150,15490,Pravna oseba
 Opel Crossland,Opel,2023,21003,Bencin,Ročni,110,12490,Pravna oseba
 KIA Ceed,KIA,,,Bencin,Ročni,101,,Pravna oseba
-KIA Ceed,KIA,,,Bencin,Ročni,101,,Pravna oseba
 Ford Mustang Mach-e,Ford,,,Električni pogon,Avtomatski,375,57563,Pravna oseba
 Ford E-Transit Custom,Ford,2023,72225,Dizel,Ročni,150,,Pravna oseba
 Ford Mustang Mach-e,Ford,,,Električni pogon,Avtomatski,375,Cena po dogovoru,Pravna oseba
@@ -6762,12 +6762,12 @@ BMW X1,BMW,2013,147082,Dizel,Avtomatski,143,,Pravna oseba
 Citroën C3 Aircross,Citroën,,,Bencin,Avtomatski,145,22590,Pravna oseba
 Ford Kuga,Ford,2026,1,Hibrid,Avtomatski,179,34190,Pravna oseba
 SsangYong Korando,SsangYong,2025,10199,Bencin,Ročni,163,19990,Pravna oseba
-KG Mobility Korando,KG,2025,10199,Bencin,Ročni,163,19990,Pravna oseba
+KG Mobility Korando,KG Mobility,2025,10199,Bencin,Ročni,163,19990,Pravna oseba
 Ford Focus,Ford,2021,204258,Dizel,Ročni,120,9990,Pravna oseba
 KIA Sportage,KIA,2022,75757,Bencin,Ročni,150,23490,Pravna oseba
 Ford Puma,Ford,2020,127611,Bencin,Ročni,125,,Pravna oseba
 KIA Ceed,KIA,2021,170718,Dizel,Ročni,136,14490,Pravna oseba
-KG Mobility -,KG,,,Hibrid,Avtomatski,150,42599,Pravna oseba
+KG Mobility -,KG Mobility,,,Hibrid,Avtomatski,150,42599,Pravna oseba
 Citroën C-Elysée,Citroën,2016,95800,Dizel,Ročni,99,4990,Pravna oseba
 Ford Tourneo Connect,Ford,,,Dizel,Avtomatski,122,35630,Pravna oseba
 Ford Mustang,Ford,,,Bencin,Avtomatski,446,,Pravna oseba
@@ -6775,7 +6775,7 @@ Ford Capri,Ford,,,Električni pogon,Avtomatski,286,,Pravna oseba
 Ford Kuga,Ford,,,Hibrid,Avtomatski,242,30763,Pravna oseba
 Ford Ecosport,Ford,2022,54980,Bencin,Ročni,125,,Pravna oseba
 Citroën C3 Aircross,Citroën,,,Bencin,Ročni,101,19290,Pravna oseba
-KG Mobility Torres,KG,,,Hibrid,Avtomatski,204,,Pravna oseba
+KG Mobility Torres,KG Mobility,,,Hibrid,Avtomatski,204,,Pravna oseba
 Ford Puma,Ford,,,Bencin,Ročni,125,Cena po dogovoru,Pravna oseba
 Peugeot 208,Peugeot,2015,119837,Bencin,Ročni,82,6490,Pravna oseba
 Ford Tourneo Connect,Ford,2026,1500,Dizel,Ročni,114,28390,Pravna oseba
@@ -6791,7 +6791,7 @@ KIA Stonic,KIA,,,Bencin,Avtomatski,101,23349,Pravna oseba
 KIA PV5,KIA,,,Električni pogon,Avtomatski,121,,Pravna oseba
 Citroën C3 Aircross,Citroën,2025,11200,Bencin,Ročni,101,16490,Pravna oseba
 Citroën C3 Aircross,Citroën,,,Bencin,Avtomatski,145,23790,Pravna oseba
-KG Mobility Torres,KG,,,Bencin,Avtomatski,163,,Pravna oseba
+KG Mobility Torres,KG Mobility,,,Bencin,Avtomatski,163,,Pravna oseba
 Ford Focus,Ford,,,Bencin,Avtomatski,155,26421,Pravna oseba
 Audi A5,Audi,2021,138800,Dizel,Avtomatski,204,,Pravna oseba
 KIA Niro,KIA,,,Električni pogon,Avtomatski,204,,Pravna oseba
@@ -6810,13 +6810,13 @@ Ford Kuga,Ford,2022,46555,Bencin,Ročni,150,,Pravna oseba
 Ford Tourneo,Ford,,,Električni pogon,Avtomatski,136,32975,Pravna oseba
 KIA EV3,KIA,,,Električni pogon,Avtomatski,204,34279,Pravna oseba
 Citroën Jumpy,Citroën,2026,1,Dizel,Avtomatski,179,36890,Pravna oseba
-KG Mobility Torres,KG,,,Bencin,Avtomatski,163,,Pravna oseba
+KG Mobility Torres,KG Mobility,,,Bencin,Avtomatski,163,,Pravna oseba
 KIA Sportage,KIA,,,Bencin,Avtomatski,150,30499,Pravna oseba
 Ford Ranger,Ford,2026,1,Dizel,Avtomatski,205,,Pravna oseba
 KIA Stonic,KIA,,,Bencin,Ročni,101,21849,Pravna oseba
 Ford Ka,Ford,2019,59038,Bencin,Ročni,86,8890,Pravna oseba
 KIA XCeed,KIA,2024,30540,Bencin,Avtomatski,204,27490,Pravna oseba
-KG Mobility Korando,KG,,,Bencin,Ročni,163,,Pravna oseba
+KG Mobility Korando,KG Mobility,,,Bencin,Ročni,163,,Pravna oseba
 KIA XCeed,KIA,,,Bencin,Avtomatski,150,24849,Pravna oseba
 KIA XCeed,KIA,,,Bencin,Avtomatski,150,26799,Pravna oseba
 Citroën C3,Citroën,2026,1,Bencin,Avtomatski,110,17390,Pravna oseba
@@ -6827,8 +6827,8 @@ Ford Ecosport,Ford,2022,36187,Bencin,Avtomatski,125,16490,Pravna oseba
 Citroën C3,Citroën,2025,1,Bencin,Avtomatski,110,19090,Pravna oseba
 Ford E-Transit Custom,Ford,,,Hibrid,Avtomatski,232,47157,Pravna oseba
 MG MG3,MG,2024,13900,Hibrid,Avtomatski,170,18490,Pravna oseba
-KG Mobility Korando,KG,,,Bencin,Ročni,163,19999,Pravna oseba
-KG Mobility Tivoli,KG,2024,8580,Bencin,Ročni,163,,Pravna oseba
+KG Mobility Korando,KG Mobility,,,Bencin,Ročni,163,19999,Pravna oseba
+KG Mobility Tivoli,KG Mobility,2024,8580,Bencin,Ročni,163,,Pravna oseba
 SsangYong Korando,SsangYong,2019,132718,Bencin,Ročni,163,,Pravna oseba
 Citroën C3 Aircross,Citroën,,,Bencin,Ročni,101,19890,Pravna oseba
 Ford Ranger,Ford,,,Bencin,Avtomatski,281,58280,Pravna oseba
@@ -6855,7 +6855,7 @@ Ford Kuga,Ford,,,Bencin,Ročni,150,27802,Pravna oseba
 Ford Kuga,Ford,,,Bencin,Avtomatski,186,26055,Pravna oseba
 KIA EV3,KIA,,,Električni pogon,Avtomatski,204,34279,Pravna oseba
 KIA Picanto,KIA,,,Bencin,Ročni,79,16149,Pravna oseba
-KG Mobility Korando,KG,,,Bencin,Ročni,163,23499,Pravna oseba
+KG Mobility Korando,KG Mobility,,,Bencin,Ročni,163,23499,Pravna oseba
 Ford Ecosport,Ford,2022,31467,Bencin,Avtomatski,125,16690,Pravna oseba
 Ford Explorer,Ford,,,Električni pogon,Avtomatski,286,40828,Pravna oseba
 KIA Sportage,KIA,,,Bencin,Avtomatski,179,42799,Pravna oseba
@@ -6880,29 +6880,29 @@ Citroën C3,Citroën,,,Električni pogon,Avtomatski,113,Cena po dogovoru,Pravna 
 Ford Explorer,Ford,,,Električni pogon,Avtomatski,286,39982,Pravna oseba
 KIA Stonic,KIA,,,Bencin,Ročni,79,16649,Pravna oseba
 KIA Picanto,KIA,,,Bencin,Ročni,63,15149,Pravna oseba
-KG Mobility Tivoli,KG,,,Bencin,Ročni,163,,Pravna oseba
-KG Mobility Torres,KG,,,Električni pogon,Avtomatski,207,,Pravna oseba
-KG Mobility Torres,KG,,,Električni pogon,Avtomatski,207,,Pravna oseba
+KG Mobility Tivoli,KG Mobility,,,Bencin,Ročni,163,,Pravna oseba
+KG Mobility Torres,KG Mobility,,,Električni pogon,Avtomatski,207,,Pravna oseba
+KG Mobility Torres,KG Mobility,,,Električni pogon,Avtomatski,207,,Pravna oseba
 KIA Stonic,KIA,,,Bencin,Ročni,79,16649,Pravna oseba
 KIA XCeed,KIA,,,Bencin,Ročni,116,23799,Pravna oseba
 Ford Puma,Ford,,,Električni pogon,Avtomatski,169,33526,Pravna oseba
-KG Mobility Torres,KG,,,Bencin,Avtomatski,163,,Pravna oseba
-KG Mobility Torres,KG,,,Bencin,Ročni,163,,Pravna oseba
+KG Mobility Torres,KG Mobility,,,Bencin,Avtomatski,163,,Pravna oseba
+KG Mobility Torres,KG Mobility,,,Bencin,Ročni,163,,Pravna oseba
 Ford C-MAX,Ford,2018,127381,Bencin,Ročni,125,,Pravna oseba
 Citroën C3,Citroën,2026,1,Bencin,Ročni,101,15290,Pravna oseba
 Citroën C3,Citroën,2026,120,Bencin,Ročni,101,15190,Pravna oseba
 KIA Picanto,KIA,,,Bencin,Ročni,63,15149,Pravna oseba
 KIA Stonic,KIA,,,Bencin,Ročni,79,16649,Pravna oseba
 Ford Capri,Ford,,,Električni pogon,Avtomatski,340,Cena po dogovoru,Pravna oseba
-KG Mobility Torres,KG,,,Bencin,Ročni,163,,Pravna oseba
-KG Mobility Torres,KG,2024,22510,Bencin,Avtomatski,163,,Pravna oseba
+KG Mobility Torres,KG Mobility,,,Bencin,Ročni,163,,Pravna oseba
+KG Mobility Torres,KG Mobility,2024,22510,Bencin,Avtomatski,163,,Pravna oseba
 SsangYong Musso,SsangYong,2024,6528,Dizel,Avtomatski,203,,Pravna oseba
-KG Mobility Torres,KG,,,Bencin,Ročni,163,,Pravna oseba
-KG Mobility Tivoli,KG,,,Bencin,Ročni,163,,Pravna oseba
+KG Mobility Torres,KG Mobility,,,Bencin,Ročni,163,,Pravna oseba
+KG Mobility Tivoli,KG Mobility,,,Bencin,Ročni,163,,Pravna oseba
 Citroën C3,Citroën,2026,1,Bencin,Ročni,101,14790,Pravna oseba
 Citroën C3,Citroën,,,Bencin,Ročni,101,Cena po dogovoru,Pravna oseba
 Ford Ecosport,Ford,2019,118000,Bencin,Ročni,125,,Pravna oseba
-KG Mobility Tivoli,KG,,,Bencin,Ročni,163,,Pravna oseba
+KG Mobility Tivoli,KG Mobility,,,Bencin,Ročni,163,,Pravna oseba
 KIA Sorento,KIA,,,Dizel,Avtomatski,193,,Pravna oseba
 Ford Focus,Ford,2021,57575,Bencin,Ročni,125,,Pravna oseba
 KIA Ceed,KIA,,,Bencin,Ročni,101,,Pravna oseba
@@ -7028,7 +7028,7 @@ Jaecoo 7 SHS,Jaecoo,,,Hibrid,Avtomatski,224,25990,Pravna oseba
 Jaecoo 7 SHS,Jaecoo,,,Hibrid,Avtomatski,224,25990,Pravna oseba
 Jaecoo 7 SHS,Jaecoo,,,Hibrid,Avtomatski,224,25990,Pravna oseba
 Jaecoo 7 SHS,Jaecoo,,,Hibrid,Avtomatski,224,25990,Pravna oseba
-KG Mobility Korando,KG,2025,14657,Bencin,Avtomatski,163,22299,Pravna oseba
+KG Mobility Korando,KG Mobility,2025,14657,Bencin,Avtomatski,163,22299,Pravna oseba
 Volkswagen Golf,Volkswagen,2025,6200,Bencin,Ročni,116,21650,Pravna oseba
 Volvo S90,Volvo,2020,128100,Dizel,Avtomatski,150,24900,Pravna oseba
 Volkswagen Golf,Volkswagen,2015,208000,Bencin,Avtomatski,110,8600,Pravna oseba
@@ -7192,7 +7192,7 @@ Mercedes-Benz C-Razred,Mercedes-Benz,2022,115593,Dizel,Avtomatski,197,,Pravna os
 Mercedes-Benz SL-Razred,Mercedes-Benz,2024,4014,Bencin,Avtomatski,585,177990,Pravna oseba
 Volvo V90 Cross Country,Volvo,2019,137810,Dizel,Avtomatski,190,,Pravna oseba
 Mercedes-Benz V-Razred,Mercedes-Benz,2020,104627,Dizel,Avtomatski,163,,Pravna oseba
-KG Mobility Korando,KG,2024,27987,Bencin,Ročni,163,21499,Pravna oseba
+KG Mobility Korando,KG Mobility,2024,27987,Bencin,Ročni,163,21499,Pravna oseba
 Renault Twingo,Renault,,,Električni pogon,Avtomatski,82,,Pravna oseba
 MG MGS5 EV,MG,2026,1500,Električni pogon,Avtomatski,231,Cena po dogovoru,Pravna oseba
 Opel Vivaro,Opel,2018,130800,Dizel,Ročni,125,,Pravna oseba

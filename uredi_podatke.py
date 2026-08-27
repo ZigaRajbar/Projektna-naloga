@@ -36,6 +36,7 @@ def uredi_raw_podatke(podatki):
             "DS Automobiles",
             "Great Wall",
             "Lynk & Co",
+            "KG Mobility",
         ]
 
         if ime_avta:
@@ -58,7 +59,7 @@ def uredi_raw_podatke(podatki):
 
         if "Fizična oseba" in podatki_oglasa:
             prodajalec = "Fizična oseba"
-        elif 'href="/trgovec/' in podatki_oglasa:
+        elif "/trgovec/" in podatki_oglasa:
             prodajalec = "Pravna oseba"
         else:
             prodajalec = None
