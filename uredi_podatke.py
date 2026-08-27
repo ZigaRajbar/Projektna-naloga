@@ -20,7 +20,7 @@ def uredi_raw_podatke(podatki):
         letnik = re.search(r">(19\d\d|20\d\d)<", podatki_oglasa)
         kilometrina = re.search(r">([\d.]+) km<", podatki_oglasa)
         vrsta_goriva = re.search(
-            r">(Bencin|Dizel|Elektrika|Hibrid|Plin)<", podatki_oglasa
+            r">(Bencin|Dizel|Električni pogon|Hibrid|Plin)<", podatki_oglasa
         )
         menjalnik = re.search(r">(Avtomatski|Ročni)<", podatki_oglasa)
         moc_motorja = re.search(r"\((\d+)KM\)", podatki_oglasa)
