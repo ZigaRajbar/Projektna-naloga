@@ -17,39 +17,39 @@ def uredi_raw_podatke(podatki):
         podatki_oglasa = str(avto)
 
         ime_avta = re.search(
-            r'<h2[^>]*>\s*([^<]+)\s*</h2>',
+            r"<h2[^>]*>\s*([^<]+)\s*</h2>",
             podatki_oglasa,
         )
 
         letnik = re.search(
-            r'<span>((?:19|20)\d{2})</span>',
+            r"<span>((?:19|20)\d{2})</span>",
             podatki_oglasa,
         )
 
         kilometrina = re.search(
-            r'<span>([\d.]+)\s*km</span>',
+            r"<span>([\d.]+)\s*km</span>",
             podatki_oglasa,
         )
 
         vrsta_goriva = re.search(
-            r'<span>(Bencin|Dizel|Elektrika|Hibrid|Plin)</span>',
+            r"<span>(Bencin|Dizel|Elektrika|Hibrid|Plin)</span>",
             podatki_oglasa,
         )
 
         menjalnik = re.search(
-            r'<span>(Avtomatski|Ročni)</span>',
+            r"<span>(Avtomatski|Ročni)</span>",
             podatki_oglasa,
         )
 
         moc_motorja = re.search(
-            r'\((\d+)\s*KM\)',
+            r"\((\d+)\s*KM\)",
             podatki_oglasa,
         )
 
         cena = re.search(
             r'class="(?:text-base text-gray-800 font-bold|'
             r'text-brand-800 text-2xl font-bold)">'
-            r'(\d{1,3}(?:\.\d{3})*)',
+            r"(\d{1,3}(?:\.\d{3})*)",
             podatki_oglasa,
         )
 
